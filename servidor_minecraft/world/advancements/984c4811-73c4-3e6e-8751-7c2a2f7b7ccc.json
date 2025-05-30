@@ -12091,6 +12091,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-05-30 23:16:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-30 22:57:24 +0000"
@@ -12112,6 +12118,12 @@
   "create:recipes/building_blocks/vertical_framed_glass_from_colorless_glass_stonecutting": {
     "criteria": {
       "has_colorless_glass": "2025-05-30 22:57:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-05-30 23:16:34 +0000"
     },
     "done": true
   },
@@ -12199,6 +12211,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_15_runners": {
+    "criteria": {
+      "runners_killed": "2025-05-30 23:14:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/reinforced_glass": {
     "criteria": {
       "has_glass": "2025-05-30 22:57:24 +0000"
@@ -12214,6 +12232,12 @@
   "soulsweapons:recipes/misc/glass_vial": {
     "criteria": {
       "has_item": "2025-05-30 22:57:24 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-05-30 23:16:34 +0000"
     },
     "done": true
   },

@@ -10378,21 +10378,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+  "minecells:book/mobs/shieldbearer": {
     "criteria": {
-      "has_ink_sac": "2025-05-30 19:21:56 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/undead_archer": {
-    "criteria": {
-      "requirement": "2025-05-30 19:09:26 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/glass_black": {
-    "criteria": {
-      "has_dyes/black": "2025-05-30 19:21:56 +0000"
+      "requirement": "2025-05-30 19:06:14 +0000"
     },
     "done": true
   },
@@ -10402,9 +10390,45 @@
     },
     "done": true
   },
-  "twigs:recipes/rocky_dirt": {
+  "minecells:book/mobs/leaping_zombie": {
     "criteria": {
-      "has_item": "2025-05-30 19:23:47 +0000"
+      "requirement": "2025-05-30 19:07:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-30 19:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2025-05-30 19:09:26 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-05-30 19:16:31 +0000"
+    },
+    "done": false
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-05-30 19:16:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 19:21:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 19:21:56 +0000"
     },
     "done": true
   },
@@ -10420,21 +10444,9 @@
     },
     "done": true
   },
-  "friendsandfoes:adventure/the_magicians": {
-    "criteria": {
-      "killed_illusioner": "2025-05-30 19:16:31 +0000"
-    },
-    "done": false
-  },
   "ae2:recipes/misc/network/cables/dense_covered_black": {
     "criteria": {
       "has_dyes/black": "2025-05-30 19:21:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-05-30 19:26:17 +0000"
     },
     "done": true
   },
@@ -10450,27 +10462,9 @@
     },
     "done": true
   },
-  "minecells:book/mobs/shieldbearer": {
-    "criteria": {
-      "requirement": "2025-05-30 19:06:14 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/smart_black": {
     "criteria": {
       "has_dyes/black": "2025-05-30 19:21:56 +0000"
-    },
-    "done": true
-  },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-05-30 19:08:13 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_from_pebble": {
-    "criteria": {
-      "has_item": "2025-05-30 19:23:47 +0000"
     },
     "done": true
   },
@@ -10498,15 +10492,21 @@
     },
     "done": true
   },
-  "minecells:book/mobs/leaping_zombie": {
+  "twigs:recipes/rocky_dirt": {
     "criteria": {
-      "requirement": "2025-05-30 19:07:09 +0000"
+      "has_item": "2025-05-30 19:23:47 +0000"
     },
     "done": true
   },
-  "friendsandfoes:adventure/kill_illusioner": {
+  "twigs:recipes/cobblestone_from_pebble": {
     "criteria": {
-      "killed_illusioner": "2025-05-30 19:16:31 +0000"
+      "has_item": "2025-05-30 19:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-30 19:26:17 +0000"
     },
     "done": true
   },
