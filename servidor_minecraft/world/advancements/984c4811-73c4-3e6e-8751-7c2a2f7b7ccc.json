@@ -3329,6 +3329,7 @@
       "minecraft:witch": "2025-05-30 19:15:06 +0000",
       "minecraft:vex": "2025-05-30 19:20:24 +0000",
       "minecraft:zombie": "2025-05-30 00:59:05 +0000",
+      "minecraft:drowned": "2025-05-30 19:25:48 +0000",
       "minecraft:zombie_villager": "2025-05-30 01:29:11 +0000"
     },
     "done": false
@@ -11367,6 +11368,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-30 19:25:56 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2025-05-30 19:15:07 +0000"
@@ -11494,6 +11501,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-30 19:25:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
     "criteria": {
       "has_refined_iron": "2025-05-30 17:48:51 +0000"
@@ -11616,6 +11629,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-30 19:25:56 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
     "criteria": {
       "has_blue_ice": "2025-05-30 19:16:40 +0000"
@@ -11637,6 +11656,12 @@
   "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
     "criteria": {
       "has_refined_iron": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-30 19:26:17 +0000"
     },
     "done": true
   },
@@ -11736,6 +11761,12 @@
     },
     "done": true
   },
+  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ram_armor_trim_smithing_template": "2025-05-30 19:25:56 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/larch_door": {
     "criteria": {
       "has_larch_planks": "2025-05-30 17:56:10 +0000"
@@ -11763,6 +11794,12 @@
   "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-30 19:25:56 +0000"
     },
     "done": true
   },
@@ -11907,6 +11944,12 @@
   "betterend:recipes/misc/cave_pumpkin_pie": {
     "criteria": {
       "has_sugar": "2025-05-30 19:15:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-30 19:25:56 +0000"
     },
     "done": true
   },

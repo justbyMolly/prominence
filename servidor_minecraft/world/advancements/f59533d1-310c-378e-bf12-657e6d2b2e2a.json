@@ -9216,6 +9216,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2025-05-30 19:26:57 +0000",
       "potato": "2025-05-30 18:04:00 +0000",
       "wheat": "2025-05-30 17:18:48 +0000"
     },
@@ -10643,9 +10644,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/onion_rings": {
+    "criteria": {
+      "has_onions": "2025-05-30 19:26:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-30 19:18:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-05-30 19:26:56 +0000"
     },
     "done": true
   },
@@ -10715,6 +10728,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 19:26:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
     "criteria": {
       "has_glass": "2025-05-30 19:18:02 +0000"
@@ -10723,13 +10742,20 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "killed_evoker": "2025-05-30 19:20:29 +0000"
+      "killed_evoker": "2025-05-30 19:20:29 +0000",
+      "killed_illusioner": "2025-05-30 19:24:20 +0000"
     },
     "done": false
   },
   "mcda:recipes/unique_armors/royal_guard_armor_boots": {
     "criteria": {
       "has_upgrade_item": "2025-05-30 19:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-30 19:26:17 +0000"
     },
     "done": true
   },
@@ -10829,6 +10855,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 19:26:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 19:26:56 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2025-05-30 19:07:11 +0000"
@@ -10838,6 +10876,12 @@
   "soulsweapons:recipes/misc/glass_vial": {
     "criteria": {
       "has_item": "2025-05-30 19:18:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-05-30 19:26:56 +0000"
     },
     "done": true
   },
@@ -10931,6 +10975,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-05-30 19:24:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
     "criteria": {
       "has_colorless_glass": "2025-05-30 19:18:02 +0000"
@@ -10940,6 +10990,12 @@
   "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
     "criteria": {
       "has_upgrade_item": "2025-05-30 19:20:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-05-30 19:26:56 +0000"
     },
     "done": true
   },

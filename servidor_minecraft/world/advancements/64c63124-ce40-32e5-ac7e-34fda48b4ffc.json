@@ -3334,6 +3334,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-30 19:03:02 +0000",
       "minecraft:skeleton": "2025-05-30 04:07:16 +0000",
+      "minecraft:ravager": "2025-05-30 19:25:46 +0000",
       "minecraft:vindicator": "2025-05-30 19:14:10 +0000",
       "minecraft:spider": "2025-05-30 03:45:44 +0000",
       "minecraft:witch": "2025-05-30 19:17:25 +0000",
@@ -10401,6 +10402,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-05-30 19:23:47 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/squid_armor_helmet": {
     "criteria": {
       "has_ink_sac": "2025-05-30 19:21:56 +0000"
@@ -10422,6 +10429,12 @@
   "ae2:recipes/misc/network/cables/dense_covered_black": {
     "criteria": {
       "has_dyes/black": "2025-05-30 19:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-30 19:26:17 +0000"
     },
     "done": true
   },
@@ -10452,6 +10465,12 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-05-30 19:08:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-05-30 19:23:47 +0000"
     },
     "done": true
   },
