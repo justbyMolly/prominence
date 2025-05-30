@@ -4063,6 +4063,7 @@
       "apple": "2025-05-30 01:14:41 +0000",
       "bread": "2025-05-30 01:03:51 +0000",
       "golden_apple": "2025-05-30 15:14:12 +0000",
+      "rotten_flesh": "2025-05-30 15:30:38 +0000",
       "salmon": "2025-05-30 01:50:53 +0000",
       "golden_carrot": "2025-05-30 01:34:28 +0000",
       "cooked_chicken": "2025-05-30 03:04:15 +0000"
@@ -9652,15 +9653,45 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-05-30 15:36:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-05-30 15:36:35 +0000"
+    },
+    "done": true
+  },
   "minecells:vine_rune": {
     "criteria": {
       "vine_rune": "2025-05-30 15:23:11 +0000"
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-05-30 15:36:35 +0000"
+    },
+    "done": true
+  },
   "minecells:elite": {
     "criteria": {
       "obelisk_activated": "2025-05-30 15:18:46 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-05-30 15:36:35 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-05-30 15:36:35 +0000"
     },
     "done": true
   },
@@ -9673,6 +9704,18 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_water": {
     "criteria": {
       "has_diamond_chestplate": "2025-05-30 15:02:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-30 15:36:35 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_black": {
+    "criteria": {
+      "has_item": "2025-05-30 15:36:35 +0000"
     },
     "done": true
   },

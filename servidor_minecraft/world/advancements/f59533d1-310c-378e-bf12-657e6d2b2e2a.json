@@ -2879,7 +2879,9 @@
       "cooked_cod": "2025-05-30 14:54:04 +0000",
       "mutton": "2025-05-30 02:29:42 +0000",
       "bread": "2025-05-30 01:46:31 +0000",
-      "rotten_flesh": "2025-05-30 02:33:04 +0000"
+      "golden_apple": "2025-05-30 15:29:10 +0000",
+      "rotten_flesh": "2025-05-30 02:33:04 +0000",
+      "cooked_salmon": "2025-05-30 15:36:27 +0000"
     },
     "done": false
   },
@@ -8551,6 +8553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-30 15:34:50 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_30_leaping_zombies": {
     "criteria": {
       "leaping_zombies_killed": "2025-05-30 15:20:16 +0000"
@@ -8605,6 +8613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-30 15:34:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-05-30 14:57:05 +0000"
@@ -8635,6 +8649,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-30 15:34:50 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/sausage": {
     "criteria": {
       "has_cooked_beef": "2025-05-30 14:53:41 +0000"
@@ -8653,9 +8673,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-05-30 15:34:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-05-30 14:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-30 15:34:50 +0000"
     },
     "done": true
   },
@@ -8677,6 +8709,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 15:34:50 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_freezing_foil": {
     "criteria": {
       "has_iron_nugget": "2025-05-30 14:56:12 +0000"
@@ -8686,6 +8724,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-05-30 14:56:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-05-30 15:34:36 +0000"
     },
     "done": true
   },

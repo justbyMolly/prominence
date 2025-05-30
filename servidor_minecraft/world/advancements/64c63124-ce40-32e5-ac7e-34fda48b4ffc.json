@@ -3570,6 +3570,7 @@
       "cooked_cod": "2025-05-30 04:10:19 +0000",
       "bread": "2025-05-30 03:46:01 +0000",
       "rotten_flesh": "2025-05-30 15:10:24 +0000",
+      "salmon": "2025-05-30 15:35:29 +0000",
       "cooked_chicken": "2025-05-30 15:17:46 +0000",
       "cooked_salmon": "2025-05-30 04:03:03 +0000"
     },
@@ -3973,6 +3974,7 @@
   },
   "techreborn:root": {
     "criteria": {
+      "crit_2": "2025-05-30 15:28:11 +0000",
       "crit_1": "2025-05-30 03:46:39 +0000"
     },
     "done": false
@@ -5603,9 +5605,33 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-05-30 15:33:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/emerald_gear_helmet": {
+    "criteria": {
+      "has_emerald": "2025-05-30 15:35:51 +0000"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2025-05-30 15:13:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-30 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-05-30 15:33:32 +0000"
     },
     "done": true
   },
@@ -5657,6 +5683,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-30 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-30 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
+    "criteria": {
+      "has_raw_silver": "2025-05-30 15:28:02 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/cooked_tuna_from_smoking_tuna": {
     "criteria": {
       "has_tuna": "2025-05-30 15:19:44 +0000"
@@ -5699,9 +5743,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/water_coolant_cell_10k": {
+    "criteria": {
+      "has_tin_ingot": "2025-05-30 15:28:56 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_cyan": {
     "criteria": {
       "has_item": "2025-05-30 15:13:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-30 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-30 15:28:11 +0000"
     },
     "done": true
   },
@@ -5714,6 +5776,12 @@
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2025-05-30 15:08:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-05-30 15:33:32 +0000"
     },
     "done": true
   },
@@ -5744,6 +5812,12 @@
   "betternether:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-05-30 15:14:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-05-30 15:33:32 +0000"
     },
     "done": true
   },
@@ -5795,6 +5869,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/tin_plate": {
+    "criteria": {
+      "has_tag_c_tin_ingots": "2025-05-30 15:28:56 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_trap": {
     "criteria": {
       "has_flint": "2025-05-30 15:09:57 +0000"
@@ -5825,6 +5905,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-05-30 15:28:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_lead": {
+    "criteria": {
+      "has_raw_lead_ores": "2025-05-30 15:27:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
     "criteria": {
       "has_golden_sword": "2025-05-30 15:09:39 +0000"
@@ -5849,6 +5941,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/tin_nugget": {
+    "criteria": {
+      "has_tin_ingot": "2025-05-30 15:28:56 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_suns_grace": {
     "criteria": {
       "has_gold_block": "2025-05-30 15:10:40 +0000"
@@ -5870,6 +5968,12 @@
   "betternether:recipes/transportation/nether_reed_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-05-30 15:14:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-30 15:28:11 +0000"
     },
     "done": true
   },
@@ -5900,6 +6004,12 @@
   "betternether:recipes/transportation/nether_sakura_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-05-30 15:14:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-05-30 15:35:51 +0000"
     },
     "done": true
   },
@@ -5939,6 +6049,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-30 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-05-30 15:33:32 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-05-30 15:14:27 +0000"
@@ -5948,6 +6070,12 @@
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2025-05-30 15:13:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_silver": {
+    "criteria": {
+      "has_raw_silver_ores": "2025-05-30 15:28:02 +0000"
     },
     "done": true
   },
@@ -5981,9 +6109,27 @@
     },
     "done": true
   },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2025-05-30 15:35:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2025-05-30 15:28:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-30 15:26:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-05-30 15:33:32 +0000"
     },
     "done": true
   },
@@ -6023,9 +6169,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/ruby_dust": {
+    "criteria": {
+      "has_tag_c_rubies": "2025-05-30 15:28:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
     "criteria": {
       "has_golden_boots": "2025-05-30 15:09:53 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
+    "criteria": {
+      "has_emerald": "2025-05-30 15:35:51 +0000"
     },
     "done": true
   },
@@ -6047,6 +6205,30 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-30 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-30 15:35:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
+    "criteria": {
+      "has_raw_silver": "2025-05-30 15:28:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-05-30 15:27:58 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2025-05-30 15:08:43 +0000"
@@ -6062,6 +6244,18 @@
   "croptopia:recipes/food/cooked_anchovy_from_smoking_anchovy": {
     "criteria": {
       "has_anchovy": "2025-05-30 15:21:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-30 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2025-05-30 15:28:56 +0000"
     },
     "done": true
   },
@@ -6095,6 +6289,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-05-30 15:28:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/tin_storage_block": {
+    "criteria": {
+      "has_tin_ingot": "2025-05-30 15:28:56 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chilli_relleno": {
     "criteria": {
       "has_egg": "2025-05-30 15:08:43 +0000"
@@ -6104,6 +6310,12 @@
   "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-05-30 15:10:40 +0000"
+    },
+    "done": true
+  },
+  "indrev:nikolite": {
+    "criteria": {
+      "checkInv": "2025-05-30 15:35:43 +0000"
     },
     "done": true
   },
@@ -6119,9 +6331,22 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_hawkbrand": {
+    "criteria": {
+      "has_emerald": "2025-05-30 15:35:51 +0000",
+      "has_the_recipe": "2025-05-30 15:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-05-30 15:26:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-05-30 15:27:58 +0000"
     },
     "done": true
   },
@@ -6164,6 +6389,18 @@
   "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-30 15:08:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-30 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-05-30 15:33:32 +0000"
     },
     "done": true
   },
@@ -6221,6 +6458,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/friend_pottery_sherd": {
+    "criteria": {
+      "has_emerald": "2025-05-30 15:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-05-30 15:09:57 +0000"
@@ -6251,15 +6494,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cell": {
+    "criteria": {
+      "has_tin_ingot": "2025-05-30 15:28:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
+    "criteria": {
+      "has_raw_lead": "2025-05-30 15:27:58 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_light_gray_double": {
     "criteria": {
       "has_item": "2025-05-30 15:13:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 15:30:14 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-05-30 15:14:27 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_green": {
+    "criteria": {
+      "has_emerald": "2025-05-30 15:35:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/emerald_nugget": {
+    "criteria": {
+      "has_emerald": "2025-05-30 15:35:51 +0000"
     },
     "done": true
   },
