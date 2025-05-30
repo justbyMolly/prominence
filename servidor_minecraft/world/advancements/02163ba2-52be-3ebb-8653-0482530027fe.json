@@ -9304,6 +9304,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-30 18:35:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/salmon_roll": {
     "criteria": {
       "has_salmon_slice": "2025-05-30 18:02:49 +0000"
@@ -9448,6 +9454,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_slabs": "2025-05-30 18:35:28 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
     "criteria": {
       "has_plank": "2025-05-30 18:04:15 +0000"
@@ -9466,9 +9478,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-30 18:35:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-05-30 18:04:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-05-30 18:35:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-05-30 18:35:28 +0000"
     },
     "done": true
   },
@@ -9532,9 +9562,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-05-30 18:35:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
     "criteria": {
       "cooked_salmon_slice": "2025-05-30 18:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-30 18:35:28 +0000"
     },
     "done": true
   },
@@ -9559,6 +9601,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-05-30 18:15:41 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-05-30 18:35:28 +0000"
     },
     "done": true
   },
@@ -9616,6 +9664,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-30 18:35:28 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mercenary_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-05-30 18:22:41 +0000"
@@ -9625,6 +9679,12 @@
   "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
     "criteria": {
       "has_item": "2025-05-30 18:15:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-05-30 18:39:16 +0000"
     },
     "done": true
   },

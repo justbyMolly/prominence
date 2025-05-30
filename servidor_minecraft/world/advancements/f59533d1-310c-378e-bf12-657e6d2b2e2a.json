@@ -2906,6 +2906,7 @@
       "minecraft:spider": "2025-05-30 01:49:00 +0000",
       "minecraft:creeper": "2025-05-30 02:17:14 +0000",
       "minecraft:phantom": "2025-05-30 02:23:40 +0000",
+      "minecraft:enderman": "2025-05-30 18:39:05 +0000",
       "minecraft:zombie": "2025-05-30 01:49:28 +0000",
       "minecraft:drowned": "2025-05-30 18:12:42 +0000"
     },
@@ -8559,6 +8560,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-05-30 18:33:09 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/birch_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-30 16:08:41 +0000"
@@ -8568,6 +8575,12 @@
   "botania:challenge/root": {
     "criteria": {
       "flower": "2025-05-30 18:11:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-05-30 18:33:09 +0000"
     },
     "done": true
   },
@@ -8722,9 +8735,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_4": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_3": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
+    "criteria": {
+      "has_raw_silver": "2025-05-30 18:34:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-05-30 18:19:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/redstone_root": {
+    "criteria": {
+      "has_item": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-05-30 18:33:15 +0000"
     },
     "done": true
   },
@@ -8824,6 +8867,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-05-30 18:37:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
     "criteria": {
       "has_log": "2025-05-30 17:02:47 +0000"
@@ -8842,6 +8903,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-30 18:01:25 +0000"
@@ -8851,6 +8918,24 @@
   "travelersbackpack:recipes/misc/squid": {
     "criteria": {
       "has_ink_sac": "2025-05-30 18:10:54 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-05-30 18:41:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-05-30 18:33:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
     },
     "done": true
   },
@@ -8914,6 +8999,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_red": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-05-30 18:33:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-05-30 18:12:44 +0000"
@@ -8965,6 +9068,18 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-05-30 18:37:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-05-30 18:33:15 +0000"
     },
     "done": true
   },
@@ -9025,6 +9140,12 @@
   "techreborn:recipes/extractor/white_dye_from_bone_meal": {
     "criteria": {
       "has_bone_meal": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-05-30 18:33:15 +0000"
     },
     "done": true
   },
@@ -9094,6 +9215,12 @@
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-30 18:01:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-05-30 18:34:55 +0000"
     },
     "done": true
   },
@@ -9223,6 +9350,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_black": {
     "criteria": {
       "has_dyes/black": "2025-05-30 18:10:54 +0000"
@@ -9331,6 +9464,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-05-30 18:33:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
     "criteria": {
       "has_tag_minecraft_wooden_stairs": "2025-05-30 17:54:20 +0000"
@@ -9364,6 +9503,12 @@
   "techreborn:recipes/wire_mill/copper_cable": {
     "criteria": {
       "has_copper_ingot": "2025-05-30 18:12:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_silver": {
+    "criteria": {
+      "has_raw_silver_ores": "2025-05-30 18:34:55 +0000"
     },
     "done": true
   },
@@ -9406,6 +9551,12 @@
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-30 18:01:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-05-30 18:33:09 +0000"
     },
     "done": true
   },
@@ -9511,6 +9662,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-05-30 17:18:54 +0000"
@@ -9538,6 +9695,18 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-05-30 14:58:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-05-30 18:41:53 +0000"
     },
     "done": true
   },
@@ -9595,6 +9764,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/redstone": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/basket": {
     "criteria": {
       "has_wheat": "2025-05-30 17:19:05 +0000"
@@ -9637,6 +9812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-30 18:41:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/blue_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-30 18:11:38 +0000"
@@ -9652,6 +9833,12 @@
   "bewitchment:recipes/decorations/acacia_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-30 16:08:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
+    "criteria": {
+      "has_raw_silver": "2025-05-30 18:34:55 +0000"
     },
     "done": true
   },
@@ -9676,6 +9863,12 @@
   "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
     "criteria": {
       "has_wheat": "2025-05-30 17:19:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/solid_fuel_generator": {
+    "criteria": {
+      "has_furnace": "2025-05-30 18:41:53 +0000"
     },
     "done": true
   },
@@ -9721,6 +9914,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/larch_button": {
     "criteria": {
       "has_larch_planks": "2025-05-30 17:45:41 +0000"
@@ -9742,6 +9941,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-05-30 18:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
     },
     "done": true
   },
@@ -9793,15 +9998,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/gingerbread": {
     "criteria": {
       "has_wheat": "2025-05-30 17:19:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/mauve_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-30 18:01:25 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_kiln": {
+    "criteria": {
+      "has_copper_block": "2025-05-30 18:41:53 +0000"
     },
     "done": true
   },
@@ -9829,9 +10052,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-05-30 18:37:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_copper_cable_alt": {
     "criteria": {
       "has_copper": "2025-05-30 18:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
     },
     "done": true
   },
@@ -9859,6 +10094,12 @@
     },
     "done": true
   },
+  "beachparty:radio": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/transportation/elder_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-30 18:01:25 +0000"
@@ -9868,6 +10109,18 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-30 18:01:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-05-30 18:34:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-05-30 18:33:15 +0000"
     },
     "done": true
   },
@@ -9901,6 +10154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-05-30 18:10:54 +0000"
@@ -9913,6 +10172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2025-05-30 18:12:44 +0000"
@@ -9922,6 +10187,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-05-30 18:12:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
+    "criteria": {
+      "has_furnace": "2025-05-30 18:41:53 +0000"
     },
     "done": true
   },
@@ -9952,6 +10223,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-05-30 18:10:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
     },
     "done": true
   },
@@ -9991,6 +10268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-05-30 14:57:05 +0000"
@@ -10012,6 +10295,12 @@
   "techreborn:recipes/crafting_table/cable/insulated_copper_cable": {
     "criteria": {
       "has_copper": "2025-05-30 18:12:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-05-30 18:33:09 +0000"
     },
     "done": true
   },
@@ -10060,6 +10349,12 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-05-30 18:19:58 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_rail": {
+    "criteria": {
+      "has_copper_block": "2025-05-30 18:33:15 +0000"
     },
     "done": true
   },
@@ -10117,6 +10412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-30 18:03:54 +0000"
@@ -10156,6 +10457,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-05-30 17:19:05 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_pulsar": {
+    "criteria": {
+      "has_copper_block": "2025-05-30 18:33:15 +0000"
     },
     "done": true
   },
@@ -10207,6 +10514,18 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/computer_normal": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/gray_sheet": {
     "criteria": {
       "has_gray_sheet": "2025-05-30 18:19:58 +0000"
@@ -10222,6 +10541,18 @@
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-05-30 18:12:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-05-30 18:33:15 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_barometer": {
+    "criteria": {
+      "has_copper_block": "2025-05-30 18:33:15 +0000"
     },
     "done": true
   },
