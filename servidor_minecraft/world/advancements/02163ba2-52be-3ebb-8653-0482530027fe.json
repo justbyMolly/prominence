@@ -768,6 +768,12 @@
     },
     "done": true
   },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-05-30 16:55:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2025-05-30 15:40:40 +0000"
@@ -1323,6 +1329,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-30 15:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-05-30 16:54:42 +0000"
     },
     "done": true
   },
@@ -1946,7 +1958,9 @@
     "criteria": {
       "cooked_cod": "2025-05-30 16:39:56 +0000",
       "bread": "2025-05-30 15:48:02 +0000",
-      "golden_carrot": "2025-05-30 16:34:25 +0000"
+      "rotten_flesh": "2025-05-30 16:49:08 +0000",
+      "golden_carrot": "2025-05-30 16:34:25 +0000",
+      "carrot": "2025-05-30 16:52:12 +0000"
     },
     "done": false
   },
@@ -3970,6 +3984,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-30 16:56:21 +0000",
       "minecraft:cold_ocean": "2025-05-30 15:42:16 +0000",
       "minecraft:forest": "2025-05-30 16:13:53 +0000",
       "minecraft:plains": "2025-05-30 16:20:12 +0000"
@@ -4802,6 +4817,12 @@
   "betterend:recipes/decorations/helix_tree_ladder": {
     "criteria": {
       "has_stick": "2025-05-30 15:40:43 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-30 16:48:17 +0000"
     },
     "done": true
   },
@@ -6262,6 +6283,12 @@
   "betternether:recipes/transportation/stalagnate_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-05-30 15:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-05-30 16:56:14 +0000"
     },
     "done": true
   },

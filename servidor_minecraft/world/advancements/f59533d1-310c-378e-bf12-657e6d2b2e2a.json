@@ -8578,6 +8578,12 @@
     },
     "done": true
   },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-05-30 16:56:45 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_30_leaping_zombies": {
     "criteria": {
       "leaping_zombies_killed": "2025-05-30 15:20:16 +0000"
