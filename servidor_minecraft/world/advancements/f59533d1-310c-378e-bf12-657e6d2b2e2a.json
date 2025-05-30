@@ -6544,6 +6544,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "larch_log": "2025-05-30 17:03:08 +0000",
       "maple_log": "2025-05-30 02:22:47 +0000"
     },
     "done": false
@@ -8560,6 +8561,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/golden_larch_shrub": {
+    "criteria": {
+      "has_golden_larch_sapling": "2025-05-30 17:02:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2025-05-30 17:03:08 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/spruce_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-30 16:08:41 +0000"
@@ -8569,6 +8582,12 @@
   "travelersbackpack:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-30 17:02:47 +0000"
     },
     "done": true
   },
@@ -8605,6 +8624,12 @@
   "croptopia:recipes/food/cooked_tuna_from_smoking_tuna": {
     "criteria": {
       "has_tuna": "2025-05-30 16:11:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-05-30 17:02:47 +0000"
     },
     "done": true
   },
@@ -8680,6 +8705,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-30 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/grape_jam": {
+    "criteria": {
+      "has_grape": "2025-05-30 17:04:38 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_food": {
     "criteria": {
       "cooked_tuna": "2025-05-30 16:11:14 +0000",
@@ -8687,6 +8724,12 @@
       "crab": "2025-05-30 16:19:08 +0000"
     },
     "done": false
+  },
+  "vinery:recipes/red_grape_bag": {
+    "criteria": {
+      "has_red_grape": "2025-05-30 17:04:38 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
@@ -8697,6 +8740,12 @@
   "travelersbackpack:recipes/misc/void_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/wine": {
+    "criteria": {
+      "has_grapes": "2025-05-30 17:04:38 +0000"
     },
     "done": true
   },
@@ -8754,6 +8803,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-30 17:03:08 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
@@ -8775,6 +8830,12 @@
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-05-30 14:57:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-05-30 17:02:47 +0000"
     },
     "done": true
   },
@@ -8805,6 +8866,12 @@
   "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-30 16:08:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_maple_sapling_from_red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_shrub": "2025-05-30 17:04:57 +0000"
     },
     "done": true
   },
@@ -8868,6 +8935,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/larch_shrub": {
+    "criteria": {
+      "has_larch_sapling": "2025-05-30 17:03:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
+    "criteria": {
+      "has_grass_variant": "2025-05-30 17:05:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
     "criteria": {
       "has_tag_minecraft_wooden_doors": "2025-05-30 15:34:36 +0000"
@@ -8895,6 +8974,12 @@
   "travelersbackpack:recipes/misc/tanks_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/grape_juice": {
+    "criteria": {
+      "has_grape": "2025-05-30 17:04:38 +0000"
     },
     "done": true
   },
@@ -9006,6 +9091,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2025-05-30 17:03:08 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/cooked_tuna_from_tuna": {
     "criteria": {
       "has_tuna": "2025-05-30 16:11:14 +0000"
@@ -9039,6 +9130,12 @@
   "techreborn:recipes/extractor/string_from_banner": {
     "criteria": {
       "has_banner": "2025-05-30 16:02:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_raisins": {
+    "criteria": {
+      "has_grapes": "2025-05-30 17:04:38 +0000"
     },
     "done": true
   },
