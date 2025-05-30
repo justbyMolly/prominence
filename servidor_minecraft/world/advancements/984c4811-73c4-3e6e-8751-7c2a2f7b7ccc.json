@@ -9694,6 +9694,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 17:11:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-30 16:58:10 +0000"
@@ -9790,6 +9796,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 17:11:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/salmon_roll": {
+    "criteria": {
+      "has_salmon_slice": "2025-05-30 17:11:39 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/food/grilled_garlic_from_smoking": {
     "criteria": {
       "has_item": "2025-05-30 15:38:41 +0000"
@@ -9799,6 +9817,12 @@
   "betternether:recipes/food/stalagnate_bowl_mushroom": {
     "criteria": {
       "has_red_mushroom": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2025-05-30 17:11:16 +0000"
     },
     "done": true
   },
@@ -9826,6 +9850,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-30 17:11:16 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/red_mushroom": {
     "criteria": {
       "has_red_mushroom": "2025-05-30 15:40:57 +0000"
@@ -9841,6 +9871,12 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-05-30 15:42:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/steamed_crab": {
+    "criteria": {
+      "has_crab": "2025-05-30 17:14:49 +0000"
     },
     "done": true
   },
@@ -9922,9 +9958,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-30 17:11:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-30 16:58:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-05-30 17:11:39 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/food/fugu_roll": {
+    "criteria": {
+      "has_fugu_slice": "2025-05-30 17:11:26 +0000"
     },
     "done": true
   },
@@ -9940,18 +9994,32 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/white_dye_from_bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-05-30 17:11:16 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pumpkin": {
     "criteria": {
       "has_pumpkin": "2025-05-30 15:40:32 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-05-30 17:11:16 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_food": {
     "criteria": {
+      "sea_lettuce": "2025-05-30 17:09:13 +0000",
       "cooked_shrimp": "2025-05-30 17:06:15 +0000",
       "cooked_tuna": "2025-05-30 17:02:08 +0000",
       "tuna": "2025-05-30 17:02:08 +0000",
-      "oyster": "2025-05-30 17:06:15 +0000"
+      "oyster": "2025-05-30 17:06:15 +0000",
+      "crab": "2025-05-30 17:14:49 +0000"
     },
     "done": false
   },
@@ -10018,6 +10086,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-30 16:58:10 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2025-05-30 17:11:15 +0000"
     },
     "done": true
   },
@@ -10105,6 +10179,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-30 17:11:16 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/blackstone_witch_altar": {
     "criteria": {
       "has_item": "2025-05-30 16:58:10 +0000"
@@ -10123,6 +10203,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/crab_legs": {
+    "criteria": {
+      "has_crab": "2025-05-30 17:14:49 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/sausage": {
     "criteria": {
       "has_cooked_beef": "2025-05-30 15:49:17 +0000"
@@ -10132,6 +10218,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2025-05-30 17:04:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-30 17:11:16 +0000"
     },
     "done": true
   },
@@ -10186,6 +10278,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-05-30 15:40:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-30 17:11:16 +0000"
     },
     "done": true
   },
@@ -10267,6 +10365,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-05-30 17:11:39 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/pumpkin": {
     "criteria": {
       "has_pumpkin": "2025-05-30 15:40:32 +0000"
@@ -10309,6 +10413,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2025-05-30 17:11:15 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/pumpkin_bars": {
     "criteria": {
       "has_pumpkin": "2025-05-30 15:40:32 +0000"
@@ -10342,6 +10452,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-05-30 15:42:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_white": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 17:11:16 +0000"
     },
     "done": true
   },
@@ -10423,9 +10539,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-05-30 17:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-30 16:58:10 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2025-05-30 17:11:15 +0000"
     },
     "done": true
   },
@@ -10438,6 +10566,12 @@
   "betternether:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2025-05-30 16:58:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-05-30 17:11:39 +0000"
     },
     "done": true
   },
@@ -10525,9 +10659,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-30 17:11:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 17:11:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {
       "has_blackstone_corner_trim": "2025-05-30 16:58:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-05-30 17:11:16 +0000"
     },
     "done": true
   },
@@ -10546,6 +10698,12 @@
   "stoneworks:recipes/building_blocks/blackstone_paver_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-30 16:58:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 17:11:16 +0000"
     },
     "done": true
   },
@@ -10570,6 +10728,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-30 16:58:10 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+    "criteria": {
+      "has_item": "2025-05-30 17:11:15 +0000"
     },
     "done": true
   },

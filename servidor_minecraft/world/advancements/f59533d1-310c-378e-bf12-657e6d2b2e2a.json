@@ -8627,6 +8627,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-05-30 17:15:47 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
     "criteria": {
       "has_log": "2025-05-30 17:02:47 +0000"
@@ -9136,6 +9142,18 @@
   "croptopia:recipes/campfire_raisins": {
     "criteria": {
       "has_grapes": "2025-05-30 17:04:38 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-05-30 17:15:47 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-05-30 17:15:47 +0000"
     },
     "done": true
   },

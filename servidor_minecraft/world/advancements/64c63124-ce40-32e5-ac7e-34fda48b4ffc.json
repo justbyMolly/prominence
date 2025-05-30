@@ -581,18 +581,22 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-05-30 03:43:15 +0000",
+      "autumnal_maple_forest": "2025-05-30 17:13:29 +0000",
       "maple_forest": "2025-05-30 03:44:07 +0000",
       "boreal_forest": "2025-05-30 03:48:06 +0000",
-      "temperate_grove": "2025-05-30 03:51:47 +0000"
+      "temperate_grove": "2025-05-30 03:51:47 +0000",
+      "gravel_beach": "2025-05-30 17:13:21 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-05-30 03:43:15 +0000",
+      "autumnal_maple_forest": "2025-05-30 17:13:29 +0000",
       "maple_forest": "2025-05-30 03:44:07 +0000",
       "boreal_forest": "2025-05-30 03:48:06 +0000",
-      "temperate_grove": "2025-05-30 03:51:47 +0000"
+      "temperate_grove": "2025-05-30 03:51:47 +0000",
+      "gravel_beach": "2025-05-30 17:13:21 +0000"
     },
     "done": false
   },
@@ -6044,6 +6048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-30 17:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-30 15:37:39 +0000"
@@ -6104,6 +6114,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2025-05-30 17:11:50 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_hammer": {
     "criteria": {
       "has_material": "2025-05-30 15:40:12 +0000"
@@ -6143,6 +6159,12 @@
   "mcda:recipes/unique_armors/gilded_glory_boots": {
     "criteria": {
       "has_upgrade_item": "2025-05-30 16:10:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-30 17:11:50 +0000"
     },
     "done": true
   },
@@ -6632,6 +6654,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-05-30 17:11:48 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:recipes/witch_hat": {
     "criteria": {
       "has_white_wool": "2025-05-30 16:13:46 +0000"
@@ -6698,6 +6726,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-30 17:11:48 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-05-30 15:09:37 +0000"
@@ -6737,6 +6771,12 @@
   "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
     "criteria": {
       "has_dye": "2025-05-30 16:11:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2025-05-30 17:10:50 +0000"
     },
     "done": true
   },
@@ -6803,6 +6843,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-30 15:08:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-30 17:11:48 +0000"
     },
     "done": true
   },
@@ -6974,6 +7020,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-05-30 17:11:50 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2025-05-30 15:33:32 +0000"
@@ -7001,6 +7053,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-05-30 16:13:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-30 17:11:50 +0000"
     },
     "done": true
   },
@@ -7097,6 +7155,12 @@
   "techreborn:recipes/crafting_table/cable/insulated_gold_cable": {
     "criteria": {
       "has_gold": "2025-05-30 15:52:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-30 17:11:50 +0000"
     },
     "done": true
   },
@@ -7371,6 +7435,12 @@
     },
     "done": true
   },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-05-30 17:11:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-30 15:08:56 +0000"
@@ -7470,6 +7540,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-05-30 16:13:46 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2025-05-30 17:10:50 +0000"
     },
     "done": true
   },
@@ -7788,6 +7864,12 @@
   "mcda:recipes/base_armors/battle_robe_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-30 15:52:36 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2025-05-30 17:10:50 +0000"
     },
     "done": true
   },
@@ -8318,6 +8400,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-05-30 16:13:46 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+    "criteria": {
+      "has_item": "2025-05-30 17:10:50 +0000"
     },
     "done": true
   },
