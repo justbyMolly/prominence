@@ -8602,6 +8602,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-05-30 16:29:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-05-30 16:19:32 +0000"
@@ -8629,6 +8635,12 @@
   "minecells:elite": {
     "criteria": {
       "obelisk_activated": "2025-05-30 15:22:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-30 16:29:18 +0000"
     },
     "done": true
   },
@@ -8691,6 +8703,12 @@
   "twigs:recipes/paper_lanterns/paper_lantern": {
     "criteria": {
       "has_item": "2025-05-30 14:57:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sponge_piece_from_cod": {
+    "criteria": {
+      "has_cod": "2025-05-30 16:29:18 +0000"
     },
     "done": true
   },
@@ -8796,6 +8814,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 16:29:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/rubber_from_log": {
     "criteria": {
       "has_rubber_log": "2025-05-30 16:05:19 +0000"
@@ -8892,6 +8916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-30 16:29:18 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/cypress_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-30 16:08:41 +0000"
@@ -8913,6 +8943,12 @@
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
     "criteria": {
       "has_tag_minecraft_wooden_fences": "2025-05-30 16:16:17 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-05-30 16:29:18 +0000"
     },
     "done": true
   },
