@@ -582,6 +582,7 @@
     "criteria": {
       "shrubland": "2025-05-30 03:43:15 +0000",
       "autumnal_maple_forest": "2025-05-30 17:13:29 +0000",
+      "muddy_river": "2025-05-30 17:26:49 +0000",
       "maple_forest": "2025-05-30 03:44:07 +0000",
       "boreal_forest": "2025-05-30 03:48:06 +0000",
       "temperate_grove": "2025-05-30 03:51:47 +0000",
@@ -593,6 +594,7 @@
     "criteria": {
       "shrubland": "2025-05-30 03:43:15 +0000",
       "autumnal_maple_forest": "2025-05-30 17:13:29 +0000",
+      "muddy_river": "2025-05-30 17:26:49 +0000",
       "maple_forest": "2025-05-30 03:44:07 +0000",
       "boreal_forest": "2025-05-30 03:48:06 +0000",
       "temperate_grove": "2025-05-30 03:51:47 +0000",
@@ -2769,6 +2771,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "larch_log": "2025-05-30 17:20:24 +0000",
       "maple_log": "2025-05-30 03:45:01 +0000"
     },
     "done": false
@@ -5694,6 +5697,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-05-30 17:26:22 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_hoe_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-05-30 15:40:12 +0000"
@@ -5763,6 +5772,12 @@
   "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-30 15:08:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2025-05-30 17:20:24 +0000"
     },
     "done": true
   },
@@ -5862,6 +5877,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
+    "criteria": {
+      "has_planks": "2025-05-30 17:20:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
     "criteria": {
       "has_ruby_gem": "2025-05-30 15:28:11 +0000"
@@ -5889,6 +5910,12 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-05-30 16:25:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-30 17:23:18 +0000"
     },
     "done": true
   },
@@ -5952,6 +5979,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:20:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_gold_ingot": "2025-05-30 15:52:36 +0000"
@@ -5979,6 +6012,12 @@
   "croptopia:recipes/food/cooked_tuna_from_smoking_tuna": {
     "criteria": {
       "has_tuna": "2025-05-30 15:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-30 17:26:22 +0000"
     },
     "done": true
   },
@@ -6105,6 +6144,12 @@
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-05-30 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 17:23:18 +0000"
     },
     "done": true
   },
@@ -6246,6 +6291,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-30 17:23:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-30 16:15:06 +0000"
@@ -6279,6 +6330,12 @@
   "justhammers:recipes/tools/gold_impact_hammer": {
     "criteria": {
       "has_material": "2025-05-30 15:10:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-05-30 17:26:22 +0000"
     },
     "done": true
   },
@@ -6438,6 +6495,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:20:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
     "criteria": {
       "has_lead_ingot": "2025-05-30 15:56:22 +0000"
@@ -6453,6 +6516,24 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-30 15:08:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 17:23:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 17:23:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:20:36 +0000"
     },
     "done": true
   },
@@ -6528,9 +6609,21 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/gemstone_blue": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-30 17:23:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-05-30 16:25:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:20:36 +0000"
     },
     "done": true
   },
@@ -6633,6 +6726,12 @@
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-30 16:25:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:20:36 +0000"
     },
     "done": true
   },
@@ -6768,6 +6867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-30 17:23:18 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
     "criteria": {
       "has_dye": "2025-05-30 16:11:12 +0000"
@@ -6876,6 +6981,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-30 17:23:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-30 15:40:05 +0000"
@@ -6942,6 +7053,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-30 17:20:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-30 15:40:05 +0000"
@@ -6978,9 +7095,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-05-30 17:22:44 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
     "criteria": {
       "has_tag_c_galena_ores": "2025-05-30 15:58:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-05-30 17:22:44 +0000"
     },
     "done": true
   },
@@ -7351,6 +7480,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:20:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-30 15:39:26 +0000"
@@ -7360,6 +7495,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-30 15:52:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_shrub": {
+    "criteria": {
+      "has_larch_sapling": "2025-05-30 17:20:25 +0000"
     },
     "done": true
   },
@@ -7603,6 +7744,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:20:36 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/glaives/spear_grave_bane": {
     "criteria": {
       "has_gold_ingot": "2025-05-30 15:52:36 +0000"
@@ -7612,6 +7759,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-05-30 15:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-30 17:26:22 +0000"
     },
     "done": true
   },
@@ -7729,6 +7882,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 17:23:18 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-05-30 15:58:04 +0000"
@@ -7756,6 +7915,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-30 15:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-30 17:23:18 +0000"
     },
     "done": true
   },
@@ -8001,6 +8166,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-05-30 17:24:23 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/netherrack_furnace": {
     "criteria": {
       "has_netherrack": "2025-05-30 15:08:56 +0000"
@@ -8016,6 +8187,12 @@
   "croptopia:recipes/chicken_and_dumplings": {
     "criteria": {
       "has_chicken": "2025-05-30 15:08:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:20:36 +0000"
     },
     "done": true
   },
@@ -8073,6 +8250,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2025-05-30 17:20:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
     "criteria": {
       "has_ruby_gem": "2025-05-30 15:28:11 +0000"
@@ -8094,6 +8277,12 @@
   "botania:recipes/decorations/apothecary_default": {
     "criteria": {
       "has_item": "2025-05-30 15:33:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/potato": {
+    "criteria": {
+      "has_potato": "2025-05-30 17:26:22 +0000"
     },
     "done": true
   },
@@ -8217,6 +8406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-30 17:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-05-30 15:09:57 +0000"
@@ -8328,6 +8523,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
     "criteria": {
       "has_raw_lead": "2025-05-30 15:27:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:20:36 +0000"
     },
     "done": true
   },
@@ -8514,6 +8715,12 @@
   "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
     "criteria": {
       "has_upgrade_item": "2025-05-30 16:10:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-30 17:23:18 +0000"
     },
     "done": true
   },

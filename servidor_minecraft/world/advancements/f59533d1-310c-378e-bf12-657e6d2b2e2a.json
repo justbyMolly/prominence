@@ -8567,6 +8567,24 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-30 17:25:32 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/larch_wood": {
     "criteria": {
       "has_log": "2025-05-30 17:03:08 +0000"
@@ -8578,6 +8596,12 @@
       "has_item": "2025-05-30 16:08:41 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-05-30 17:18:48 +0000"
+    },
+    "done": false
   },
   "travelersbackpack:recipes/misc/jukebox_upgrade": {
     "criteria": {
@@ -8621,6 +8645,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-05-30 17:19:05 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/cooked_tuna_from_smoking_tuna": {
     "criteria": {
       "has_tuna": "2025-05-30 16:11:14 +0000"
@@ -8630,6 +8660,12 @@
   "bewitchment:recipes/food/grilled_garlic_from_smoking": {
     "criteria": {
       "has_item": "2025-05-30 17:15:47 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-30 17:18:54 +0000"
     },
     "done": true
   },
@@ -8648,6 +8684,12 @@
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-05-30 16:19:32 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-30 17:18:54 +0000"
     },
     "done": true
   },
@@ -8681,6 +8723,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-05-30 17:19:05 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
     "criteria": {
       "has_stripped_log": "2025-05-30 15:46:36 +0000"
@@ -8705,6 +8753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-30 14:59:01 +0000"
@@ -8720,6 +8774,18 @@
   "croptopia:recipes/misc/grape_jam": {
     "criteria": {
       "has_grape": "2025-05-30 17:04:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/white_dye_from_bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-05-30 17:18:54 +0000"
     },
     "done": true
   },
@@ -8773,9 +8839,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-05-30 17:19:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
     "criteria": {
       "has_golden_chestplate": "2025-05-30 16:04:55 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-30 17:18:54 +0000"
     },
     "done": true
   },
@@ -8851,6 +8929,12 @@
     },
     "done": true
   },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2025-05-30 17:19:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2025-05-30 15:34:50 +0000"
@@ -8860,6 +8944,12 @@
   "croptopia:recipes/misc/crab_legs": {
     "criteria": {
       "has_crab": "2025-05-30 16:19:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_hoe": {
+    "criteria": {
+      "has_wooden_hoe": "2025-05-30 17:18:29 +0000"
     },
     "done": true
   },
@@ -8923,6 +9013,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2025-05-30 16:19:32 +0000"
@@ -8947,6 +9043,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-30 17:19:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
     "criteria": {
       "has_grass_variant": "2025-05-30 17:05:58 +0000"
@@ -8959,9 +9061,27 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2025-05-30 17:19:05 +0000"
+    },
+    "done": true
+  },
   "croptopia:knife": {
     "criteria": {
       "knife": "2025-05-30 16:19:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-30 17:19:05 +0000"
     },
     "done": true
   },
@@ -8977,9 +9097,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/tanks_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
+    "criteria": {
+      "has_wheat": "2025-05-30 17:19:05 +0000"
     },
     "done": true
   },
@@ -9013,6 +9145,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_white": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-05-30 16:29:18 +0000"
@@ -9022,6 +9160,18 @@
   "bewitchment:recipes/decorations/cypress_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-30 16:08:41 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2025-05-30 17:19:05 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2025-05-30 17:19:05 +0000"
     },
     "done": true
   },
@@ -9055,9 +9205,27 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-30 17:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-30 15:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-30 17:19:05 +0000"
     },
     "done": true
   },
@@ -9121,6 +9289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-30 15:34:50 +0000"
@@ -9133,15 +9307,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_banner": {
     "criteria": {
       "has_banner": "2025-05-30 16:02:09 +0000"
     },
     "done": true
   },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_wheat": "2025-05-30 17:19:05 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_raisins": {
     "criteria": {
       "has_grapes": "2025-05-30 17:04:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-05-30 17:18:54 +0000"
     },
     "done": true
   },
@@ -9157,9 +9349,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-30 17:19:05 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/coarse_dirt_slab": {
     "criteria": {
       "has_coarse_dirt": "2025-05-30 16:11:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 17:18:54 +0000"
     },
     "done": true
   },
@@ -9172,6 +9376,24 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-05-30 16:47:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-05-30 17:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-30 17:18:48 +0000"
     },
     "done": true
   },

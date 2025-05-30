@@ -9706,6 +9706,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-30 17:25:24 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/cooked_shrimp_from_shrimp": {
     "criteria": {
       "has_shrimp": "2025-05-30 17:04:43 +0000"
@@ -10353,6 +10359,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2025-05-30 17:27:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-30 16:58:10 +0000"
@@ -10386,6 +10398,12 @@
   "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-30 16:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 17:27:11 +0000"
     },
     "done": true
   },
@@ -10728,6 +10746,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-30 16:58:10 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 17:27:11 +0000"
     },
     "done": true
   },
