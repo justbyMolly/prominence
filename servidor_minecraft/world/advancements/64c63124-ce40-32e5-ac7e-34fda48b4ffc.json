@@ -3570,6 +3570,7 @@
       "cooked_cod": "2025-05-30 04:10:19 +0000",
       "bread": "2025-05-30 03:46:01 +0000",
       "rotten_flesh": "2025-05-30 15:10:24 +0000",
+      "cooked_chicken": "2025-05-30 15:17:46 +0000",
       "cooked_salmon": "2025-05-30 04:03:03 +0000"
     },
     "done": false
@@ -5462,7 +5463,11 @@
   },
   "croptopia:gather_food": {
     "criteria": {
-      "toast": "2025-05-30 04:12:36 +0000"
+      "anchovy": "2025-05-30 15:21:16 +0000",
+      "toast": "2025-05-30 04:12:36 +0000",
+      "cooked_tuna": "2025-05-30 15:19:44 +0000",
+      "tuna": "2025-05-30 15:19:44 +0000",
+      "crab": "2025-05-30 15:18:37 +0000"
     },
     "done": false
   },
@@ -5622,6 +5627,12 @@
     },
     "done": true
   },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-30 15:17:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-05-30 15:09:57 +0000"
@@ -5643,6 +5654,12 @@
   "botania:recipes/tools/flower_bag": {
     "criteria": {
       "has_item": "2025-05-30 15:13:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_tuna_from_smoking_tuna": {
+    "criteria": {
+      "has_tuna": "2025-05-30 15:19:44 +0000"
     },
     "done": true
   },
@@ -5703,6 +5720,12 @@
   "techreborn:recipes/industrial_grinder/netherrack_with_water": {
     "criteria": {
       "has_netherrack": "2025-05-30 15:08:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/steamed_crab": {
+    "criteria": {
+      "has_crab": "2025-05-30 15:18:37 +0000"
     },
     "done": true
   },
@@ -5808,6 +5831,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_anchovy_from_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-05-30 15:21:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-30 15:08:56 +0000"
@@ -5829,6 +5858,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-05-30 15:08:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tuna_roll": {
+    "criteria": {
+      "has_tuna": "2025-05-30 15:19:44 +0000"
     },
     "done": true
   },
@@ -5928,6 +5963,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/crab_legs": {
+    "criteria": {
+      "has_crab": "2025-05-30 15:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-05-30 15:08:46 +0000"
@@ -5940,9 +5981,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-30 15:26:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-30 15:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-30 15:26:25 +0000"
     },
     "done": true
   },
@@ -5988,6 +6041,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/anchovy_pizza": {
+    "criteria": {
+      "has_anchovies": "2025-05-30 15:21:16 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2025-05-30 15:08:43 +0000"
@@ -5997,6 +6056,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-05-30 15:09:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_smoking_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-05-30 15:21:16 +0000"
     },
     "done": true
   },
@@ -6024,6 +6089,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-30 15:17:42 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chilli_relleno": {
     "criteria": {
       "has_egg": "2025-05-30 15:08:43 +0000"
@@ -6048,9 +6119,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-30 15:26:25 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/scrambled_eggs": {
     "criteria": {
       "has_egg": "2025-05-30 15:08:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-30 15:17:42 +0000"
     },
     "done": true
   },
@@ -6093,6 +6176,12 @@
   "techreborn:recipes/crafting_table/misc_block/gravel": {
     "criteria": {
       "has_flint": "2025-05-30 15:09:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_tuna_from_tuna": {
+    "criteria": {
+      "has_tuna": "2025-05-30 15:19:44 +0000"
     },
     "done": true
   },
@@ -6198,9 +6287,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-30 15:17:42 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2025-05-30 15:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-30 15:26:25 +0000"
     },
     "done": true
   },

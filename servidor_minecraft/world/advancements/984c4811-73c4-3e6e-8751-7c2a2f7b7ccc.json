@@ -9652,6 +9652,18 @@
     },
     "done": true
   },
+  "minecells:vine_rune": {
+    "criteria": {
+      "vine_rune": "2025-05-30 15:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecells:elite": {
+    "criteria": {
+      "obelisk_activated": "2025-05-30 15:18:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
     "criteria": {
       "has_diamond_chestplate": "2025-05-30 15:02:08 +0000"
