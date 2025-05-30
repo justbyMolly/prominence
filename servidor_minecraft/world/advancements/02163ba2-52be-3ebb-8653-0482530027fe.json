@@ -1944,6 +1944,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2025-05-30 16:39:56 +0000",
       "bread": "2025-05-30 15:48:02 +0000",
       "golden_carrot": "2025-05-30 16:34:25 +0000"
     },
@@ -2337,6 +2338,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-30 15:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-30 16:46:43 +0000"
     },
     "done": true
   },
@@ -2751,6 +2758,12 @@
   "betternether:recipes/decorations/nether_sakura_fence": {
     "criteria": {
       "has_stick": "2025-05-30 15:40:43 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-30 16:37:29 +0000"
     },
     "done": true
   },
@@ -3261,6 +3274,12 @@
   "betternether:recipes/redstone/nether_mushroom_gate": {
     "criteria": {
       "has_stick": "2025-05-30 15:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-30 16:46:43 +0000"
     },
     "done": true
   },
@@ -3978,6 +3997,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-30 15:39:46 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-30 16:46:43 +0000"
     },
     "done": true
   },

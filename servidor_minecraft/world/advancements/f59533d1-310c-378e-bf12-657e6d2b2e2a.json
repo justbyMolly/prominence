@@ -9048,6 +9048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 16:47:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-05-30 14:56:12 +0000"
