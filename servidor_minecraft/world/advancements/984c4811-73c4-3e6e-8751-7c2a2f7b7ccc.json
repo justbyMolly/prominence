@@ -3777,6 +3777,7 @@
     "criteria": {
       "minecraft:river": "2025-05-30 01:01:59 +0000",
       "minecraft:cold_ocean": "2025-05-30 04:03:36 +0000",
+      "minecraft:forest": "2025-05-30 15:40:29 +0000",
       "minecraft:ocean": "2025-05-30 01:12:32 +0000"
     },
     "done": false
@@ -9653,9 +9654,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2025-05-30 15:36:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-05-30 15:40:57 +0000"
     },
     "done": true
   },
@@ -9677,9 +9690,81 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-05-30 15:38:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_orig_recipe": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 15:42:24 +0000"
+    },
+    "done": true
+  },
   "minecells:elite": {
     "criteria": {
       "obelisk_activated": "2025-05-30 15:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/fel_pumpkin": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-05-30 15:42:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-30 15:44:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-05-30 15:40:32 +0000"
     },
     "done": true
   },
@@ -9689,9 +9774,123 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-30 15:38:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
+    "criteria": {
+      "has_golden_chestplate": "2025-05-30 15:44:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-30 15:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-30 15:40:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_nugget_from_shovel": {
+    "criteria": {
+      "has_golden_shovel": "2025-05-30 15:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-05-30 15:42:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2025-05-30 15:36:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2025-05-30 15:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-30 15:40:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray": {
+    "criteria": {
+      "has_item": "2025-05-30 15:38:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-05-30 15:40:32 +0000"
     },
     "done": true
   },
@@ -9707,15 +9906,105 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2025-05-30 15:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-05-30 15:42:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-30 15:40:32 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/black_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-30 15:36:35 +0000"
     },
     "done": true
   },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_item": "2025-05-30 15:40:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_black": {
     "criteria": {
       "has_item": "2025-05-30 15:36:35 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-05-30 15:38:41 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-05-30 15:38:41 +0000"
     },
     "done": true
   },

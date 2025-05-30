@@ -8553,6 +8553,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-30 15:34:50 +0000"
@@ -8565,15 +8571,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-05-30 15:41:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-05-30 14:56:12 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
+    },
+    "done": true
+  },
   "minecells:elite": {
     "criteria": {
       "obelisk_activated": "2025-05-30 15:22:36 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-05-30 15:46:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-05-30 15:41:03 +0000"
     },
     "done": true
   },
@@ -8592,6 +8622,12 @@
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-05-30 14:56:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
     },
     "done": true
   },
@@ -8622,6 +8658,12 @@
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-05-30 14:57:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
     },
     "done": true
   },
@@ -8661,9 +8703,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_mace": {
     "criteria": {
       "has_iron_nugget": "2025-05-30 14:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-30 15:46:36 +0000"
     },
     "done": true
   },
@@ -8685,9 +8739,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-05-30 15:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-30 15:46:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
     },
     "done": true
   },
