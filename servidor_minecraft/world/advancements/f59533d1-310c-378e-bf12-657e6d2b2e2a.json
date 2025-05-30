@@ -9083,6 +9083,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
+    "criteria": {
+      "has_iron_shovel": "2025-05-30 18:52:00 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_electrolyzer/sand": {
     "criteria": {
       "has_sand": "2025-05-30 18:05:15 +0000"

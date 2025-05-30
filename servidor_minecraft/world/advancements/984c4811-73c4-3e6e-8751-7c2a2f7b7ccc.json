@@ -11350,9 +11350,21 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-05-30 18:52:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/larch_stairs": {
     "criteria": {
       "has_larch_planks": "2025-05-30 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-30 18:49:35 +0000"
     },
     "done": true
   },
@@ -11446,6 +11458,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-30 18:49:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
     "criteria": {
       "has_lead_ingot": "2025-05-30 17:48:51 +0000"
@@ -11503,6 +11521,12 @@
   "croptopia:recipes/oatmeal": {
     "criteria": {
       "has_milk": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_mace": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-30 18:49:35 +0000"
     },
     "done": true
   },
@@ -11566,6 +11590,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-05-30 18:52:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/bucket_from_milk_bucket": {
     "criteria": {
       "has_milk_bucket": "2025-05-30 18:15:58 +0000"
@@ -11608,6 +11638,12 @@
     },
     "done": true
   },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-30 18:49:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-05-30 18:15:58 +0000"
@@ -11644,9 +11680,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_freezing_foil": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-30 18:49:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/battery/red_cell_battery": {
     "criteria": {
       "has_lead_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-30 18:49:35 +0000"
     },
     "done": true
   },
