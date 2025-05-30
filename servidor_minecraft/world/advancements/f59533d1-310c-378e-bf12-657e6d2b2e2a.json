@@ -8554,6 +8554,18 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-30 16:08:41 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-30 16:08:41 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
@@ -8584,9 +8596,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_tuna_from_smoking_tuna": {
+    "criteria": {
+      "has_tuna": "2025-05-30 16:11:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-30 16:19:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
     "criteria": {
       "has_pumpkin_slice": "2025-05-30 16:00:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/steamed_crab": {
+    "criteria": {
+      "has_crab": "2025-05-30 16:19:08 +0000"
     },
     "done": true
   },
@@ -8632,6 +8662,14 @@
     },
     "done": true
   },
+  "croptopia:gather_food": {
+    "criteria": {
+      "cooked_tuna": "2025-05-30 16:11:14 +0000",
+      "tuna": "2025-05-30 16:11:14 +0000",
+      "crab": "2025-05-30 16:19:08 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-05-30 14:56:12 +0000"
@@ -8641,6 +8679,12 @@
   "travelersbackpack:recipes/misc/void_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-05-30 16:19:32 +0000"
     },
     "done": true
   },
@@ -8659,6 +8703,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-30 14:57:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tuna_roll": {
+    "criteria": {
+      "has_tuna": "2025-05-30 16:11:14 +0000"
     },
     "done": true
   },
@@ -8716,9 +8766,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/crab_legs": {
+    "criteria": {
+      "has_crab": "2025-05-30 16:19:08 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/sausage": {
     "criteria": {
       "has_cooked_beef": "2025-05-30 14:53:41 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-30 16:08:41 +0000"
     },
     "done": true
   },
@@ -8740,6 +8802,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-30 16:08:41 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_mace": {
     "criteria": {
       "has_iron_nugget": "2025-05-30 14:56:12 +0000"
@@ -8749,6 +8817,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-05-30 15:46:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-30 16:19:32 +0000"
     },
     "done": true
   },
@@ -8770,9 +8844,21 @@
     },
     "done": true
   },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-05-30 16:19:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-05-30 14:57:05 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-30 16:08:41 +0000"
     },
     "done": true
   },
@@ -8794,9 +8880,39 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-30 16:08:41 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-30 16:08:41 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-30 16:08:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-05-30 16:16:17 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/spruce_shrub": {
     "criteria": {
       "has_spruce_sapling": "2025-05-30 16:02:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-05-30 16:16:17 +0000"
     },
     "done": true
   },
@@ -8812,6 +8928,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/sponge_piece_from_pufferfish": {
+    "criteria": {
+      "has_pufferfish": "2025-05-30 16:19:06 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-30 16:08:41 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-30 15:37:15 +0000"
@@ -8824,9 +8952,27 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-30 16:08:41 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-05-30 14:57:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_tuna_from_tuna": {
+    "criteria": {
+      "has_tuna": "2025-05-30 16:11:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-30 16:08:41 +0000"
     },
     "done": true
   },
@@ -8842,9 +8988,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-30 16:08:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/string_from_banner": {
     "criteria": {
       "has_banner": "2025-05-30 16:02:09 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-05-30 16:11:52 +0000"
     },
     "done": true
   },
