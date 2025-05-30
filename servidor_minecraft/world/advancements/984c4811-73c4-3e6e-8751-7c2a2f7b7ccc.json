@@ -4061,13 +4061,16 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-30 03:06:11 +0000",
+      "cooked_mutton": "2025-05-30 15:49:11 +0000",
+      "cooked_beef": "2025-05-30 15:54:34 +0000",
       "apple": "2025-05-30 01:14:41 +0000",
       "bread": "2025-05-30 01:03:51 +0000",
       "golden_apple": "2025-05-30 15:14:12 +0000",
       "rotten_flesh": "2025-05-30 15:30:38 +0000",
       "salmon": "2025-05-30 01:50:53 +0000",
       "golden_carrot": "2025-05-30 01:34:28 +0000",
-      "cooked_chicken": "2025-05-30 03:04:15 +0000"
+      "cooked_chicken": "2025-05-30 03:04:15 +0000",
+      "cooked_salmon": "2025-05-30 15:49:02 +0000"
     },
     "done": false
   },
@@ -9678,6 +9681,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-05-30 15:49:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-30 15:56:29 +0000"
+    },
+    "done": true
+  },
   "minecells:vine_rune": {
     "criteria": {
       "vine_rune": "2025-05-30 15:23:11 +0000"
@@ -9687,6 +9702,12 @@
   "botania:main/root": {
     "criteria": {
       "flower": "2025-05-30 15:36:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-05-30 15:52:17 +0000"
     },
     "done": true
   },
@@ -9717,6 +9738,18 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-05-30 15:42:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-30 15:56:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-05-30 15:49:08 +0000"
     },
     "done": true
   },
@@ -9774,9 +9807,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-30 15:56:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/gray_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-30 15:38:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-05-30 15:49:08 +0000"
     },
     "done": true
   },
@@ -9816,6 +9861,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-30 15:56:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-30 15:42:24 +0000"
@@ -9831,6 +9882,18 @@
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2025-05-30 15:36:35 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2025-05-30 15:49:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-30 15:56:29 +0000"
     },
     "done": true
   },
@@ -9894,6 +9957,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-30 15:56:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
     "criteria": {
       "has_diamond_chestplate": "2025-05-30 15:02:08 +0000"
@@ -9927,6 +9996,12 @@
   "botania:recipes/decorations/black_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-30 15:36:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-05-30 15:56:29 +0000"
     },
     "done": true
   },
