@@ -3332,6 +3332,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-30 19:03:02 +0000",
       "minecraft:skeleton": "2025-05-30 04:07:16 +0000",
       "minecraft:spider": "2025-05-30 03:45:44 +0000",
       "minecraft:enderman": "2025-05-30 04:11:05 +0000",
@@ -10137,6 +10138,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/paper_from_enchanted_book": {
+    "criteria": {
+      "has_enchanted_book": "2025-05-30 18:41:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "onion": "2025-05-30 18:53:02 +0000",
@@ -10145,171 +10152,15 @@
     },
     "done": false
   },
-  "techreborn:recipes/extractor/magenta_dye_from_allium": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_allium": "2025-05-30 18:52:06 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/onion_rings": {
-    "criteria": {
-      "has_onions": "2025-05-30 18:52:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-05-30 18:59:43 +0000"
+      "wheat": "2025-05-30 18:49:32 +0000"
     },
     "done": true
   },
   "bewitchment:recipes/food/grilled_garlic_from_smoking": {
     "criteria": {
       "has_item": "2025-05-30 18:50:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_onion": "2025-05-30 18:52:06 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/vanilla_piles/allium": {
-    "criteria": {
-      "has_flower": "2025-05-30 18:52:06 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/paper_from_enchanted_book": {
-    "criteria": {
-      "has_enchanted_book": "2025-05-30 18:41:19 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/burrito": {
-    "criteria": {
-      "has_the_recipe": "2025-05-30 18:59:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-30 18:52:06 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/paper_lanterns/paper_lantern": {
-    "criteria": {
-      "has_item": "2025-05-30 18:54:55 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/stuffed_poblanos": {
-    "criteria": {
-      "has_corn": "2025-05-30 18:59:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-05-30 18:54:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2025-05-30 18:54:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2025-05-30 18:54:55 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/enchanter": {
-    "criteria": {
-      "enchanting_table": "2025-05-30 18:55:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
-    "criteria": {
-      "has_item": "2025-05-30 18:54:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-05-30 18:54:55 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_shepherds_pie": {
-    "criteria": {
-      "has_corn": "2025-05-30 18:59:22 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/dead_pine_sapling_from_dead_pine_shrub": {
-    "criteria": {
-      "has_dead_pine_shrub": "2025-05-30 19:02:05 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/campfire_popcorn": {
-    "criteria": {
-      "has_corn": "2025-05-30 18:59:22 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/corn_husk": {
-    "criteria": {
-      "has_corn": "2025-05-30 18:59:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-05-30 18:54:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-05-30 18:52:06 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
-    "criteria": {
-      "has_item": "2025-05-30 18:52:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2025-05-30 18:52:06 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
-    "criteria": {
-      "has_tassel": "2025-05-30 19:02:43 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/crop_collector": {
-    "criteria": {
-      "brewery:corn": "2025-05-30 18:59:22 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/present": {
-    "criteria": {
-      "has_paper": "2025-05-30 18:54:55 +0000"
     },
     "done": true
   },
@@ -10331,15 +10182,225 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "techreborn:recipes/extractor/magenta_dye_from_allium": {
     "criteria": {
-      "wheat": "2025-05-30 18:49:32 +0000"
+      "has_allium": "2025-05-30 18:52:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/onion_rings": {
+    "criteria": {
+      "has_onions": "2025-05-30 18:52:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-05-30 18:52:06 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/allium": {
+    "criteria": {
+      "has_flower": "2025-05-30 18:52:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 18:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-30 18:52:06 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-05-30 18:52:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-05-30 18:52:06 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-05-30 18:52:06 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2025-05-30 18:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-30 18:54:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-05-30 18:54:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-30 18:54:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-30 18:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-30 18:54:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-05-30 18:54:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-05-30 18:54:55 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-05-30 18:55:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 18:59:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_corn": "2025-05-30 18:59:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_shepherds_pie": {
+    "criteria": {
+      "has_corn": "2025-05-30 18:59:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_popcorn": {
+    "criteria": {
+      "has_corn": "2025-05-30 18:59:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/corn_husk": {
+    "criteria": {
+      "has_corn": "2025-05-30 18:59:22 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/crop_collector": {
+    "criteria": {
+      "brewery:corn": "2025-05-30 18:59:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-30 18:59:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/dead_pine_sapling_from_dead_pine_shrub": {
+    "criteria": {
+      "has_dead_pine_shrub": "2025-05-30 19:02:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2025-05-30 19:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-30 19:03:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-05-30 19:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecells:root": {
+    "criteria": {
+      "requirement": "2025-05-30 19:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/book": {
+    "criteria": {
+      "requirement": "2025-05-30 19:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecells:prison": {
+    "criteria": {
+      "requirement": "2025-05-30 19:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2025-05-30 19:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_a_leaping_zombie": {
+    "criteria": {
+      "leaping_zombie_killed": "2025-05-30 19:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-05-30 19:06:14 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-30 19:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/leaping_zombie": {
+    "criteria": {
+      "requirement": "2025-05-30 19:07:09 +0000"
     },
     "done": true
   },
