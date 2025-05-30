@@ -10517,9 +10517,39 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_anvil": "2025-05-30 23:44:33 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/cooked_glowdine_slice": {
+    "criteria": {
+      "cooked_glowdine_slice": "2025-05-30 23:45:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-30 23:29:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-05-30 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/grilled_glowdine": {
+    "criteria": {
+      "has_glowdine": "2025-05-30 23:34:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-05-30 23:53:07 +0000"
     },
     "done": true
   },
@@ -10535,6 +10565,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2025-05-30 23:44:33 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kirkhammer": {
     "criteria": {
       "has_item": "2025-05-30 23:23:50 +0000"
@@ -10547,9 +10583,45 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/misc/glowstone_dust": {
+    "criteria": {
+      "has_glowdine": "2025-05-30 23:34:44 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
     "criteria": {
       "has_iron_sword": "2025-05-30 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-05-30 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/cooked_glowdine_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_glowdine_slice": "2025-05-30 23:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/glowstone_dust": {
+    "criteria": {
+      "has_glowdine": "2025-05-30 23:34:44 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2025-05-30 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/glowdine_roll": {
+    "criteria": {
+      "has_glowdine_slice": "2025-05-30 23:45:24 +0000"
     },
     "done": true
   },
@@ -10562,6 +10634,42 @@
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-05-30 23:31:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-30 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2025-05-30 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-30 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
+    "criteria": {
+      "has_wheat": "2025-05-30 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2025-05-30 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2025-05-30 23:53:07 +0000"
     },
     "done": true
   },
@@ -10589,15 +10697,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-30 23:53:07 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2025-05-30 23:29:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-30 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/cooked_glowdine_slice_from_smoking": {
+    "criteria": {
+      "cooked_glowdine_slice": "2025-05-30 23:45:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2025-05-30 23:49:01 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_wheat": "2025-05-30 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-30 23:53:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/danger_pottery_sherd": {
     "criteria": {
       "has_gunpowder": "2025-05-30 23:29:44 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-05-30 23:53:07 +0000"
     },
     "done": true
   },
