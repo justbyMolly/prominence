@@ -584,6 +584,7 @@
       "autumnal_maple_forest": "2025-05-30 16:15:38 +0000",
       "muddy_river": "2025-05-30 16:14:30 +0000",
       "maple_forest": "2025-05-30 15:38:03 +0000",
+      "boreal_forest": "2025-05-30 17:57:30 +0000",
       "cold_river": "2025-05-30 16:18:54 +0000"
     },
     "done": false
@@ -594,6 +595,7 @@
       "autumnal_maple_forest": "2025-05-30 16:15:38 +0000",
       "muddy_river": "2025-05-30 16:14:30 +0000",
       "maple_forest": "2025-05-30 15:38:03 +0000",
+      "boreal_forest": "2025-05-30 17:57:30 +0000",
       "cold_river": "2025-05-30 16:18:54 +0000"
     },
     "done": false
@@ -8783,6 +8785,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "anchovy": "2025-05-30 17:48:05 +0000",
       "cooked_calamari": "2025-05-30 17:05:42 +0000",
       "calamari": "2025-05-30 17:05:08 +0000"
     },
@@ -8830,64 +8833,9 @@
     },
     "done": true
   },
-  "mcdw:recipes/hammers/hammer_stormlander": {
-    "criteria": {
-      "has_anvil": "2025-05-30 17:37:22 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_smart_white": {
     "criteria": {
       "has_dyes/black": "2025-05-30 17:32:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-05-30 17:45:43 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/plantball_from_saplings": {
-    "criteria": {
-      "has_sapling": "2025-05-30 17:34:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sugar_cane": "2025-05-30 17:35:57 +0000",
-      "potato": "2025-05-30 17:32:08 +0000"
-    },
-    "done": false
-  },
-  "techreborn:recipes/centrifuge/baked_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-05-30 17:36:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-05-30 17:37:18 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
-    "criteria": {
-      "has_core_specification_item": "2025-05-30 17:34:55 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-05-30 17:37:18 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
-    "criteria": {
-      "has_item": "2025-05-30 17:32:07 +0000"
     },
     "done": true
   },
@@ -8897,69 +8845,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cod_roll": {
-    "criteria": {
-      "has_cod_slice": "2025-05-30 17:44:04 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-05-30 17:41:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_cod_slice": {
-    "criteria": {
-      "cooked_cod_slice": "2025-05-30 17:44:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-05-30 17:41:43 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-05-30 17:37:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-05-30 17:36:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-05-30 17:41:43 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/heavy": {
-    "criteria": {
-      "has_item": "2025-05-30 17:37:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-05-30 17:32:01 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/guts_sword": {
-    "criteria": {
-      "has_item": "2025-05-30 17:37:18 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2025-05-30 17:37:18 +0000"
     },
     "done": true
   },
@@ -8969,93 +8857,9 @@
     },
     "done": true
   },
-  "mcdw:recipes/hammers/hammer_gravity": {
-    "criteria": {
-      "has_anvil": "2025-05-30 17:37:22 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/planter_rich": {
     "criteria": {
       "has_bone_meal": "2025-05-30 17:32:01 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
-    "criteria": {
-      "has_log": "2025-05-30 17:34:55 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
-    "criteria": {
-      "has_log": "2025-05-30 17:34:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "iron_knife": "2025-05-30 17:43:53 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/double_axes/double_axe_double": {
-    "criteria": {
-      "has_iron_block": "2025-05-30 17:37:18 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/sponge_piece_from_cod": {
-    "criteria": {
-      "has_cod": "2025-05-30 17:41:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-05-30 17:43:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-05-30 17:43:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-05-30 17:34:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-05-30 17:44:04 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/stick_from_twig": {
-    "criteria": {
-      "has_item": "2025-05-30 17:42:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
-    "criteria": {
-      "cooked_cod_slice": "2025-05-30 17:44:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-05-30 17:41:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
-    "criteria": {
-      "cooked_cod_slice": "2025-05-30 17:44:04 +0000"
     },
     "done": true
   },
@@ -9071,33 +8875,9 @@
     },
     "done": true
   },
-  "croptopia:knife": {
-    "criteria": {
-      "knife": "2025-05-30 17:43:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/scrap_box": {
-    "criteria": {
-      "has_scrap": "2025-05-30 17:40:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-05-30 17:34:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_the_recipe": "2025-05-30 17:32:01 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/seasonal_compendium": {
-    "criteria": {
-      "has_sapling": "2025-05-30 17:34:55 +0000"
     },
     "done": true
   },
@@ -9107,51 +8887,9 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/iron_destructor_hammer": {
-    "criteria": {
-      "has_material": "2025-05-30 17:37:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-05-30 17:41:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-05-30 17:37:18 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/iron_plate_from_block": {
-    "criteria": {
-      "has_iron_block": "2025-05-30 17:37:18 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_shrub": {
-    "criteria": {
-      "has_spruce_sapling": "2025-05-30 17:34:55 +0000"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
-    "criteria": {
-      "has_cod": "2025-05-30 17:41:43 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/sulphur_gunpowder": {
     "criteria": {
       "has_bone_meal": "2025-05-30 17:32:01 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/lexicon": {
-    "criteria": {
-      "has_item": "2025-05-30 17:34:55 +0000"
     },
     "done": true
   },
@@ -9173,18 +8911,6 @@
     },
     "done": true
   },
-  "bewitchment:recipes/food/grilled_garlic": {
-    "criteria": {
-      "has_item": "2025-05-30 17:32:07 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
-    "criteria": {
-      "has_item": "2025-05-30 17:32:07 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_covered_white": {
     "criteria": {
       "has_dyes/black": "2025-05-30 17:32:01 +0000"
@@ -9197,15 +8923,310 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-05-30 17:32:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-05-30 17:32:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-05-30 17:32:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-05-30 17:35:57 +0000",
+      "potato": "2025-05-30 17:32:08 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_saplings": {
+    "criteria": {
+      "has_sapling": "2025-05-30 17:34:55 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
+    "criteria": {
+      "has_core_specification_item": "2025-05-30 17:34:55 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-05-30 17:34:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-05-30 17:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-30 17:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-30 17:34:55 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/seasonal_compendium": {
+    "criteria": {
+      "has_sapling": "2025-05-30 17:34:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-05-30 17:34:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2025-05-30 17:34:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-30 17:36:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-30 17:36:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-05-30 17:36:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-30 17:37:18 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-30 17:37:18 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-30 17:37:18 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-05-30 17:37:18 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-05-30 17:37:18 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-05-30 17:37:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_iron_block": "2025-05-30 17:37:18 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-05-30 17:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-30 17:37:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-30 17:37:18 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2025-05-30 17:37:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_anvil": "2025-05-30 17:37:22 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2025-05-30 17:37:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/scrap_box": {
+    "criteria": {
+      "has_scrap": "2025-05-30 17:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-05-30 17:41:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-05-30 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-30 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-30 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sponge_piece_from_cod": {
+    "criteria": {
+      "has_cod": "2025-05-30 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-30 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-05-30 17:41:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2025-05-30 17:42:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-05-30 17:43:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-30 17:43:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-30 17:43:53 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-05-30 17:43:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2025-05-30 17:44:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-30 17:44:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-05-30 17:44:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-30 17:44:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-05-30 17:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-30 17:45:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-05-30 17:48:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/anchovy_pizza": {
+    "criteria": {
+      "has_anchovies": "2025-05-30 17:48:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_smoking_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-05-30 17:48:05 +0000"
     },
     "done": true
   },

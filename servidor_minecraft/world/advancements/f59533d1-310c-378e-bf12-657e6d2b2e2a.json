@@ -8941,6 +8941,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/spruce_slab_from_stairs": {
+    "criteria": {
+      "has_spruce_stairs": "2025-05-30 17:54:20 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-05-30 15:19:32 +0000"
@@ -8956,6 +8962,12 @@
   "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
     "criteria": {
       "has_log": "2025-05-30 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-05-30 17:54:20 +0000"
     },
     "done": true
   },

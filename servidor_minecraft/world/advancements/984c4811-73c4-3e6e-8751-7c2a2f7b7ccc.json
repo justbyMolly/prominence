@@ -582,6 +582,7 @@
     "criteria": {
       "silver_birch_forest": "2025-05-30 01:45:01 +0000",
       "shrubland": "2025-05-30 00:53:35 +0000",
+      "fen": "2025-05-30 17:54:20 +0000",
       "pine_taiga": "2025-05-30 01:35:13 +0000",
       "autumnal_maple_forest": "2025-05-30 01:36:58 +0000",
       "muddy_river": "2025-05-30 01:54:14 +0000",
@@ -601,6 +602,7 @@
     "criteria": {
       "silver_birch_forest": "2025-05-30 01:45:01 +0000",
       "shrubland": "2025-05-30 00:53:35 +0000",
+      "fen": "2025-05-30 17:54:20 +0000",
       "pine_taiga": "2025-05-30 01:35:13 +0000",
       "autumnal_maple_forest": "2025-05-30 01:36:58 +0000",
       "muddy_river": "2025-05-30 01:54:14 +0000",
@@ -11332,9 +11334,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
+    "criteria": {
+      "has_planks": "2025-05-30 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:56:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-30 17:47:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
     },
     "done": true
   },
@@ -11344,9 +11364,135 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
+    "criteria": {
+      "has_refined_iron": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
+    "criteria": {
+      "has_refined_iron": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
+    "criteria": {
+      "has_refined_iron": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/lead_plate": {
+    "criteria": {
+      "has_tag_c_lead_ingots": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:refinediron": {
+    "criteria": {
+      "crit_0": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:56:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-05-30 17:47:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-05-30 17:51:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
     },
     "done": true
   },
@@ -11359,6 +11505,36 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-30 17:47:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
+    "criteria": {
+      "has_refined_iron": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-05-30 17:51:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/refined_iron_plate": {
+    "criteria": {
+      "has_tag_c_refined_iron_ingots": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-30 17:48:51 +0000"
     },
     "done": true
   },
