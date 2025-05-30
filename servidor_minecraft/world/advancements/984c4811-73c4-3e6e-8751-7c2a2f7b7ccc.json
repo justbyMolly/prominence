@@ -3313,6 +3313,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-30 16:01:37 +0000",
       "minecraft:skeleton": "2025-05-30 01:07:39 +0000",
       "minecraft:spider": "2025-05-30 01:29:38 +0000",
       "minecraft:creeper": "2025-05-30 02:25:19 +0000",
@@ -9735,6 +9736,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-05-30 16:00:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-05-30 15:42:24 +0000"
@@ -9873,6 +9880,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-05-30 16:00:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2025-05-30 15:40:57 +0000"
@@ -9894,6 +9907,12 @@
   "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-05-30 15:56:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_log": {
+    "criteria": {
+      "has_rubber_log": "2025-05-30 16:04:33 +0000"
     },
     "done": true
   },
@@ -9945,9 +9964,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
+    "criteria": {
+      "has_rubber_log": "2025-05-30 16:04:33 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_gray": {
     "criteria": {
       "has_item": "2025-05-30 15:38:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-05-30 16:00:25 +0000"
     },
     "done": true
   },
@@ -9981,6 +10012,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/rubber_logs": {
+    "criteria": {
+      "has_rubber_logs": "2025-05-30 16:04:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-05-30 15:42:24 +0000"
@@ -9996,6 +10033,12 @@
   "botania:recipes/decorations/black_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-30 15:36:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_planks": {
+    "criteria": {
+      "has_rubber_log": "2025-05-30 16:04:33 +0000"
     },
     "done": true
   },
@@ -10080,6 +10123,12 @@
   "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
     "criteria": {
       "has_item": "2025-05-30 15:38:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-05-30 16:00:28 +0000"
     },
     "done": true
   },
