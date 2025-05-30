@@ -8615,6 +8615,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
+    "criteria": {
+      "has_planks": "2025-05-30 17:45:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-30 15:34:50 +0000"
@@ -8636,6 +8642,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-05-30 15:41:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:45:41 +0000"
     },
     "done": true
   },
@@ -8771,9 +8783,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:45:41 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/grape_jam": {
     "criteria": {
       "has_grape": "2025-05-30 17:04:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:45:41 +0000"
     },
     "done": true
   },
@@ -8803,6 +8827,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:45:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-05-30 14:56:12 +0000"
@@ -8818,6 +8848,12 @@
   "croptopia:recipes/wine": {
     "criteria": {
       "has_grapes": "2025-05-30 17:04:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:45:41 +0000"
     },
     "done": true
   },
@@ -9031,6 +9067,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:45:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
     "criteria": {
       "has_rubber_log": "2025-05-30 16:05:19 +0000"
@@ -9124,6 +9166,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-05-30 15:34:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:45:41 +0000"
     },
     "done": true
   },
@@ -9253,6 +9301,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:45:41 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/jungle_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-30 16:08:41 +0000"
@@ -9364,6 +9418,12 @@
   "ae2:recipes/misc/network/cables/dense_covered_white": {
     "criteria": {
       "has_dyes/black": "2025-05-30 17:18:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-05-30 17:45:41 +0000"
     },
     "done": true
   },
