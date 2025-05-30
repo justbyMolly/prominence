@@ -11476,6 +11476,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_20_grenadiers": {
+    "criteria": {
+      "grenadiers_killed": "2025-05-30 18:53:21 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/electronic_circuit": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
