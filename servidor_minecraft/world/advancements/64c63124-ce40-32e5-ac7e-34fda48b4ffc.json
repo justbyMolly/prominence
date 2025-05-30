@@ -3334,8 +3334,11 @@
     "criteria": {
       "minecraft:pillager": "2025-05-30 19:03:02 +0000",
       "minecraft:skeleton": "2025-05-30 04:07:16 +0000",
+      "minecraft:vindicator": "2025-05-30 19:14:10 +0000",
       "minecraft:spider": "2025-05-30 03:45:44 +0000",
+      "minecraft:witch": "2025-05-30 19:17:25 +0000",
       "minecraft:enderman": "2025-05-30 04:11:05 +0000",
+      "minecraft:vex": "2025-05-30 19:22:47 +0000",
       "minecraft:zombie": "2025-05-30 03:46:55 +0000"
     },
     "done": false
@@ -10374,9 +10377,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 19:21:56 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/undead_archer": {
     "criteria": {
       "requirement": "2025-05-30 19:09:26 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 19:21:56 +0000"
     },
     "done": true
   },
@@ -10386,9 +10401,51 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 19:21:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 19:21:56 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-05-30 19:16:31 +0000"
+    },
+    "done": false
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 19:21:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 19:21:56 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 19:21:56 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/shieldbearer": {
     "criteria": {
       "requirement": "2025-05-30 19:06:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 19:21:56 +0000"
     },
     "done": true
   },
@@ -10398,9 +10455,39 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 19:21:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 19:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 19:21:56 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 19:21:56 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/leaping_zombie": {
     "criteria": {
       "requirement": "2025-05-30 19:07:09 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-05-30 19:16:31 +0000"
     },
     "done": true
   },

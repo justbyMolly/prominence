@@ -3320,9 +3320,14 @@
     "criteria": {
       "minecraft:pillager": "2025-05-30 16:01:37 +0000",
       "minecraft:skeleton": "2025-05-30 01:07:39 +0000",
+      "minecraft:ravager": "2025-05-30 19:15:49 +0000",
+      "minecraft:vindicator": "2025-05-30 19:15:04 +0000",
       "minecraft:spider": "2025-05-30 01:29:38 +0000",
       "minecraft:creeper": "2025-05-30 02:25:19 +0000",
+      "minecraft:evoker": "2025-05-30 19:22:31 +0000",
       "minecraft:phantom": "2025-05-30 02:23:37 +0000",
+      "minecraft:witch": "2025-05-30 19:15:06 +0000",
+      "minecraft:vex": "2025-05-30 19:20:24 +0000",
       "minecraft:zombie": "2025-05-30 00:59:05 +0000",
       "minecraft:zombie_villager": "2025-05-30 01:29:11 +0000"
     },
@@ -11332,6 +11337,24 @@
     },
     "done": true
   },
+  "fwaystones:recipes/void_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-05-30 19:22:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2025-05-30 19:15:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 19:22:00 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/potato_chips": {
     "criteria": {
       "has_potato": "2025-05-30 17:47:27 +0000"
@@ -11341,6 +11364,24 @@
   "croptopia:recipes/doughnut": {
     "criteria": {
       "has_milk": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-05-30 19:15:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-30 19:22:33 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-05-30 19:16:40 +0000"
     },
     "done": true
   },
@@ -11362,9 +11403,28 @@
     },
     "done": true
   },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_sugar": "2025-05-30 19:15:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-05-30 18:49:35 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_blue_ice": "2025-05-30 19:16:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_sugar": "2025-05-30 19:15:07 +0000",
+      "has_the_recipe": "2025-05-30 19:15:07 +0000"
     },
     "done": true
   },
@@ -11377,6 +11437,42 @@
   "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 19:22:00 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-05-30 19:20:01 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-05-30 19:16:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-30 19:22:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 19:22:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-05-30 19:15:07 +0000"
     },
     "done": true
   },
@@ -11410,6 +11506,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-05-30 19:15:07 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/white_coffin": {
     "criteria": {
       "has_item": "2025-05-30 18:21:03 +0000"
@@ -11437,6 +11539,12 @@
   "techreborn:recipes/wire_mill/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
+    "criteria": {
+      "has_totem_of_undying": "2025-05-30 19:22:33 +0000"
     },
     "done": true
   },
@@ -11470,9 +11578,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/taglock": {
+    "criteria": {
+      "has_item": "2025-05-30 19:20:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/larch_fence": {
     "criteria": {
       "has_larch_planks": "2025-05-30 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-05-30 19:16:40 +0000"
     },
     "done": true
   },
@@ -11488,15 +11608,83 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-05-30 19:22:31 +0000",
+      "killed_illusioner": "2025-05-30 19:22:27 +0000",
+      "killed_iceologer": "2025-05-30 19:16:39 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-05-30 19:16:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 19:22:00 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-30 19:22:33 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
     "criteria": {
       "has_refined_iron": "2025-05-30 17:48:51 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2025-05-30 19:15:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-30 19:22:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
+    "criteria": {
+      "has_glass_bottle": "2025-05-30 19:20:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 19:22:00 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/mashed_potatoes": {
     "criteria": {
       "has_milk": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/ember_robe_chestplate": {
+    "criteria": {
+      "has_evocation_robe_chestplate": "2025-05-30 19:22:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 19:22:00 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-05-30 19:22:00 +0000"
     },
     "done": true
   },
@@ -11521,6 +11709,12 @@
   "naturalist:recipes/food/cooked_bass": {
     "criteria": {
       "has_bass": "2025-05-30 18:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-30 19:15:04 +0000"
     },
     "done": true
   },
@@ -11560,9 +11754,27 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-05-30 19:16:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-30 19:22:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nutty_cookie": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 19:15:07 +0000"
     },
     "done": true
   },
@@ -11584,9 +11796,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2025-05-30 19:15:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-05-30 17:47:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sugar": {
+    "criteria": {
+      "has_sugar": "2025-05-30 19:15:07 +0000"
     },
     "done": true
   },
@@ -11608,9 +11832,21 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-05-30 19:16:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 19:22:00 +0000"
     },
     "done": true
   },
@@ -11620,15 +11856,57 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 19:22:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-05-30 19:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 19:22:00 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-05-30 19:22:00 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bone_meal_from_seashells": {
     "criteria": {
       "has_item": "2025-05-30 17:51:39 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2025-05-30 19:15:07 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/larch_pressure_plate": {
     "criteria": {
       "has_larch_planks": "2025-05-30 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2025-05-30 19:15:07 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-05-30 19:15:07 +0000"
     },
     "done": true
   },
@@ -11656,6 +11934,18 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/verdant_robe_chestplate": {
+    "criteria": {
+      "has_evocation_robe_chestplate": "2025-05-30 19:22:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-05-30 19:21:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-30 17:47:27 +0000"
@@ -11665,6 +11955,12 @@
   "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
     "criteria": {
       "has_refined_iron": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-30 19:22:33 +0000"
     },
     "done": true
   },
@@ -11692,6 +11988,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-05-30 19:22:27 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/battery/red_cell_battery": {
     "criteria": {
       "has_lead_ingot": "2025-05-30 17:48:51 +0000"
@@ -11701,6 +12003,18 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-05-30 18:49:35 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-30 19:22:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-30 19:22:33 +0000"
     },
     "done": true
   },
