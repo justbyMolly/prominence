@@ -587,6 +587,7 @@
       "autumnal_maple_forest": "2025-05-30 01:36:58 +0000",
       "muddy_river": "2025-05-30 01:54:14 +0000",
       "willow_forest": "2025-05-30 01:03:05 +0000",
+      "poppy_fields": "2025-05-30 18:09:52 +0000",
       "grassy_beach": "2025-05-30 01:13:07 +0000",
       "maple_forest": "2025-05-30 01:35:23 +0000",
       "magnolia_highlands": "2025-05-30 02:24:35 +0000",
@@ -607,6 +608,7 @@
       "autumnal_maple_forest": "2025-05-30 01:36:58 +0000",
       "muddy_river": "2025-05-30 01:54:14 +0000",
       "willow_forest": "2025-05-30 01:03:05 +0000",
+      "poppy_fields": "2025-05-30 18:09:52 +0000",
       "grassy_beach": "2025-05-30 01:13:07 +0000",
       "maple_forest": "2025-05-30 01:35:23 +0000",
       "magnolia_highlands": "2025-05-30 02:24:35 +0000",
@@ -3780,9 +3782,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-05-30 01:01:59 +0000",
+      "minecraft:swamp": "2025-05-30 18:11:25 +0000",
       "minecraft:cold_ocean": "2025-05-30 04:03:36 +0000",
       "minecraft:forest": "2025-05-30 15:40:29 +0000",
-      "minecraft:ocean": "2025-05-30 01:12:32 +0000"
+      "minecraft:ocean": "2025-05-30 01:12:32 +0000",
+      "minecraft:plains": "2025-05-30 18:11:49 +0000"
     },
     "done": false
   },
@@ -11334,6 +11338,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_milk": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
     "criteria": {
       "has_planks": "2025-05-30 17:56:10 +0000"
@@ -11364,6 +11374,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_milk": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
     "criteria": {
       "has_refined_iron": "2025-05-30 17:48:51 +0000"
@@ -11373,6 +11395,12 @@
   "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
     "criteria": {
       "has_refined_iron": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/white_coffin": {
+    "criteria": {
+      "has_item": "2025-05-30 18:21:03 +0000"
     },
     "done": true
   },
@@ -11397,6 +11425,18 @@
   "techreborn:recipes/wire_mill/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-05-30 18:11:49 +0000"
     },
     "done": true
   },
@@ -11430,6 +11470,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_milk": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
@@ -11442,9 +11494,33 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-05-30 18:11:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/larch_door": {
     "criteria": {
       "has_larch_planks": "2025-05-30 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_milk_bottle": {
+    "criteria": {
+      "has_milk": "2025-05-30 18:15:58 +0000"
     },
     "done": true
   },
@@ -11460,6 +11536,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:milk": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_milk": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/larch_button": {
     "criteria": {
       "has_larch_planks": "2025-05-30 17:56:10 +0000"
@@ -11472,9 +11560,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_milk": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_milk_bucket": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-30 18:15:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-30 17:48:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2025-05-30 18:15:53 +0000"
     },
     "done": true
   },
@@ -11499,6 +11605,12 @@
   "techreborn:recipes/centrifuge/potato": {
     "criteria": {
       "has_potato": "2025-05-30 17:47:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-30 18:15:58 +0000"
     },
     "done": true
   },

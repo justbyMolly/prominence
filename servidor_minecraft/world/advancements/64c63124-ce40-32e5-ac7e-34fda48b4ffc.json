@@ -3593,6 +3593,7 @@
     "criteria": {
       "apple": "2025-05-30 03:57:48 +0000",
       "cooked_cod": "2025-05-30 04:10:19 +0000",
+      "pumpkin_pie": "2025-05-30 18:01:24 +0000",
       "bread": "2025-05-30 03:46:01 +0000",
       "rotten_flesh": "2025-05-30 15:10:24 +0000",
       "salmon": "2025-05-30 15:35:29 +0000",
@@ -5635,6 +5636,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-30 15:40:05 +0000"
@@ -5725,6 +5732,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_bamboo": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-30 15:52:36 +0000"
@@ -5752,6 +5765,12 @@
   "ae2:recipes/misc/network/cables/dense_smart_white": {
     "criteria": {
       "has_dyes/black": "2025-05-30 16:11:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-05-30 18:04:03 +0000"
     },
     "done": true
   },
@@ -5866,6 +5885,12 @@
   "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-05-30 16:25:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-05-30 18:04:03 +0000"
     },
     "done": true
   },
@@ -6218,6 +6243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-05-30 16:10:35 +0000"
@@ -6263,6 +6294,12 @@
   "techreborn:recipes/compressor/obsidian_plate_from_block": {
     "criteria": {
       "has_obsidian": "2025-05-30 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/salmon_roll": {
+    "criteria": {
+      "has_salmon_slice": "2025-05-30 18:10:42 +0000"
     },
     "done": true
   },
@@ -6476,6 +6513,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
     "criteria": {
       "has_redstone": "2025-05-30 15:48:54 +0000"
@@ -6518,6 +6561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/steamed_crab": {
     "criteria": {
       "has_crab": "2025-05-30 15:18:37 +0000"
@@ -6542,6 +6591,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "barteringstation:recipes/decorations/bartering_station": {
     "criteria": {
       "has_gold_ingot": "2025-05-30 15:52:36 +0000"
@@ -6557,6 +6612,12 @@
   "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-05-30 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-05-30 18:04:03 +0000"
     },
     "done": true
   },
@@ -6686,6 +6747,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-05-30 18:10:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-05-30 15:48:54 +0000"
@@ -6734,9 +6807,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/red_string_container": {
     "criteria": {
       "has_base_block": "2025-05-30 15:14:27 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/white_coffin": {
+    "criteria": {
+      "has_item": "2025-05-30 17:58:15 +0000"
     },
     "done": true
   },
@@ -6770,6 +6855,12 @@
     },
     "done": true
   },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-05-30 16:25:21 +0000"
@@ -6797,6 +6888,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-05-30 17:40:46 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-30 18:04:03 +0000"
     },
     "done": true
   },
@@ -6872,6 +6969,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/spruce_sapling_from_spruce_shrub": {
     "criteria": {
       "has_spruce_shrub": "2025-05-30 16:10:24 +0000"
@@ -6887,6 +6990,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-05-30 16:25:21 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-30 18:04:03 +0000"
     },
     "done": true
   },
@@ -6956,6 +7065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-30 15:08:56 +0000"
@@ -6965,6 +7080,12 @@
   "techreborn:recipes/extractor/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-05-30 17:42:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-05-30 18:04:03 +0000"
     },
     "done": true
   },
@@ -7262,9 +7383,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
+    "criteria": {
+      "has_golden_chestplate": "2025-05-30 18:21:09 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_suns_grace": {
     "criteria": {
       "has_gold_block": "2025-05-30 15:10:40 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-05-30 18:04:03 +0000"
     },
     "done": true
   },
@@ -7508,6 +7641,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/respiration_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-30 17:48:06 +0000"
@@ -7742,6 +7881,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_sakura_bookshelf": {
     "criteria": {
       "has_book": "2025-05-30 17:48:06 +0000"
@@ -7946,6 +8091,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-05-30 18:07:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-05-30 16:13:46 +0000"
@@ -8058,6 +8209,12 @@
   "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-30 15:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-05-30 18:04:03 +0000"
     },
     "done": true
   },
@@ -8223,6 +8380,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-05-30 15:08:43 +0000"
@@ -8232,6 +8395,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-30 15:08:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-05-30 18:04:03 +0000"
     },
     "done": true
   },
@@ -8310,6 +8479,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/copper_nugget": {
     "criteria": {
       "has_copper_ingot": "2025-05-30 16:25:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-05-30 18:10:42 +0000"
     },
     "done": true
   },
@@ -8424,6 +8599,12 @@
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-30 17:52:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_planks": "2025-05-30 18:04:03 +0000"
     },
     "done": true
   },
@@ -8955,6 +9136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-30 15:40:12 +0000"
@@ -9015,6 +9202,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-30 15:40:05 +0000"
@@ -9056,6 +9249,12 @@
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-30 17:52:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-05-30 18:10:42 +0000"
     },
     "done": true
   },
@@ -9563,9 +9762,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-30 17:59:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-30 15:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-30 18:04:03 +0000"
     },
     "done": true
   },
@@ -9641,6 +9852,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
     "criteria": {
       "has_tag_c_bauxite_ores": "2025-05-30 15:39:34 +0000"
@@ -9656,6 +9873,12 @@
   "betternether:recipes/building_blocks/obsidian_tile": {
     "criteria": {
       "has_obsidian": "2025-05-30 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-05-30 18:04:03 +0000"
     },
     "done": true
   },
@@ -9737,6 +9960,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/gemstone_green": {
     "criteria": {
       "has_emerald": "2025-05-30 15:35:51 +0000"
@@ -9746,6 +9975,18 @@
   "oxidized:recipes/copper_barometer": {
     "criteria": {
       "has_copper_block": "2025-05-30 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-30 18:04:03 +0000"
     },
     "done": true
   },
@@ -9845,6 +10086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-30 18:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-30 15:40:12 +0000"
@@ -9872,6 +10119,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-30 15:26:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-05-30 18:04:03 +0000"
     },
     "done": true
   },
