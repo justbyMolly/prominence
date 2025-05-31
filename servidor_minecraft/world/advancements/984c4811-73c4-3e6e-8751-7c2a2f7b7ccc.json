@@ -3326,7 +3326,9 @@
       "minecraft:creeper": "2025-05-30 02:25:19 +0000",
       "minecraft:evoker": "2025-05-30 19:22:31 +0000",
       "minecraft:phantom": "2025-05-30 02:23:37 +0000",
+      "minecraft:zombified_piglin": "2025-05-31 02:22:24 +0000",
       "minecraft:witch": "2025-05-30 19:15:06 +0000",
+      "minecraft:piglin": "2025-05-31 02:18:33 +0000",
       "minecraft:vex": "2025-05-30 19:20:24 +0000",
       "minecraft:zombie": "2025-05-30 00:59:05 +0000",
       "minecraft:drowned": "2025-05-30 19:25:48 +0000",
@@ -12546,6 +12548,7 @@
   },
   "minecells:unlock/fall_from_the_ramparts": {
     "criteria": {
+      "teleported_up": "2025-05-31 02:24:35 +0000",
       "fall_down": "2025-05-31 01:04:05 +0000"
     },
     "done": true
@@ -12613,6 +12616,12 @@
   "techreborn:recipes/crafting_table/parts/basic_display": {
     "criteria": {
       "has_electronic_circuit": "2025-05-31 01:58:15 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/hexblade": {
+    "criteria": {
+      "requirement": "2025-05-31 02:22:48 +0000"
     },
     "done": true
   },
@@ -12796,6 +12805,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2025-05-31 02:18:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-31 02:16:56 +0000"
@@ -12847,6 +12862,12 @@
   "mcdw:recipes/swords/sword_iron_sword_var": {
     "criteria": {
       "has_iron_sword": "2025-05-31 02:00:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-05-31 02:21:41 +0000"
     },
     "done": true
   },

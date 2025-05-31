@@ -11719,6 +11719,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/tungsten_ingot": {
+    "criteria": {
+      "has_tungsten_ore": "2025-05-31 02:25:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 02:03:43 +0000"
@@ -11746,6 +11752,12 @@
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_pearl": "2025-05-31 01:56:44 +0000"
+    },
+    "done": true
+  },
+  "indrev:nikolite": {
+    "criteria": {
+      "checkInv": "2025-05-31 02:24:46 +0000"
     },
     "done": true
   },

@@ -110,6 +110,7 @@
       "willow_forest": "2025-05-30 02:28:26 +0000",
       "maple_forest": "2025-05-30 02:22:50 +0000",
       "magnolia_highlands": "2025-05-30 02:24:34 +0000",
+      "boreal_forest": "2025-05-31 02:20:47 +0000",
       "cold_river": "2025-05-31 00:42:43 +0000",
       "gravel_beach": "2025-05-30 02:35:51 +0000"
     },
@@ -143,6 +144,7 @@
       "willow_forest": "2025-05-30 02:28:26 +0000",
       "maple_forest": "2025-05-30 02:22:50 +0000",
       "magnolia_highlands": "2025-05-30 02:24:34 +0000",
+      "boreal_forest": "2025-05-31 02:20:47 +0000",
       "cold_river": "2025-05-31 00:42:43 +0000",
       "gravel_beach": "2025-05-30 02:35:51 +0000"
     },
@@ -3761,6 +3763,7 @@
       "minecraft:skeleton": "2025-05-30 02:25:14 +0000",
       "minecraft:magma_cube": "2025-05-31 02:18:21 +0000",
       "minecraft:spider": "2025-05-30 02:24:22 +0000",
+      "minecraft:zombified_piglin": "2025-05-31 02:19:43 +0000",
       "minecraft:zombie": "2025-05-30 02:29:08 +0000"
     },
     "done": false
@@ -6966,6 +6969,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2025-05-31 02:20:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 00:37:32 +0000"
@@ -7029,6 +7038,12 @@
   "stoneworks:recipes/building_blocks/cracked_granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-31 00:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-31 02:19:40 +0000"
     },
     "done": true
   },
@@ -7326,6 +7341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-31 02:19:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_paver_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 00:49:48 +0000"
@@ -7485,6 +7506,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-31 02:19:40 +0000"
     },
     "done": true
   },
@@ -7736,6 +7763,7 @@
   },
   "minecells:unlock/fall_from_the_ramparts": {
     "criteria": {
+      "teleported_up": "2025-05-31 02:24:25 +0000",
       "fall_down": "2025-05-31 01:29:19 +0000"
     },
     "done": true
@@ -8134,6 +8162,12 @@
   "stoneworks:recipes/building_blocks/mossy_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-05-31 02:20:04 +0000"
     },
     "done": true
   },
