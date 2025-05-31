@@ -6737,6 +6737,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/asphalt/wall": {
+    "criteria": {
+      "has_asphalt": "2025-05-31 01:09:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 00:37:32 +0000"
@@ -6929,6 +6935,18 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/polished_slab": {
+    "criteria": {
+      "has_asphalt": "2025-05-31 01:09:22 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/polished_block": {
+    "criteria": {
+      "has_asphalt": "2025-05-31 01:09:22 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-05-31 00:37:27 +0000"
@@ -7001,6 +7019,12 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/polished_stairs": {
+    "criteria": {
+      "has_asphalt": "2025-05-31 01:09:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-31 00:49:48 +0000"
@@ -7043,9 +7067,21 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2025-05-31 01:09:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_shingles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-05-31 01:10:33 +0000"
     },
     "done": true
   },
@@ -7142,6 +7178,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-31 00:54:31 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2025-05-31 01:09:22 +0000"
     },
     "done": true
   },
@@ -7380,6 +7422,12 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/slab": {
+    "criteria": {
+      "has_asphalt": "2025-05-31 01:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-31 00:48:26 +0000"
@@ -7425,6 +7473,12 @@
   "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
     "criteria": {
       "has_ruby_gem": "2025-05-31 00:56:42 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/polished_block": {
+    "criteria": {
+      "has_asphalt": "2025-05-31 01:09:22 +0000"
     },
     "done": true
   },
@@ -7479,6 +7533,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/wall": {
+    "criteria": {
+      "has_asphalt": "2025-05-31 01:09:22 +0000"
     },
     "done": true
   },
@@ -7773,6 +7833,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
     "criteria": {
       "has_raw_lead": "2025-05-31 00:58:05 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/slab": {
+    "criteria": {
+      "has_asphalt": "2025-05-31 01:09:22 +0000"
     },
     "done": true
   },
