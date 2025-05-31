@@ -14059,6 +14059,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-31 21:48:55 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/quantum_boots": {
     "criteria": {
       "has_data_storage_chip": "2025-05-31 21:07:03 +0000"
@@ -14137,6 +14143,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_item": "2025-05-31 21:53:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-05-31 21:10:52 +0000"
@@ -14197,6 +14209,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/spruce_slab_from_stairs": {
+    "criteria": {
+      "has_spruce_stairs": "2025-05-31 21:54:16 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_wither": {
     "criteria": {
       "has_core_specification_item": "2025-05-31 20:58:28 +0000"
@@ -14218,6 +14236,12 @@
   "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit_from_industrial": {
     "criteria": {
       "has_data_storage_chip": "2025-05-31 21:07:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-05-31 21:54:16 +0000"
     },
     "done": true
   },
@@ -14371,6 +14395,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/green_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-31 21:53:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-05-31 21:05:51 +0000"
@@ -14422,6 +14452,12 @@
   "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
     "criteria": {
       "has_nether_quartz": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-31 21:48:55 +0000"
     },
     "done": true
   },
@@ -14689,6 +14725,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/dandelion": {
+    "criteria": {
+      "has_flower": "2025-05-31 21:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-05-31 20:48:36 +0000"
@@ -14764,6 +14806,12 @@
   "techreborn:recipes/industrial_electrolyzer/cinnabar_dust": {
     "criteria": {
       "has_cinnabar_dust": "2025-05-31 21:09:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-05-31 21:48:55 +0000"
     },
     "done": true
   },
