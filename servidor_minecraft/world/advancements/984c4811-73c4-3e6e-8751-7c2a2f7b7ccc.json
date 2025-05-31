@@ -3333,6 +3333,7 @@
       "minecraft:witch": "2025-05-30 19:15:06 +0000",
       "minecraft:wither_skeleton": "2025-05-31 02:36:22 +0000",
       "minecraft:piglin": "2025-05-31 02:18:33 +0000",
+      "minecraft:silverfish": "2025-05-31 03:49:10 +0000",
       "minecraft:vex": "2025-05-30 19:20:24 +0000",
       "minecraft:zombie": "2025-05-30 00:59:05 +0000",
       "minecraft:drowned": "2025-05-30 19:25:48 +0000",
@@ -14092,6 +14093,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/paper_from_writable_book": {
+    "criteria": {
+      "has_writable_book": "2025-05-31 03:50:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/wall_mushroom_brown": {
     "criteria": {
       "has_brown_mushroom": "2025-05-31 03:26:06 +0000"
@@ -14101,6 +14108,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-31 03:31:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/brazier": {
+    "criteria": {
+      "has_bar": "2025-05-31 03:51:27 +0000"
     },
     "done": true
   },
@@ -14152,6 +14165,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-05-31 03:52:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_brick_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-31 03:31:04 +0000"
@@ -14179,6 +14198,12 @@
   "supplementaries:recipes/sign_post_dark_oak": {
     "criteria": {
       "has_the_recipe": "2025-05-31 03:37:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/drain": {
+    "criteria": {
+      "has_iron_bars": "2025-05-31 03:51:27 +0000"
     },
     "done": true
   },
@@ -14224,15 +14249,45 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 03:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-31 03:52:30 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_chair": "2025-05-31 03:37:31 +0000"
     },
     "done": true
   },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-05-31 03:51:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/magma_cream": {
     "criteria": {
       "has_slime_ball": "2025-05-31 03:33:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-05-31 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2025-05-31 03:50:48 +0000"
     },
     "done": true
   },
@@ -14248,9 +14303,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-31 03:49:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_tile_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-31 03:31:04 +0000"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/quartz_elevator": {
+    "criteria": {
+      "has_quartz": "2025-05-31 03:52:30 +0000"
     },
     "done": true
   },
@@ -14272,9 +14339,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-31 03:52:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-05-31 03:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-31 03:52:30 +0000"
     },
     "done": true
   },
@@ -14293,6 +14372,12 @@
   "handcrafted:recipes/misc/dark_oak_dining_bench": {
     "criteria": {
       "has_dark_oak_dining_bench": "2025-05-31 03:37:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 03:52:30 +0000"
     },
     "done": true
   },
@@ -14374,6 +14459,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2025-05-31 03:50:48 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-31 03:37:31 +0000"
@@ -14410,6 +14501,18 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-05-31 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 03:52:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-05-31 03:40:48 +0000"
@@ -14431,6 +14534,18 @@
   "stoneworks:recipes/building_blocks/mossy_sandstone_brick_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-31 03:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-31 03:50:48 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-05-31 03:52:30 +0000"
     },
     "done": true
   },
@@ -14458,6 +14573,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-05-31 03:48:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_pillar_trim": {
     "criteria": {
       "has_dark_oak_pillar_trim": "2025-05-31 03:37:31 +0000"
@@ -14476,6 +14597,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-05-31 03:51:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_side_table": {
     "criteria": {
       "has_dark_oak_side_table": "2025-05-31 03:37:31 +0000"
@@ -14485,6 +14612,18 @@
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_planks": "2025-05-31 03:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-31 03:51:36 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2025-05-31 03:52:30 +0000"
     },
     "done": true
   },
@@ -14518,6 +14657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-31 03:52:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_sandstone_bricks_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-31 03:31:04 +0000"
@@ -14536,9 +14681,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-05-31 03:48:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-31 03:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-31 03:51:36 +0000"
     },
     "done": true
   },
@@ -14551,6 +14708,12 @@
   "promenade:recipes/crafting/vanilla_piles/blue_orchid": {
     "criteria": {
       "has_flower": "2025-05-31 03:33:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2025-05-31 03:50:48 +0000"
     },
     "done": true
   },
@@ -14578,6 +14741,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot": {
+    "criteria": {
+      "has_iron_bars": "2025-05-31 03:51:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 03:52:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-05-31 03:40:48 +0000"
@@ -14593,6 +14768,12 @@
   "handcrafted:recipes/misc/dark_oak_bench": {
     "criteria": {
       "has_dark_oak_bench": "2025-05-31 03:37:31 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 03:52:30 +0000"
     },
     "done": true
   },
@@ -14626,15 +14807,39 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-05-31 03:52:30 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
     "criteria": {
       "has_plank": "2025-05-31 03:37:31 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 03:50:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/sandstone_pillar_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-31 03:31:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/charcoal_block": {
+    "criteria": {
+      "has_charcoal": "2025-05-31 03:50:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-05-31 03:52:30 +0000"
     },
     "done": true
   },
@@ -14650,9 +14855,21 @@
     },
     "done": true
   },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-31 03:49:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_nightstand": {
     "criteria": {
       "has_dark_oak_nightstand": "2025-05-31 03:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-31 03:52:30 +0000"
     },
     "done": true
   },
@@ -14665,6 +14882,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-05-31 03:31:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-05-31 03:52:30 +0000"
     },
     "done": true
   },
@@ -14692,9 +14915,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 03:52:30 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/dark_oak_table": {
     "criteria": {
       "has_bamboo": "2025-05-31 03:37:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-05-31 03:52:30 +0000"
     },
     "done": true
   },
@@ -14704,9 +14939,21 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-05-31 03:52:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-31 03:37:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-05-31 03:52:30 +0000"
     },
     "done": true
   },
@@ -14728,6 +14975,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 03:52:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_horse_armor": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-05-31 03:53:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_counter": {
     "criteria": {
       "has_dark_oak_counter": "2025-05-31 03:37:31 +0000"
@@ -14740,9 +14999,21 @@
     },
     "done": true
   },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-05-31 03:52:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/sand_from_sandstone": {
     "criteria": {
       "has_sandstone": "2025-05-31 03:31:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-05-31 03:52:30 +0000"
     },
     "done": true
   },
@@ -14755,6 +15026,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-05-31 03:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-31 03:52:30 +0000"
     },
     "done": true
   },
@@ -14773,6 +15050,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-31 03:31:04 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:artifact_shards": {
+    "criteria": {
+      "has_shards": "2025-05-31 03:51:36 +0000"
     },
     "done": true
   },

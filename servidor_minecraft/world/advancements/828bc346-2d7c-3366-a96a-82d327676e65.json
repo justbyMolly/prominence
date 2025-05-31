@@ -4103,6 +4103,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-31 03:52:55 +0000",
+      "porkchop": "2025-05-31 03:47:41 +0000",
       "apple": "2025-05-30 04:44:38 +0000",
       "cooked_cod": "2025-05-30 04:59:04 +0000",
       "bread": "2025-05-30 02:26:15 +0000",
@@ -9151,6 +9153,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_pressure_plates": {
+    "criteria": {
+      "has_tag_minecraft_wooden_pressure_plates": "2025-05-31 03:48:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/rubber_from_slime_ball": {
     "criteria": {
       "has_slime_ball": "2025-05-31 03:40:59 +0000"
@@ -9211,9 +9219,21 @@
     },
     "done": true
   },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-05-31 03:52:52 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
       "has_blaze_rod": "2025-05-31 03:23:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-05-31 03:49:19 +0000"
     },
     "done": true
   },
@@ -9247,15 +9267,33 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-05-31 03:49:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-31 03:36:49 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-05-31 03:52:52 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_keep_kayra": {
     "criteria": {
       "location0": "2025-05-31 03:29:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_pressure_plates": {
+    "criteria": {
+      "has_tag_minecraft_wooden_pressure_plates": "2025-05-31 03:48:36 +0000"
     },
     "done": true
   },
