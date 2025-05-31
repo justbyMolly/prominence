@@ -10682,6 +10682,12 @@
     },
     "done": true
   },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-05-31 15:11:36 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_mushroom_bookshelf": {
     "criteria": {
       "has_book": "2025-05-31 15:05:29 +0000"
