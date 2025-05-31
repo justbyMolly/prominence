@@ -12294,9 +12294,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-31 15:06:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-31 13:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-31 15:06:05 +0000"
     },
     "done": true
   },
@@ -12306,9 +12318,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-31 15:06:05 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/netherite_candelabra": {
+    "criteria": {
+      "has_item": "2025-05-31 15:06:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
     "criteria": {
       "has_golden_helmet": "2025-05-31 14:16:22 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-31 15:06:05 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-31 15:06:05 +0000"
     },
     "done": true
   },
@@ -12369,6 +12405,12 @@
   "techreborn:recipes/extractor/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-31 13:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-31 15:06:37 +0000"
     },
     "done": true
   },

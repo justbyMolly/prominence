@@ -582,6 +582,7 @@
     "criteria": {
       "silver_birch_forest": "2025-05-30 01:45:01 +0000",
       "shrubland": "2025-05-30 01:38:22 +0000",
+      "redstone_abyss": "2025-05-31 15:08:52 +0000",
       "autumnal_maple_forest": "2025-05-30 01:39:37 +0000",
       "muddy_river": "2025-05-30 01:54:11 +0000",
       "grassy_beach": "2025-05-30 19:05:51 +0000",
@@ -12818,6 +12819,30 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/nether_brick_pillar_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-05-31 15:00:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "redstone_abyss": "2025-05-31 15:08:52 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2025-05-31 14:47:03 +0000"
@@ -12932,6 +12957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_counter": {
     "criteria": {
       "has_birch_counter": "2025-05-31 14:53:40 +0000"
@@ -12956,6 +12987,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/nether_brick_pavers_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-31 14:40:41 +0000"
@@ -12971,6 +13008,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-05-31 14:47:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_small_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-05-31 15:07:28 +0000"
     },
     "done": true
   },
@@ -13028,6 +13071,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_forge": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-31 14:55:07 +0000"
@@ -13055,6 +13104,12 @@
   "stoneworks:recipes/building_blocks/andesite_plate_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
     },
     "done": true
   },
@@ -13088,9 +13143,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/nether_brick_shingle_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_blue": {
     "criteria": {
       "has_dyes/black": "2025-05-31 14:40:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_plates_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
     },
     "done": true
   },
@@ -13112,6 +13179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_cogwheel": {
     "criteria": {
       "has_item": "2025-05-31 14:45:15 +0000"
@@ -13121,6 +13194,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/electrum_nugget": {
     "criteria": {
       "has_electrum_ingot": "2025-05-31 15:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
     },
     "done": true
   },
@@ -13142,9 +13221,21 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-31 15:09:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/netherrack_with_water": {
     "criteria": {
       "has_netherrack": "2025-05-31 14:55:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-05-31 15:00:04 +0000"
     },
     "done": true
   },
@@ -13157,6 +13248,12 @@
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-31 14:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
     },
     "done": true
   },
@@ -13175,6 +13272,12 @@
   "stoneworks:recipes/building_blocks/andesite_shingle_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-31 15:09:26 +0000"
     },
     "done": true
   },
@@ -13304,6 +13407,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/nether_brick_shingles_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
     "criteria": {
       "has_soul_sand": "2025-05-31 13:59:44 +0000"
@@ -13325,6 +13434,12 @@
   "mcda:recipes/crafting_items/gemstone_blue": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-31 14:40:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_shingle_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
     },
     "done": true
   },
@@ -13391,6 +13506,18 @@
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2025-05-31 14:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-31 15:00:04 +0000"
     },
     "done": true
   },
@@ -13472,6 +13599,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_storage_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-31 15:00:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2025-05-31 14:45:15 +0000"
@@ -13487,6 +13620,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-31 14:55:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
     },
     "done": true
   },
@@ -13508,6 +13647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-31 15:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:39:33 +0000"
@@ -13517,6 +13662,12 @@
   "techreborn:recipes/centrifuge/lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-31 14:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
     },
     "done": true
   },
@@ -13550,6 +13701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-31 15:07:22 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2025-05-31 14:00:42 +0000"
@@ -13565,6 +13722,12 @@
   "mcda:recipes/base_armors/soul_robe_boots": {
     "criteria": {
       "has_soul_sand": "2025-05-31 13:59:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_core_specification_item": "2025-05-31 15:09:26 +0000"
     },
     "done": true
   },
@@ -13589,6 +13752,12 @@
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-05-31 14:45:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_plate_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
     },
     "done": true
   },
@@ -13706,6 +13875,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/nether_brick_paver_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-05-31 14:53:40 +0000"
@@ -13730,6 +13905,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/nether_brick_shingle_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:39:33 +0000"
@@ -13742,6 +13923,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-31 15:00:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2025-05-31 14:47:03 +0000"
@@ -13751,6 +13938,12 @@
   "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-31 15:07:22 +0000"
     },
     "done": true
   },
@@ -13778,9 +13971,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/nether_brick_paver_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_block": {
     "criteria": {
       "has_item": "2025-05-31 15:00:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_stairs_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-05-31 15:07:28 +0000"
     },
     "done": true
   },
@@ -13793,6 +13998,12 @@
   "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-31 14:55:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-31 15:00:05 +0000"
     },
     "done": true
   },
@@ -13835,6 +14046,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-31 15:07:22 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-05-31 15:00:40 +0000"
     },
     "done": true
   },
@@ -13946,6 +14169,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_wall_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_plate_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/stripped_rubber_wood": {
     "criteria": {
       "has_rubber_log_stripped": "2025-05-31 14:46:55 +0000"
@@ -14024,9 +14259,27 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-31 15:00:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_drawer": {
     "criteria": {
       "has_birch_drawer": "2025-05-31 14:53:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-31 15:00:05 +0000"
     },
     "done": true
   },
@@ -14042,9 +14295,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/nether_brick_paver_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_plates_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:39:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/nether_brick_plate_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
     },
     "done": true
   },
@@ -14066,9 +14331,27 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/nether_brick_witch_altar": {
+    "criteria": {
+      "has_item": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-31 15:00:05 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/birch_seat": {
     "criteria": {
       "has_plank": "2025-05-31 14:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-31 15:07:22 +0000"
     },
     "done": true
   },
@@ -14138,6 +14421,12 @@
     },
     "done": true
   },
+  "mythicupgrades:recipes/misc/sapphire_upgrade_smithing_template": {
+    "criteria": {
+      "has_sapphire_upgrade_smithing_template": "2025-05-31 15:00:52 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
     "criteria": {
       "has_item": "2025-05-31 15:00:03 +0000"
@@ -14192,9 +14481,27 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-05-31 14:53:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.nether_bricks": "2025-05-31 15:07:28 +0000"
     },
     "done": true
   },
@@ -14222,6 +14529,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-31 15:09:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:39:33 +0000"
@@ -14237,6 +14550,12 @@
   "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
     "criteria": {
       "has_data_storage_chip": "2025-05-31 14:59:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-31 15:00:04 +0000"
     },
     "done": true
   },
@@ -14324,6 +14643,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-05-31 15:09:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_pillar_trim": {
     "criteria": {
       "has_andesite_pillar_trim": "2025-05-31 14:39:33 +0000"
@@ -14333,6 +14658,12 @@
   "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-05-31 14:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
     },
     "done": true
   },
@@ -14414,6 +14745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2025-05-31 14:47:03 +0000"
@@ -14450,6 +14787,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-31 15:09:26 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_ghost_block": {
     "criteria": {
       "has_item": "2025-05-31 15:00:03 +0000"
@@ -14465,6 +14808,12 @@
   "techreborn:recipes/crafting_table/armor/quantum_leggings": {
     "criteria": {
       "has_data_storage_chip": "2025-05-31 14:59:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_anvil": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-31 15:07:28 +0000"
     },
     "done": true
   },
@@ -14507,6 +14856,12 @@
   "handcrafted:recipes/misc/birch_chair": {
     "criteria": {
       "has_birch_chair": "2025-05-31 14:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-31 15:07:22 +0000"
     },
     "done": true
   },
