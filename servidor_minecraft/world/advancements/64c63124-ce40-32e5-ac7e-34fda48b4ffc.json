@@ -594,6 +594,7 @@
       "maple_forest": "2025-05-30 03:44:07 +0000",
       "magnolia_highlands": "2025-05-30 17:37:13 +0000",
       "boreal_forest": "2025-05-30 03:48:06 +0000",
+      "glistering_meadow": "2025-05-31 21:11:56 +0000",
       "towering_cliffs": "2025-05-30 19:01:42 +0000",
       "temperate_grove": "2025-05-30 03:51:47 +0000",
       "cold_river": "2025-05-30 17:45:03 +0000",
@@ -13801,6 +13802,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_nether_bricks": "2025-05-31 20:48:36 +0000"
@@ -13809,9 +13816,16 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "redstone_abyss": "2025-05-31 20:50:46 +0000"
+      "redstone_abyss": "2025-05-31 20:50:46 +0000",
+      "glistering_meadow": "2025-05-31 21:11:56 +0000"
     },
     "done": false
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
   },
   "techreborn:recipes/rolling_machine/cupronickel_heating_coil": {
     "criteria": {
@@ -13840,6 +13854,12 @@
   "endrem:main/nether_eye": {
     "criteria": {
       "nether_eye": "2025-05-31 20:45:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-05-31 21:10:52 +0000"
     },
     "done": true
   },
@@ -13885,6 +13905,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/cinnabar_small_dust_from_dust": {
+    "criteria": {
+      "has_cinnabar_dust": "2025-05-31 21:09:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-31 20:48:36 +0000"
@@ -13921,6 +13947,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-05-31 20:48:36 +0000"
@@ -13951,6 +13989,12 @@
     },
     "done": true
   },
+  "mythicupgrades:recipes/misc/music_disc_soot": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-05-31 21:12:16 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/netherite_ingot_with_lava": {
     "criteria": {
       "has_ingot": "2025-05-31 20:28:56 +0000"
@@ -13960,6 +14004,18 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-05-31 20:58:28 +0000"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/quartz_elevator": {
+    "criteria": {
+      "has_quartz": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/specialblades": {
+    "criteria": {
+      "arcane": "2025-05-31 21:13:06 +0000"
     },
     "done": true
   },
@@ -13993,6 +14049,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_shingles_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-31 20:48:36 +0000"
@@ -14008,6 +14076,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_shingle_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-31 20:48:36 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 21:10:52 +0000"
     },
     "done": true
   },
@@ -14032,6 +14106,12 @@
   "supplementaries:recipes/safe": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 20:28:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 21:10:52 +0000"
     },
     "done": true
   },
@@ -14077,6 +14157,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-31 20:49:45 +0000"
@@ -14107,9 +14193,21 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2025-05-31 20:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 21:10:52 +0000"
     },
     "done": true
   },
@@ -14122,6 +14220,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-05-31 20:57:37 +0000"
+    },
+    "done": true
+  },
+  "archon:learn_spell": {
+    "criteria": {
+      "spell": "2025-05-31 21:18:10 +0000"
     },
     "done": true
   },
@@ -14188,6 +14292,12 @@
   "techreborn:recipes/crafting_table/machine/lapotronic_su": {
     "criteria": {
       "has_advanced_circuit": "2025-05-31 20:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-31 21:10:52 +0000"
     },
     "done": true
   },
@@ -14281,6 +14391,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_the_recipe": "2025-05-31 21:04:48 +0000"
@@ -14290,6 +14406,18 @@
   "techreborn:recipes/grinder/nickel_dust": {
     "criteria": {
       "has_tag_c_nickel_ingots": "2025-05-31 20:45:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 21:10:52 +0000"
     },
     "done": true
   },
@@ -14314,6 +14442,12 @@
   "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
     "criteria": {
       "has_golden_leggings": "2025-05-31 20:52:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-05-31 21:10:52 +0000"
     },
     "done": true
   },
@@ -14371,6 +14505,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/sapphire_upgrade_smithing_template": {
+    "criteria": {
+      "has_sapphire_upgrade_smithing_template": "2025-05-31 21:12:24 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/climbing_gear_helmet": {
     "criteria": {
       "has_leather_helmet": "2025-05-31 20:57:37 +0000"
@@ -14380,6 +14526,12 @@
   "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-05-31 20:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-31 21:10:52 +0000"
     },
     "done": true
   },
@@ -14413,6 +14565,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit": {
     "criteria": {
       "has_the_recipe": "2025-05-31 21:07:03 +0000"
@@ -14437,6 +14595,30 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/unit/storage/quantum_storage_unit": {
     "criteria": {
       "has_data_storage_chip": "2025-05-31 21:07:03 +0000"
@@ -14446,6 +14628,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 20:28:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 21:10:52 +0000"
     },
     "done": true
   },
@@ -14464,6 +14652,18 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 20:28:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-05-31 21:10:52 +0000"
     },
     "done": true
   },
@@ -14491,6 +14691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-31 21:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-31 20:49:45 +0000"
@@ -14506,6 +14712,12 @@
   "mcda:recipes/base_armors/scale_mail_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-05-31 20:58:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/cinnabar_dust": {
+    "criteria": {
+      "has_cinnabar_dust": "2025-05-31 21:09:05 +0000"
     },
     "done": true
   },
