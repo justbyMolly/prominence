@@ -3340,6 +3340,7 @@
       "minecraft:vindicator": "2025-05-30 19:14:10 +0000",
       "minecraft:spider": "2025-05-30 03:45:44 +0000",
       "minecraft:creeper": "2025-05-30 23:29:43 +0000",
+      "minecraft:evoker": "2025-05-31 04:16:05 +0000",
       "minecraft:witch": "2025-05-30 19:17:25 +0000",
       "minecraft:enderman": "2025-05-30 04:11:05 +0000",
       "minecraft:vex": "2025-05-30 19:22:47 +0000",
@@ -3601,6 +3602,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-05-31 04:30:00 +0000",
       "apple": "2025-05-30 03:57:48 +0000",
       "cooked_cod": "2025-05-30 04:10:19 +0000",
       "pumpkin_pie": "2025-05-30 18:01:24 +0000",
@@ -10413,9 +10415,11 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "killed_illusioner": "2025-05-30 19:16:31 +0000"
+      "killed_evoker": "2025-05-31 04:16:05 +0000",
+      "killed_illusioner": "2025-05-30 19:16:31 +0000",
+      "killed_iceologer": "2025-05-31 04:14:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
@@ -10849,6 +10853,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/verdant_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-05-31 04:16:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-31 03:43:26 +0000"
@@ -10951,6 +10961,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-31 04:29:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_tile_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 03:44:00 +0000"
@@ -10972,6 +10988,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 03:44:00 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-05-31 04:21:26 +0000"
     },
     "done": true
   },
@@ -11011,6 +11033,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/ember_robe_helmet": {
+    "criteria": {
+      "has_evocation_robe_helmet": "2025-05-31 04:16:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-31 03:43:26 +0000"
@@ -11038,6 +11066,12 @@
   "stoneworks:recipes/building_blocks/diorite_shingle_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 03:44:00 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_blue_ice": "2025-05-31 04:21:26 +0000"
     },
     "done": true
   },
@@ -11095,6 +11129,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_potion": {
+    "criteria": {
+      "has_potion": "2025-05-31 04:14:55 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-05-31 04:14:02 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_shingle_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 03:44:00 +0000"
@@ -11131,6 +11177,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_diamond_boots": "2025-05-31 04:31:24 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-31 03:43:26 +0000"
@@ -11140,6 +11192,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-05-31 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
+    "criteria": {
+      "has_diamond_boots": "2025-05-31 04:31:24 +0000"
     },
     "done": true
   },
@@ -11188,6 +11246,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 03:44:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-31 04:29:50 +0000"
     },
     "done": true
   },
@@ -11317,6 +11381,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-05-31 04:21:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-31 03:44:00 +0000"
@@ -11350,6 +11420,12 @@
   "stoneworks:recipes/building_blocks/diorite_paver_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 03:44:00 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-05-31 04:21:26 +0000"
     },
     "done": true
   },
@@ -11611,6 +11687,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-05-31 04:21:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 03:43:26 +0000"
@@ -11764,6 +11846,12 @@
   "stoneworks:recipes/building_blocks/granite_shingle_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-31 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-05-31 04:21:26 +0000"
     },
     "done": true
   },
@@ -11932,6 +12020,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-05-31 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-05-31 04:27:45 +0000"
     },
     "done": true
   },
@@ -12109,6 +12203,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_freezing_foil": {
+    "criteria": {
+      "has_blue_ice": "2025-05-31 04:21:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 03:43:26 +0000"
@@ -12145,6 +12245,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-31 04:29:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 03:43:26 +0000"
@@ -12166,6 +12272,12 @@
   "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-31 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/poisonous_potato": {
+    "criteria": {
+      "has_poisonous_potato": "2025-05-31 04:27:45 +0000"
     },
     "done": true
   },

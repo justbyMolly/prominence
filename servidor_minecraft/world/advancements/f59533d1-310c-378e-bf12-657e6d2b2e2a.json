@@ -2915,6 +2915,7 @@
       "minecraft:slime": "2025-05-31 03:35:57 +0000",
       "minecraft:phantom": "2025-05-30 02:23:40 +0000",
       "minecraft:witch": "2025-05-31 02:28:29 +0000",
+      "minecraft:wither_skeleton": "2025-05-31 04:18:18 +0000",
       "minecraft:enderman": "2025-05-30 18:39:05 +0000",
       "minecraft:vex": "2025-05-30 19:19:30 +0000",
       "minecraft:zombie": "2025-05-30 01:49:28 +0000",
@@ -12048,9 +12049,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_diamond_boots": "2025-05-31 04:16:21 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/lure_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-31 03:48:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
+    "criteria": {
+      "has_diamond_boots": "2025-05-31 04:16:21 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_lantern": "2025-05-31 04:16:20 +0000"
     },
     "done": true
   },
@@ -12438,6 +12457,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-05-31 04:11:18 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/efficiency_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-31 03:48:16 +0000"
@@ -12681,6 +12706,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-05-31 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
+    "criteria": {
+      "has_diamond_leggings": "2025-05-31 04:11:18 +0000"
     },
     "done": true
   },
