@@ -105,6 +105,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-05-30 02:19:05 +0000",
+      "redstone_abyss": "2025-05-31 20:48:22 +0000",
       "autumnal_maple_forest": "2025-05-30 02:20:31 +0000",
       "muddy_river": "2025-05-30 02:47:13 +0000",
       "willow_forest": "2025-05-30 02:28:26 +0000",
@@ -9113,6 +9114,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "redstone_abyss": "2025-05-31 20:48:22 +0000",
       "glistering_meadow": "2025-05-31 02:39:42 +0000"
     },
     "done": false
@@ -12638,6 +12640,12 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-05-31 20:47:16 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2025-05-31 19:08:17 +0000"
@@ -12986,9 +12994,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/maple_sapling_from_maple_shrub": {
+    "criteria": {
+      "has_maple_shrub": "2025-05-31 20:43:24 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/straw_hat": {
     "criteria": {
       "has_wheat": "2025-05-31 19:08:17 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "nether_eye": "2025-05-31 20:47:16 +0000"
     },
     "done": true
   },
