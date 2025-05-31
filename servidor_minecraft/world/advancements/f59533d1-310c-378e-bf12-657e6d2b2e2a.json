@@ -12745,6 +12745,18 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:upside_down_forest_cleared": "2025-05-31 14:14:38 +0000"
+    },
+    "done": false
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-05-31 14:14:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/farmland": {
     "criteria": {
       "has_soul_sand": "2025-05-31 13:59:44 +0000"
@@ -12817,6 +12829,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-31 14:14:37 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/misc/lost_soul": {
     "criteria": {
       "has_item": "2025-05-31 13:59:44 +0000"
@@ -12835,6 +12853,24 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/magenta_coffin": {
+    "criteria": {
+      "has_item": "2025-05-31 14:13:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2025-05-31 14:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-31 14:14:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-05-31 13:59:44 +0000"
@@ -12850,6 +12886,12 @@
   "mcda:recipes/base_armors/soul_robe_chestplate": {
     "criteria": {
       "has_soul_sand": "2025-05-31 13:59:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-31 14:14:37 +0000"
     },
     "done": true
   },
