@@ -12406,6 +12406,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/sweeper": {
+    "criteria": {
+      "requirement": "2025-05-31 00:55:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/soul_sand": {
     "criteria": {
       "has_soul_sand": "2025-05-31 00:25:21 +0000"
@@ -12415,6 +12421,12 @@
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2025-05-31 00:25:21 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_10_shieldbearers": {
+    "criteria": {
+      "shieldbearers_killed": "2025-05-31 00:54:27 +0000"
     },
     "done": true
   },
