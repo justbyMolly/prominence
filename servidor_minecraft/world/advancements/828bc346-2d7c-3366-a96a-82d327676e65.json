@@ -6359,6 +6359,12 @@
     },
     "done": true
   },
+  "fwaystones:recipes/void_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-05-31 01:29:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 00:49:48 +0000"
@@ -6488,6 +6494,18 @@
   "stoneworks:recipes/building_blocks/diorite_tile_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-05-31 01:28:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-31 01:29:15 +0000"
     },
     "done": true
   },
@@ -6629,6 +6647,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/reinforced_mail_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-05-31 01:28:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 00:37:32 +0000"
@@ -6677,9 +6701,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/snow_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-05-31 01:28:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-31 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-31 01:29:15 +0000"
     },
     "done": true
   },
@@ -6821,9 +6857,21 @@
     },
     "done": true
   },
+  "minecells:root": {
+    "criteria": {
+      "requirement": "2025-05-31 01:37:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-31 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/book": {
+    "criteria": {
+      "requirement": "2025-05-31 01:37:45 +0000"
     },
     "done": true
   },
@@ -6836,6 +6884,18 @@
   "techreborn:recipes/crafting_table/cable/gold_cable": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 00:37:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/highland_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-05-31 01:28:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-05-31 01:28:28 +0000"
     },
     "done": true
   },
@@ -6869,6 +6929,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
+    "criteria": {
+      "has_totem_of_undying": "2025-05-31 01:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 00:37:32 +0000"
@@ -6896,6 +6962,12 @@
   "alloy_forgery:recipes/alloy_forgery/gold_block": {
     "criteria": {
       "has_the_recipe": "2025-05-31 00:37:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-05-31 01:28:28 +0000"
     },
     "done": true
   },
@@ -6989,6 +7061,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-05-31 01:28:28 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-05-31 00:37:27 +0000"
@@ -7049,6 +7127,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/royal_guard_armor_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-31 01:29:15 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/shulker_armor_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 00:37:32 +0000"
@@ -7058,6 +7142,12 @@
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-05-31 00:37:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-31 01:29:15 +0000"
     },
     "done": true
   },
@@ -7139,9 +7229,21 @@
     },
     "done": true
   },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-05-31 01:37:02 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-31 00:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/buzzcutter": {
+    "criteria": {
+      "requirement": "2025-05-31 01:36:51 +0000"
     },
     "done": true
   },
@@ -7289,6 +7391,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/snow_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-05-31 01:28:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-31 00:54:31 +0000"
@@ -7358,6 +7466,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-31 00:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/fall_from_the_ramparts": {
+    "criteria": {
+      "fall_down": "2025-05-31 01:29:19 +0000"
     },
     "done": true
   },
@@ -7440,6 +7554,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-31 01:29:15 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_broken_sawblade": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 00:37:32 +0000"
@@ -7455,6 +7575,12 @@
   "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-31 00:54:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-05-31 01:28:28 +0000"
     },
     "done": true
   },
@@ -7602,9 +7728,21 @@
     },
     "done": true
   },
+  "minecells:black_bridge": {
+    "criteria": {
+      "requirement": "2025-05-31 01:28:59 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_plates_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-05-31 01:28:28 +0000"
     },
     "done": true
   },
@@ -7701,6 +7839,12 @@
   "stoneworks:recipes/building_blocks/cracked_diorite_tiles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-05-31 01:28:28 +0000"
     },
     "done": true
   },
@@ -7830,6 +7974,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mercenary_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-05-31 01:28:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 00:49:48 +0000"
@@ -7869,6 +8019,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_spider": {
     "criteria": {
       "has_core_specification_item": "2025-05-31 00:48:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-31 01:29:15 +0000"
     },
     "done": true
   },
@@ -7962,9 +8118,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/snow_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-05-31 01:28:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-31 00:49:35 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-31 01:29:15 +0000"
     },
     "done": true
   },
@@ -7983,6 +8151,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-31 00:56:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-05-31 01:29:15 +0000"
     },
     "done": true
   },
