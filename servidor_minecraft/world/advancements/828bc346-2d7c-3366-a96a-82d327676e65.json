@@ -4113,6 +4113,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-31 03:52:55 +0000",
+      "baked_potato": "2025-05-31 16:08:39 +0000",
       "porkchop": "2025-05-31 03:47:41 +0000",
       "apple": "2025-05-30 04:44:38 +0000",
       "cooked_cod": "2025-05-30 04:59:04 +0000",
@@ -9881,6 +9882,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 15:54:13 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_white": {
     "criteria": {
       "has_dyes/black": "2025-05-31 13:50:44 +0000"
@@ -9911,6 +9918,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 15:54:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-31 14:37:10 +0000"
@@ -9920,6 +9933,12 @@
   "twigs:recipes/tuff/tuff_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-05-31 14:37:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-31 16:08:37 +0000"
     },
     "done": true
   },
@@ -10386,6 +10405,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-31 16:08:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 14:29:57 +0000"
@@ -10617,6 +10642,12 @@
   "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 15:54:13 +0000"
     },
     "done": true
   },
@@ -10941,6 +10972,12 @@
   "twigs:recipes/bloodstone/bloodstone": {
     "criteria": {
       "has_item": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 15:54:13 +0000"
     },
     "done": true
   },
@@ -11343,6 +11380,12 @@
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "has_sugar": "2025-05-31 14:58:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 15:54:13 +0000"
     },
     "done": true
   },
@@ -12177,6 +12220,12 @@
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-31 14:37:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-31 16:08:37 +0000"
     },
     "done": true
   },
