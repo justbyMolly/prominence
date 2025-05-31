@@ -3774,6 +3774,7 @@
       "minecraft:witch": "2025-05-31 04:12:08 +0000",
       "minecraft:wither_skeleton": "2025-05-31 02:36:04 +0000",
       "minecraft:piglin": "2025-05-31 15:24:42 +0000",
+      "minecraft:enderman": "2025-05-31 15:33:24 +0000",
       "minecraft:vex": "2025-05-31 04:15:47 +0000",
       "minecraft:zombie": "2025-05-30 02:29:08 +0000"
     },
@@ -11154,6 +11155,12 @@
   "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:29:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2025-05-31 15:34:07 +0000"
     },
     "done": true
   },

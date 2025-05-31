@@ -13831,6 +13831,12 @@
     },
     "done": true
   },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-05-31 15:39:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_pillar_trim": {
     "criteria": {
       "has_birch_pillar_trim": "2025-05-31 14:53:40 +0000"

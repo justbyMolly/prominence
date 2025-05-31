@@ -3608,6 +3608,7 @@
       "cooked_cod": "2025-05-30 04:10:19 +0000",
       "pumpkin_pie": "2025-05-30 18:01:24 +0000",
       "bread": "2025-05-30 03:46:01 +0000",
+      "golden_apple": "2025-05-31 15:35:51 +0000",
       "rotten_flesh": "2025-05-30 15:10:24 +0000",
       "salmon": "2025-05-30 15:35:29 +0000",
       "cooked_chicken": "2025-05-30 15:17:46 +0000",
@@ -12324,6 +12325,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-05-31 15:37:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-05-31 15:06:05 +0000"
@@ -12468,6 +12475,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-05-31 15:32:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-31 15:17:19 +0000"
@@ -12513,6 +12526,12 @@
   "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 15:17:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-05-31 15:37:47 +0000"
     },
     "done": true
   },
@@ -12738,9 +12757,21 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-05-31 15:37:47 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/asphalt/slab": {
     "criteria": {
       "has_asphalt": "2025-05-31 15:11:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/magma_block_with_water": {
+    "criteria": {
+      "has_magma_block": "2025-05-31 15:38:38 +0000"
     },
     "done": true
   },
@@ -12861,6 +12892,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-05-31 15:06:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-05-31 15:32:58 +0000"
     },
     "done": true
   },
