@@ -9811,6 +9811,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-05-31 14:53:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-31 14:03:00 +0000"
@@ -9859,6 +9865,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-05-31 14:53:24 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_white": {
     "criteria": {
       "has_dyes/black": "2025-05-31 13:50:44 +0000"
@@ -9886,6 +9898,12 @@
   "twigs:recipes/tuff/tuff_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-05-31 14:37:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-05-31 14:58:12 +0000"
     },
     "done": true
   },
@@ -9979,6 +9997,13 @@
     },
     "done": true
   },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_sugar": "2025-05-31 14:58:12 +0000",
+      "has_the_recipe": "2025-05-31 14:58:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_shingle_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
@@ -9988,6 +10013,12 @@
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-05-31 14:01:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_sugar": "2025-05-31 14:58:12 +0000"
     },
     "done": true
   },
@@ -10135,6 +10166,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_diamond_boots": "2025-05-31 14:53:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
     "criteria": {
       "has_redstone": "2025-05-31 14:19:25 +0000"
@@ -10147,9 +10184,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-05-31 14:58:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
+    "criteria": {
+      "has_diamond_boots": "2025-05-31 14:53:57 +0000"
     },
     "done": true
   },
@@ -10252,6 +10301,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-31 14:37:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-05-31 14:58:12 +0000"
     },
     "done": true
   },
@@ -10771,6 +10826,12 @@
     },
     "done": true
   },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-05-31 14:52:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-31 14:37:10 +0000"
@@ -10807,6 +10868,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-05-31 14:53:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nutty_cookie": {
+    "criteria": {
+      "has_the_recipe": "2025-05-31 14:58:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_paver_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
@@ -10831,6 +10904,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-05-31 14:53:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
@@ -10843,9 +10922,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2025-05-31 14:58:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_water": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-05-31 14:53:52 +0000"
     },
     "done": true
   },
@@ -10924,6 +11015,12 @@
   "stoneworks:recipes/building_blocks/andesite_plate_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:29:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sugar": {
+    "criteria": {
+      "has_sugar": "2025-05-31 14:58:12 +0000"
     },
     "done": true
   },
@@ -11125,6 +11222,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-05-31 14:58:12 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/silt/silt_from_sand": {
     "criteria": {
       "has_item": "2025-05-31 13:56:19 +0000"
@@ -11173,6 +11276,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2025-05-31 14:58:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
@@ -11194,6 +11303,18 @@
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 14:29:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2025-05-31 14:58:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-05-31 14:58:12 +0000"
     },
     "done": true
   },
@@ -11368,6 +11489,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 14:29:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
+    "criteria": {
+      "has_diamond_leggings": "2025-05-31 14:53:49 +0000"
     },
     "done": true
   },
