@@ -12472,6 +12472,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_10_buzzcutters": {
+    "criteria": {
+      "buzzcutters_killed": "2025-05-31 00:59:05 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/misc/tank_sky_stone": {
     "criteria": {
       "has_sky_stone_block": "2025-05-31 00:28:04 +0000"
@@ -12481,6 +12487,12 @@
   "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-05-31 00:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/fall_from_the_ramparts": {
+    "criteria": {
+      "fall_down": "2025-05-31 01:04:05 +0000"
     },
     "done": true
   },
@@ -12523,6 +12535,12 @@
   "ae2:recipes/misc/shaped/walls/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-05-31 00:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_10_inquisitors": {
+    "criteria": {
+      "inquisitors_killed": "2025-05-31 01:01:00 +0000"
     },
     "done": true
   },
