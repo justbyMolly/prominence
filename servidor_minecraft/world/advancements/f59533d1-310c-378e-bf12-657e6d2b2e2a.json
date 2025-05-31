@@ -9227,6 +9227,7 @@
     "criteria": {
       "onion": "2025-05-30 19:26:57 +0000",
       "potato": "2025-05-30 18:04:00 +0000",
+      "nether_wart": "2025-05-31 15:29:52 +0000",
       "wheat": "2025-05-30 17:18:48 +0000"
     },
     "done": false
@@ -13980,6 +13981,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-31 15:25:52 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/bloodstone": {
     "criteria": {
       "has_item": "2025-05-31 15:18:45 +0000"
@@ -14046,6 +14053,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-31 15:25:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/nether_wart": {
     "criteria": {
       "has_nether_wart": "2025-05-31 15:14:31 +0000"
@@ -14103,6 +14116,12 @@
   "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
     "criteria": {
       "has_advanced_machine_frame": "2025-05-31 15:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-31 15:25:52 +0000"
     },
     "done": true
   },
@@ -14610,6 +14629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-31 15:25:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
     "criteria": {
       "has_steel_ingot": "2025-05-31 15:00:05 +0000"
@@ -14928,6 +14953,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2025-05-31 15:25:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 14:39:33 +0000"
@@ -15129,6 +15160,12 @@
   "copycats:recipes/misc/stonecutting/copycat_stone_pressure_plate": {
     "criteria": {
       "has_item": "2025-05-31 15:00:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-05-31 15:25:52 +0000"
     },
     "done": true
   },

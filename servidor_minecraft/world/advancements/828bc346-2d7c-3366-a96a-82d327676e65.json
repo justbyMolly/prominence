@@ -3773,6 +3773,7 @@
       "minecraft:zombified_piglin": "2025-05-31 02:19:43 +0000",
       "minecraft:witch": "2025-05-31 04:12:08 +0000",
       "minecraft:wither_skeleton": "2025-05-31 02:36:04 +0000",
+      "minecraft:piglin": "2025-05-31 15:24:42 +0000",
       "minecraft:vex": "2025-05-31 04:15:47 +0000",
       "minecraft:zombie": "2025-05-30 02:29:08 +0000"
     },
@@ -9961,6 +9962,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff": {
     "criteria": {
       "has_item": "2025-05-31 14:37:10 +0000"
@@ -10178,6 +10185,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-05-31 14:19:25 +0000"
@@ -10301,6 +10320,12 @@
   "stoneworks:recipes/building_blocks/andesite_shingle_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:29:57 +0000"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/quartz_elevator": {
+    "criteria": {
+      "has_quartz": "2025-05-31 15:29:13 +0000"
     },
     "done": true
   },
@@ -10430,9 +10455,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-31 15:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-31 15:29:13 +0000"
     },
     "done": true
   },
@@ -10505,6 +10542,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:29:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 15:29:13 +0000"
     },
     "done": true
   },
@@ -10694,6 +10737,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
     "criteria": {
       "has_item": "2025-05-31 14:37:10 +0000"
@@ -10868,6 +10917,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
@@ -10964,6 +11019,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:29:57 +0000"
@@ -10985,6 +11046,12 @@
   "ae2:recipes/misc/network/cables/smart_fluix": {
     "criteria": {
       "has_dusts/redstone": "2025-05-31 14:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-31 15:29:13 +0000"
     },
     "done": true
   },
@@ -11174,6 +11241,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/nutty_cookie": {
     "criteria": {
       "has_the_recipe": "2025-05-31 14:58:12 +0000"
@@ -11225,6 +11298,12 @@
   "stoneworks:recipes/building_blocks/cobbled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 15:29:13 +0000"
     },
     "done": true
   },
@@ -11315,6 +11394,12 @@
   "betterend:recipes/misc/sweet_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2025-05-31 14:04:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-05-31 15:29:13 +0000"
     },
     "done": true
   },
@@ -11480,6 +11565,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/impaling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-31 15:05:29 +0000"
@@ -11570,6 +11661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 14:34:02 +0000"
@@ -11621,6 +11718,12 @@
   "stoneworks:recipes/building_blocks/cracked_tuff_tiles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-05-31 15:29:13 +0000"
     },
     "done": true
   },
@@ -11720,9 +11823,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/mending_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-31 15:05:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-05-31 15:29:13 +0000"
     },
     "done": true
   },
@@ -11753,6 +11868,18 @@
   "stoneworks:recipes/building_blocks/cobbled_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-05-31 15:29:13 +0000"
     },
     "done": true
   },
@@ -11792,6 +11919,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-05-31 14:19:25 +0000"
@@ -11828,6 +11961,12 @@
     },
     "done": true
   },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-05-31 15:29:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 14:34:02 +0000"
@@ -11837,6 +11976,12 @@
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 14:29:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-05-31 15:29:13 +0000"
     },
     "done": true
   },
@@ -11897,6 +12042,12 @@
   "betterend:recipes/misc/tined_glass_from_smaragdant": {
     "criteria": {
       "has_glass": "2025-05-31 14:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-31 15:29:13 +0000"
     },
     "done": true
   },
