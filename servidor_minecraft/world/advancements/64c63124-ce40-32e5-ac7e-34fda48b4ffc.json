@@ -10529,6 +10529,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-30 23:54:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-30 23:29:44 +0000"
@@ -10577,15 +10583,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-30 23:54:49 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/glaives/spear_glaive": {
     "criteria": {
       "has_the_recipe": "2025-05-30 23:23:50 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-05-30 23:53:29 +0000"
+    },
+    "done": false
+  },
   "netherdepthsupgrade:recipes/misc/glowstone_dust": {
     "criteria": {
       "has_glowdine": "2025-05-30 23:34:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-05-30 23:54:49 +0000"
     },
     "done": true
   },
@@ -10619,6 +10643,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-30 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-05-30 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 23:54:49 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:recipes/food/glowdine_roll": {
     "criteria": {
       "has_glowdine_slice": "2025-05-30 23:45:24 +0000"
@@ -10628,6 +10670,12 @@
   "mcdw:recipes/double_axes/double_axe_whirlwind": {
     "criteria": {
       "has_feather": "2025-05-30 23:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-30 23:53:29 +0000"
     },
     "done": true
   },
@@ -10679,9 +10727,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-05-30 23:54:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 23:54:49 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-05-30 23:29:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-05-30 23:54:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-05-30 23:54:49 +0000"
     },
     "done": true
   },
@@ -10721,9 +10793,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 23:54:49 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_smithing": {
     "criteria": {
       "has_iron": "2025-05-30 23:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-30 23:54:49 +0000"
     },
     "done": true
   },

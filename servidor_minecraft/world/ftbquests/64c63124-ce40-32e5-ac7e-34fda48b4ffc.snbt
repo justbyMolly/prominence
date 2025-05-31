@@ -261,5 +261,12 @@
 		"64c63124ce4032e5ac7e34fda48b4ffc:4EB0CB7EF7E56D4D": 1748648677451L
 		"64c63124ce4032e5ac7e34fda48b4ffc:4A4473CE89392149": 1748648686430L
 	}
-	player_data: { }
+	player_data: {
+		64c63124ce4032e5ac7e34fda48b4ffc: {
+			pinned_quests: [
+				"31388834855FB88E"
+				"4D3F0D8217067D24"
+			]
+		}
+	}
 }
