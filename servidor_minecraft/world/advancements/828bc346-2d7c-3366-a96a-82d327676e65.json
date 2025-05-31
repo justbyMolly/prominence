@@ -6677,6 +6677,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-31 01:58:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
     "criteria": {
       "has_ruby_gem": "2025-05-31 00:56:42 +0000"
@@ -6686,6 +6692,12 @@
   "twigs:recipes/rocky_dirt": {
     "criteria": {
       "has_item": "2025-05-31 00:51:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-31 01:58:18 +0000"
     },
     "done": true
   },
@@ -6746,6 +6758,12 @@
   "mcda:recipes/base_armors/evocation_robe_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 00:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-31 01:58:18 +0000"
     },
     "done": true
   },
@@ -6944,6 +6962,12 @@
   "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
     "criteria": {
       "has_totem_of_undying": "2025-05-31 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-31 01:58:18 +0000"
     },
     "done": true
   },
@@ -7187,6 +7211,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-31 01:58:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 00:37:32 +0000"
@@ -7271,6 +7301,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/paper": {
+    "criteria": {
+      "has_the_recipe": "2025-05-31 01:58:18 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-05-31 00:41:15 +0000"
@@ -7316,6 +7352,12 @@
   "stoneworks:recipes/building_blocks/cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-31 01:58:18 +0000"
     },
     "done": true
   },
@@ -7605,6 +7647,12 @@
   "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-31 00:54:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-31 01:58:18 +0000"
     },
     "done": true
   },
