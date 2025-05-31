@@ -4118,7 +4118,8 @@
       "cooked_cod": "2025-05-30 04:59:04 +0000",
       "bread": "2025-05-30 02:26:15 +0000",
       "rotten_flesh": "2025-05-30 02:27:15 +0000",
-      "cooked_salmon": "2025-05-30 04:57:04 +0000"
+      "cooked_salmon": "2025-05-30 04:57:04 +0000",
+      "carrot": "2025-05-31 15:40:37 +0000"
     },
     "done": false
   },
@@ -9609,6 +9610,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-05-31 14:15:51 +0000",
+      "potato": "2025-05-31 15:40:28 +0000",
       "nether_wart": "2025-05-31 04:11:10 +0000",
       "carrot": "2025-05-31 13:50:21 +0000"
     },
@@ -9873,6 +9875,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-05-31 15:40:27 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_white": {
     "criteria": {
       "has_dyes/black": "2025-05-31 13:50:44 +0000"
@@ -10063,6 +10071,12 @@
   "betterend:recipes/misc/infinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-31 15:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-31 15:40:27 +0000"
     },
     "done": true
   },
@@ -10309,6 +10323,12 @@
   "stoneworks:recipes/building_blocks/cobbled_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-05-31 15:40:27 +0000"
     },
     "done": true
   },
@@ -11404,6 +11424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-31 15:40:27 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_smelting": {
     "criteria": {
       "has_item.minecraft.quartz": "2025-05-31 15:29:13 +0000"
@@ -11836,6 +11862,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/potato": {
+    "criteria": {
+      "has_potato": "2025-05-31 15:40:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/mending_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-31 15:05:29 +0000"
@@ -11935,6 +11967,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-05-31 14:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-31 15:40:27 +0000"
     },
     "done": true
   },
