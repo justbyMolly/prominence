@@ -9943,6 +9943,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-31 14:44:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/glassfiber_cable_4": {
     "criteria": {
       "has_redstone": "2025-05-31 14:19:25 +0000"
@@ -10069,6 +10075,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-31 14:44:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-05-31 14:19:25 +0000"
@@ -10159,6 +10171,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-31 14:44:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 14:34:02 +0000"
@@ -10192,6 +10210,12 @@
   "stoneworks:recipes/building_blocks/mossy_tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-05-31 14:49:44 +0000"
     },
     "done": true
   },
@@ -10267,6 +10291,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-31 14:44:36 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-31 14:44:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:29:57 +0000"
@@ -10306,6 +10342,12 @@
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 14:29:57 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_blue": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-31 14:44:36 +0000"
     },
     "done": true
   },
@@ -10363,6 +10405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-31 14:44:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
@@ -10402,6 +10450,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:29:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-31 14:44:36 +0000"
     },
     "done": true
   },
@@ -10600,6 +10654,12 @@
   "promenade:recipes/stonecutting/moai": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-05-31 14:49:44 +0000"
     },
     "done": true
   },
@@ -10891,6 +10951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-05-31 14:43:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-31 13:49:42 +0000"
@@ -10921,6 +10987,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-31 14:44:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_plate_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-31 14:37:10 +0000"
@@ -10930,6 +11002,12 @@
   "soulsweapons:recipes/misc/glass_vial": {
     "criteria": {
       "has_item": "2025-05-31 14:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-31 14:44:36 +0000"
     },
     "done": true
   },
@@ -11245,6 +11323,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-05-31 14:49:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 14:29:57 +0000"
@@ -11368,6 +11452,12 @@
   "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
     "criteria": {
       "has_colorless_glass": "2025-05-31 14:03:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-31 14:44:36 +0000"
     },
     "done": true
   },
