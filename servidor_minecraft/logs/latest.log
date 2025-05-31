@@ -7398,3 +7398,238 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	... 29 more
 [21:29:37] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to sigan_viendo01]
 [21:29:37] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of A1lenSS accepted server config.
+[21:34:22] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[21:35:51] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to -5953.500000, 104.500000, -2638.500000]
+[21:35:57] [Server thread/INFO]: [A1lenSS: Teleported AlonsoVanDeKap to A1lenSS]
+[21:36:00] [Server thread/INFO]: [A1lenSS: Teleported sigan_viendo01 to A1lenSS]
+[21:36:31] [Server thread/INFO]: [A1lenSS: Teleported sigan_viendo01 to A1lenSS]
+[21:36:47] [Server thread/INFO]: [A1lenSS: Set the time to 1000]
+[21:37:30] [Server thread/INFO]: A1lenSS was blown up by Night Lich
+[21:37:30] [Server thread/INFO]: Created new backpack backup file for A1lenSS with unique ID travelersbackpack.standard_31.05.2025-21.37.30.dat
+[21:37:32] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of A1lenSS accepted server config.
+[21:37:34] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to -5949.500000, 102.500000, -2642.500000]
+[21:37:38] [Server thread/INFO]: A1lenSS claimed a grave belonging to A1lenSS at -5952, 102, -2646, minecraft:overworld
+[21:38:36] [Server thread/INFO]: AlonsoVanDeKap was blown up by Night Lich
+[21:38:36] [Server thread/INFO]: Created new backpack backup file for AlonsoVanDeKap with unique ID travelersbackpack.iron_31.05.2025-21.38.36.dat
+[21:38:37] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of AlonsoVanDeKap accepted server config.
+[21:38:40] [Server thread/INFO]: [A1lenSS: Teleported AlonsoVanDeKap to A1lenSS]
+[21:38:46] [Server thread/INFO]: A1lenSS was blown up by Night Lich
+[21:38:46] [Server thread/INFO]: Created new backpack backup file for A1lenSS with unique ID travelersbackpack.standard_31.05.2025-21.38.46.dat
+[21:38:47] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of A1lenSS accepted server config.
+[21:38:49] [Server thread/INFO]: AlonsoVanDeKap claimed a grave belonging to AlonsoVanDeKap at -6027, 66, -2705, minecraft:overworld
+[21:38:50] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to -5996.500000, 62.500000, -2686.500000]
+[21:39:06] [Server thread/INFO]: A1lenSS claimed a grave belonging to A1lenSS at -5998, 63, -2689, minecraft:overworld
+[21:40:12] [Server thread/INFO]: sigan_viendo01 was slain by Phantom
+[21:40:13] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[21:40:16] [Server thread/INFO]: [A1lenSS: Teleported sigan_viendo01 to A1lenSS]
+[21:40:21] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at -6061, 69, -2714, minecraft:overworld
+[21:40:27] [Server thread/INFO]: AlonsoVanDeKap was blown up by Night Lich
+[21:40:27] [Server thread/INFO]: Created new backpack backup file for AlonsoVanDeKap with unique ID travelersbackpack.iron_31.05.2025-21.40.27.dat
+[21:40:28] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of AlonsoVanDeKap accepted server config.
+[21:40:29] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[21:40:33] [Server thread/INFO]: [A1lenSS: Teleported AlonsoVanDeKap to A1lenSS]
+[21:40:36] [Server thread/INFO]: AlonsoVanDeKap claimed a grave belonging to AlonsoVanDeKap at -6060, 67, -2749, minecraft:overworld
+[21:41:25] [pool-11-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga]] from pos class_2338{x=-6309, y=71, z=-2635}
+[21:42:07] [Server thread/INFO]: A1lenSS was blown up by Night Lich
+[21:42:07] [Server thread/INFO]: Created new backpack backup file for A1lenSS with unique ID travelersbackpack.standard_31.05.2025-21.42.07.dat
+[21:42:09] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of A1lenSS accepted server config.
+[21:42:12] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to -6129.500000, 69.500000, -2755.500000]
+[21:42:20] [Server thread/INFO]: A1lenSS claimed a grave belonging to A1lenSS at -6131, 70, -2761, minecraft:overworld
+[21:42:22] [Server thread/INFO]: sigan_viendo01 was frozen to death by Phantom
+[21:42:24] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[21:42:29] [Server thread/INFO]: AlonsoVanDeKap has reached the goal [Postmortal]
+[21:42:29] [Server thread/INFO]: [A1lenSS: Teleported sigan_viendo01 to A1lenSS]
+[21:42:33] [Server thread/INFO]: AlonsoVanDeKap was blown up by Night Lich
+[21:42:33] [Server thread/INFO]: Created new backpack backup file for AlonsoVanDeKap with unique ID travelersbackpack.iron_31.05.2025-21.42.33.dat
+[21:42:35] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of AlonsoVanDeKap accepted server config.
+[21:42:38] [Server thread/INFO]: [A1lenSS: Teleported AlonsoVanDeKap to A1lenSS]
+[21:42:46] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at -6116, 78, -2706, minecraft:overworld
+[21:42:47] [Server thread/INFO]: AlonsoVanDeKap claimed a grave belonging to AlonsoVanDeKap at -6193, 62, -2760, minecraft:overworld
+[21:43:05] [Server thread/INFO]: Villager class_1646['Edyth'/55808, l='ServerLevel[world]', x=-6097.51, y=64.00, z=-2862.30] died, message: 'Edyth was slain by Zombie'
+[21:43:05] [Server thread/INFO]: Named entity class_1646['Edyth'/55808, l='ServerLevel[world]', x=-6097.51, y=64.00, z=-2862.30] died: Edyth was slain by Zombie
+[21:43:49] [pool-11-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa]] from pos class_2338{x=-5979, y=69, z=-2971}
+[21:43:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[21:44:27] [Server thread/INFO]: sigan_viendo01 was slain by Phantom
+[21:44:28] [Server thread/INFO]: A1lenSS was slain by Phantom
+[21:44:28] [Server thread/INFO]: Created new backpack backup file for A1lenSS with unique ID travelersbackpack.standard_31.05.2025-21.44.28.dat
+[21:44:28] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[21:44:30] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of A1lenSS accepted server config.
+[21:44:37] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to AlonsoVanDeKap]
+[21:44:40] [Server thread/INFO]: [A1lenSS: Teleported sigan_viendo01 to A1lenSS]
+[21:44:51] [Server thread/INFO]: AlonsoVanDeKap was blown up by Night Lich
+[21:44:51] [Server thread/INFO]: Created new backpack backup file for AlonsoVanDeKap with unique ID travelersbackpack.iron_31.05.2025-21.44.51.dat
+[21:44:52] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of AlonsoVanDeKap accepted server config.
+[21:44:56] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at -6114, 70, -2769, minecraft:overworld
+[21:45:01] [Server thread/INFO]: [A1lenSS: Teleported AlonsoVanDeKap to A1lenSS]
+[21:45:02] [Server thread/INFO]: A1lenSS claimed a grave belonging to A1lenSS at -6121, 70, -2790, minecraft:overworld
+[21:45:23] [Server thread/INFO]: AlonsoVanDeKap claimed a grave belonging to AlonsoVanDeKap at -6118, 74, -2712, minecraft:overworld
+[21:45:48] [Server thread/INFO]: A1lenSS was slain by Revenant
+[21:45:48] [Server thread/INFO]: Created new backpack backup file for A1lenSS with unique ID travelersbackpack.standard_31.05.2025-21.45.48.dat
+[21:45:49] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of A1lenSS accepted server config.
+[21:45:51] [Server thread/INFO]: AlonsoVanDeKap was blown up by Night Lich
+[21:45:51] [Server thread/INFO]: Created new backpack backup file for AlonsoVanDeKap with unique ID travelersbackpack.iron_31.05.2025-21.45.51.dat
+[21:45:52] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of AlonsoVanDeKap accepted server config.
+[21:46:01] [Server thread/INFO]: A1lenSS claimed a grave belonging to A1lenSS at -6057, 69, -2702, minecraft:overworld
+[21:46:02] [Server thread/INFO]: AlonsoVanDeKap claimed a grave belonging to AlonsoVanDeKap at -6149, 65, -2696, minecraft:overworld
+[21:46:13] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[21:46:55] [Server thread/INFO]: [A1lenSS: Set the time to 1000]
+[21:47:05] [Server thread/INFO]: AlonsoVanDeKap was blown up by Night Lich
+[21:47:05] [Server thread/INFO]: Created new backpack backup file for AlonsoVanDeKap with unique ID travelersbackpack.iron_31.05.2025-21.47.05.dat
+[21:47:06] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of AlonsoVanDeKap accepted server config.
+[21:47:19] [Server thread/INFO]: AlonsoVanDeKap claimed a grave belonging to AlonsoVanDeKap at -6131, 70, -2737, minecraft:overworld
+[21:47:40] [Server thread/INFO]: AlonsoVanDeKap was slain by Phantom
+[21:47:40] [Server thread/INFO]: Created new backpack backup file for AlonsoVanDeKap with unique ID travelersbackpack.iron_31.05.2025-21.47.40.dat
+[21:47:41] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of AlonsoVanDeKap accepted server config.
+[21:47:43] [Server thread/INFO]: AlonsoVanDeKap claimed a grave belonging to AlonsoVanDeKap at -6111, 79, -2718, minecraft:overworld
+[21:49:04] [Server thread/INFO]: Villager class_1646['Buck'/55774, l='ServerLevel[world]', x=-6104.60, y=69.00, z=-2790.30] died, message: 'Buck was slain by sigan_viendo01'
+[21:49:04] [Server thread/INFO]: Named entity class_1646['Buck'/55774, l='ServerLevel[world]', x=-6104.60, y=69.00, z=-2790.30] died: Buck was slain by sigan_viendo01
+[21:49:04] [Server thread/WARN]: [puffish_skills] Expression returned a value that is not finite at `experience` at `data` at index 0 at `sources` at `categories/prom/experience.json`
+[21:49:09] [Server thread/INFO]: A1lenSS was blown up by Night Lich
+[21:49:09] [Server thread/INFO]: Created new backpack backup file for A1lenSS with unique ID travelersbackpack.standard_31.05.2025-21.49.09.dat
+[21:49:10] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of A1lenSS accepted server config.
+[21:49:12] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to -6102.500000, 76.500000, -2728.500000]
+[21:49:23] [Server thread/INFO]: A1lenSS claimed a grave belonging to A1lenSS at -6102, 77, -2729, minecraft:overworld
+[21:49:33] [Server thread/INFO]: AlonsoVanDeKap was blown up by Night Lich
+[21:49:33] [Server thread/INFO]: Created new backpack backup file for AlonsoVanDeKap with unique ID travelersbackpack.iron_31.05.2025-21.49.33.dat
+[21:49:35] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of AlonsoVanDeKap accepted server config.
+[21:49:53] [Server thread/INFO]: AlonsoVanDeKap claimed a grave belonging to AlonsoVanDeKap at -6096, 70, -2775, minecraft:overworld
+[21:50:06] [Server thread/INFO]: A1lenSS was blown up by Night Lich
+[21:50:06] [Server thread/INFO]: Created new backpack backup file for A1lenSS with unique ID travelersbackpack.standard_31.05.2025-21.50.06.dat
+[21:50:08] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of A1lenSS accepted server config.
+[21:50:12] [Server thread/INFO]: [A1lenSS: Teleported A1lenSS to -6143.500000, 64.500000, -2664.500000]
+[21:50:16] [Server thread/INFO]: A1lenSS claimed a grave belonging to A1lenSS at -6144, 64, -2667, minecraft:overworld
+[21:51:11] [Server thread/INFO]: sigan_viendo01 was slain by Zombie
+[21:51:13] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[21:51:20] [Server thread/INFO]: AlonsoVanDeKap was blown up by Night Lich
+[21:51:20] [Server thread/INFO]: Created new backpack backup file for AlonsoVanDeKap with unique ID travelersbackpack.iron_31.05.2025-21.51.20.dat
+[21:51:22] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of AlonsoVanDeKap accepted server config.
+[21:51:24] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at -6122, 70, -2772, minecraft:overworld

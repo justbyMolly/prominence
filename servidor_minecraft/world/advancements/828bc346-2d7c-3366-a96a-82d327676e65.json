@@ -3778,7 +3778,8 @@
       "minecraft:piglin": "2025-05-31 15:24:42 +0000",
       "minecraft:enderman": "2025-05-31 15:33:24 +0000",
       "minecraft:vex": "2025-05-31 04:15:47 +0000",
-      "minecraft:zombie": "2025-05-30 02:29:08 +0000"
+      "minecraft:zombie": "2025-05-30 02:29:08 +0000",
+      "minecraft:zombie_villager": "2025-05-31 21:41:49 +0000"
     },
     "done": false
   },
@@ -4586,8 +4587,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-31 03:29:10 +0000",
+      "minecraft:frozen_river": "2025-05-31 21:36:01 +0000",
       "minecraft:river": "2025-05-30 02:28:21 +0000",
       "minecraft:stony_shore": "2025-05-31 03:29:55 +0000",
+      "minecraft:snowy_plains": "2025-05-31 21:36:17 +0000",
       "minecraft:cold_ocean": "2025-05-30 04:18:54 +0000",
       "minecraft:forest": "2025-05-31 00:37:23 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-31 03:29:16 +0000"
@@ -9613,6 +9616,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "kelp": "2025-05-31 21:31:15 +0000",
       "sugar_cane": "2025-05-31 14:15:51 +0000",
       "potato": "2025-05-31 15:40:28 +0000",
       "nether_wart": "2025-05-31 04:11:10 +0000",
@@ -12628,6 +12632,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-05-31 21:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 19:15:13 +0000"
@@ -12658,15 +12668,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_redstone_block": "2025-05-31 21:32:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2025-05-31 21:32:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
     "criteria": {
       "has_diamond_axe": "2025-05-31 20:34:28 +0000"
     },
     "done": true
   },
+  "bewitchment:recipes/tools/voodoo_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-05-31 21:45:41 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-05-31 21:13:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_poppet": {
+    "criteria": {
+      "has_item": "2025-05-31 21:45:41 +0000"
     },
     "done": true
   },
@@ -12724,9 +12758,33 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/white_coffin": {
+    "criteria": {
+      "has_item": "2025-05-31 21:44:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_redstone_block": "2025-05-31 21:32:12 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-05-31 21:13:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/protection_poppet": {
+    "criteria": {
+      "has_item": "2025-05-31 21:45:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-05-31 21:42:29 +0000"
     },
     "done": true
   },
@@ -12760,6 +12818,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/curse_poppet": {
+    "criteria": {
+      "has_item": "2025-05-31 21:45:41 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/flour": {
     "criteria": {
       "has_grain": "2025-05-31 19:08:17 +0000"
@@ -12778,6 +12842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-31 21:42:28 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 19:15:13 +0000"
@@ -12793,6 +12863,12 @@
   "mcdw:recipes/swords/sword_obsidian_claymore": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 19:15:13 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 21:45:41 +0000"
     },
     "done": true
   },
@@ -12844,9 +12920,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-31 21:42:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
       "has_bone_block": "2025-05-31 20:57:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/redstone_plate": {
+    "criteria": {
+      "has_redstone_block": "2025-05-31 21:32:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/vampiric_poppet": {
+    "criteria": {
+      "has_item": "2025-05-31 21:45:41 +0000"
     },
     "done": true
   },
@@ -12868,9 +12962,27 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/mending_poppet": {
+    "criteria": {
+      "has_item": "2025-05-31 21:45:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-05-31 21:42:29 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/netherite": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 19:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-31 21:42:28 +0000"
     },
     "done": true
   },
@@ -12910,9 +13022,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/fatigue_poppet": {
+    "criteria": {
+      "has_item": "2025-05-31 21:45:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-05-31 19:43:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-31 21:32:12 +0000"
     },
     "done": true
   },
@@ -12952,9 +13076,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bed": {
+    "criteria": {
+      "has_bed": "2025-05-31 21:44:31 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-05-31 20:04:29 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/judgment_poppet": {
+    "criteria": {
+      "has_item": "2025-05-31 21:45:41 +0000"
     },
     "done": true
   },
@@ -13006,6 +13142,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 21:45:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 19:15:13 +0000"
@@ -13018,9 +13160,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2025-05-31 21:42:28 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-05-31 19:43:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-31 21:42:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/red_garnet_dust": {
+    "criteria": {
+      "has_redstone_block": "2025-05-31 21:32:12 +0000"
     },
     "done": true
   },
@@ -13066,6 +13226,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2025-05-31 21:42:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/maple_sapling_from_maple_shrub": {
     "criteria": {
       "has_maple_shrub": "2025-05-31 20:43:24 +0000"
@@ -13084,6 +13250,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2025-05-31 21:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 21:45:41 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2025-05-31 21:13:26 +0000"
@@ -13093,6 +13271,12 @@
   "betterend:recipes/misc/dragon_bone_block": {
     "criteria": {
       "has_bone_block": "2025-05-31 20:57:05 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/death_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-05-31 21:45:41 +0000"
     },
     "done": true
   },
