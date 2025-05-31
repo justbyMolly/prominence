@@ -587,6 +587,7 @@
       "pine_taiga": "2025-05-31 19:59:55 +0000",
       "autumnal_maple_forest": "2025-05-30 17:13:29 +0000",
       "muddy_river": "2025-05-30 17:26:49 +0000",
+      "frozen_tundra": "2025-05-31 22:01:30 +0000",
       "poppy_fields": "2025-05-30 17:53:50 +0000",
       "grassy_beach": "2025-05-31 03:37:28 +0000",
       "blackwood_taiga": "2025-05-30 17:34:15 +0000",
@@ -596,6 +597,7 @@
       "boreal_forest": "2025-05-30 03:48:06 +0000",
       "glistering_meadow": "2025-05-31 21:11:56 +0000",
       "towering_cliffs": "2025-05-30 19:01:42 +0000",
+      "cold_boreal_taiga": "2025-05-31 22:01:52 +0000",
       "temperate_grove": "2025-05-30 03:51:47 +0000",
       "cold_river": "2025-05-30 17:45:03 +0000",
       "gravel_beach": "2025-05-30 17:13:21 +0000",
@@ -612,6 +614,7 @@
       "pine_taiga": "2025-05-31 19:59:55 +0000",
       "autumnal_maple_forest": "2025-05-30 17:13:29 +0000",
       "muddy_river": "2025-05-30 17:26:49 +0000",
+      "frozen_tundra": "2025-05-31 22:01:30 +0000",
       "poppy_fields": "2025-05-30 17:53:50 +0000",
       "grassy_beach": "2025-05-31 03:37:28 +0000",
       "blackwood_taiga": "2025-05-30 17:34:15 +0000",
@@ -620,6 +623,7 @@
       "magnolia_highlands": "2025-05-30 17:37:13 +0000",
       "boreal_forest": "2025-05-30 03:48:06 +0000",
       "towering_cliffs": "2025-05-30 19:01:42 +0000",
+      "cold_boreal_taiga": "2025-05-31 22:01:52 +0000",
       "temperate_grove": "2025-05-30 03:51:47 +0000",
       "cold_river": "2025-05-30 17:45:03 +0000",
       "gravel_beach": "2025-05-30 17:13:21 +0000",
@@ -4620,6 +4624,7 @@
       "minecraft:frozen_river": "2025-05-31 21:35:58 +0000",
       "minecraft:river": "2025-05-30 03:52:36 +0000",
       "minecraft:snowy_plains": "2025-05-31 21:36:03 +0000",
+      "minecraft:snowy_taiga": "2025-05-31 21:59:07 +0000",
       "minecraft:swamp": "2025-05-30 17:54:52 +0000",
       "minecraft:cold_ocean": "2025-05-30 03:58:34 +0000",
       "minecraft:forest": "2025-05-31 16:57:23 +0000",
@@ -14422,6 +14427,12 @@
   "mcda:recipes/crafting_items/gemstone_purple": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 20:28:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-05-31 22:06:24 +0000"
     },
     "done": true
   },

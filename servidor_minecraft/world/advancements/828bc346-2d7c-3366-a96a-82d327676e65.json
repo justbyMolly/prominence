@@ -110,6 +110,7 @@
       "muddy_river": "2025-05-30 02:47:13 +0000",
       "willow_forest": "2025-05-30 02:28:26 +0000",
       "maple_forest": "2025-05-30 02:22:50 +0000",
+      "frozen_pine_taiga": "2025-05-31 21:59:45 +0000",
       "magnolia_highlands": "2025-05-30 02:24:34 +0000",
       "boreal_forest": "2025-05-31 02:20:47 +0000",
       "glistering_meadow": "2025-05-31 02:39:42 +0000",
@@ -145,6 +146,7 @@
       "muddy_river": "2025-05-30 02:47:13 +0000",
       "willow_forest": "2025-05-30 02:28:26 +0000",
       "maple_forest": "2025-05-30 02:22:50 +0000",
+      "frozen_pine_taiga": "2025-05-31 21:59:45 +0000",
       "magnolia_highlands": "2025-05-30 02:24:34 +0000",
       "boreal_forest": "2025-05-31 02:20:47 +0000",
       "cold_river": "2025-05-31 00:42:43 +0000",
@@ -3361,6 +3363,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "pine_log": "2025-05-31 21:59:48 +0000",
       "maple_log": "2025-05-30 02:23:26 +0000"
     },
     "done": false
@@ -12750,6 +12753,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-05-31 21:59:48 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-05-31 21:13:26 +0000"
@@ -13116,6 +13125,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 21:59:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-05-31 21:42:28 +0000"
@@ -13371,6 +13386,12 @@
   "bewitchment:recipes/tools/judgment_poppet": {
     "criteria": {
       "has_item": "2025-05-31 21:45:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 21:59:48 +0000"
     },
     "done": true
   },
