@@ -12644,6 +12644,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
+    "criteria": {
+      "has_diamond_axe": "2025-05-31 20:34:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 19:15:13 +0000"
@@ -12761,6 +12767,12 @@
   "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
     "criteria": {
       "has_netherrack_stalactite": "2025-05-31 19:04:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
+    "criteria": {
+      "has_diamond_axe": "2025-05-31 20:34:28 +0000"
     },
     "done": true
   },
