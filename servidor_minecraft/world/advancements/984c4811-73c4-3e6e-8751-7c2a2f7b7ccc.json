@@ -15105,6 +15105,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-05-31 21:24:03 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_15_undead_archers": {
     "criteria": {
       "undead_archers_killed": "2025-05-31 21:18:06 +0000"
