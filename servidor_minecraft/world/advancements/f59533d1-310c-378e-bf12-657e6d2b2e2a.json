@@ -12751,6 +12751,13 @@
     },
     "done": false
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-05-31 14:16:11 +0000",
+      "minecraft:soul_sand_valley": "2025-05-31 14:15:53 +0000"
+    },
+    "done": false
+  },
   "netherdepthsupgrade:main/root": {
     "criteria": {
       "entered_nether": "2025-05-31 14:14:37 +0000"
@@ -12892,6 +12899,18 @@
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-05-31 14:14:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-05-31 14:16:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-05-31 14:20:11 +0000"
     },
     "done": true
   },

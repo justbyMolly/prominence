@@ -3342,6 +3342,7 @@
       "minecraft:creeper": "2025-05-30 23:29:43 +0000",
       "minecraft:evoker": "2025-05-31 04:16:05 +0000",
       "minecraft:witch": "2025-05-30 19:17:25 +0000",
+      "minecraft:piglin": "2025-05-31 14:16:21 +0000",
       "minecraft:enderman": "2025-05-30 04:11:05 +0000",
       "minecraft:vex": "2025-05-30 19:22:47 +0000",
       "minecraft:zombie": "2025-05-30 03:46:55 +0000"
@@ -12281,15 +12282,87 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:upside_down_forest_cleared": "2025-05-31 14:15:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-31 14:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-31 13:55:52 +0000"
     },
     "done": true
   },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-05-31 14:15:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
+    "criteria": {
+      "has_golden_helmet": "2025-05-31 14:16:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherite_scrap_from_ancient_debris_with_water": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-31 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-31 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-31 14:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-31 14:15:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2025-05-31 14:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-31 14:20:27 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-31 14:15:52 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/vanilla_piles/poppy": {
     "criteria": {
       "has_flower": "2025-05-31 13:55:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherite_scrap_from_ancient_debris_with_mercury": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-31 14:20:27 +0000"
     },
     "done": true
   },
