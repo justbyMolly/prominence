@@ -12614,6 +12614,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-31 20:10:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-05-31 19:14:26 +0000"
@@ -12641,6 +12647,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 19:15:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-05-31 20:10:26 +0000"
     },
     "done": true
   },
@@ -12770,6 +12782,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-31 20:10:26 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/netherite_hammer": {
     "criteria": {
       "has_material": "2025-05-31 19:15:13 +0000"
@@ -12785,6 +12803,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-05-31 19:08:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-05-31 20:10:26 +0000"
     },
     "done": true
   },
@@ -12836,9 +12860,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-05-31 20:10:26 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_bone_cudgel": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 19:15:13 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-31 20:04:29 +0000"
     },
     "done": true
   },
@@ -12854,9 +12890,21 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-05-31 20:10:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-31 19:08:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-05-31 20:10:26 +0000"
     },
     "done": true
   },
@@ -12872,9 +12920,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-05-31 20:10:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-05-31 19:43:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-31 20:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-31 20:10:26 +0000"
     },
     "done": true
   },
@@ -12899,6 +12965,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-05-31 19:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-31 20:07:12 +0000"
     },
     "done": true
   },

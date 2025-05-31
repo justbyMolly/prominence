@@ -13772,5 +13772,41 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-31 20:24:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-31 20:24:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-31 20:24:43 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ram_armor_trim_smithing_template": "2025-05-31 20:24:43 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-31 20:24:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-31 20:24:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
