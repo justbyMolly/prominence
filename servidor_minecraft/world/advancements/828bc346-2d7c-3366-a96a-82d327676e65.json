@@ -14294,5 +14294,11 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
+    "criteria": {
+      "has_grass_variant": "2025-06-01 23:11:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
