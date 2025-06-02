@@ -15925,6 +15925,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-06-02 02:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-06-02 02:20:43 +0000"
@@ -15946,6 +15952,12 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-06-02 00:25:16 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-06-02 02:25:59 +0000"
     },
     "done": true
   },
@@ -16216,6 +16228,12 @@
   "twigs:recipes/basalt_blocks/smooth_basalt_brick_wall_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_item": "2025-06-02 02:04:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/spruce_pressure_plate_from_slab": {
+    "criteria": {
+      "has_spruce_slab": "2025-06-02 02:22:43 +0000"
     },
     "done": true
   },
