@@ -14853,6 +14853,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-06-02 03:58:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-06-02 03:13:27 +0000"
@@ -14862,6 +14868,18 @@
   "oxidized:recipes/copper_nugget": {
     "criteria": {
       "has_copper_block": "2025-06-02 03:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-02 04:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-06-02 04:02:55 +0000"
     },
     "done": true
   },
@@ -14958,6 +14976,18 @@
   "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-06-02 03:43:48 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2025-06-02 04:04:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/neutron_reflector": {
+    "criteria": {
+      "has_copper_plate": "2025-06-02 04:04:47 +0000"
     },
     "done": true
   },
@@ -15063,6 +15093,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2025-06-02 04:04:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-06-02 03:43:48 +0000"
@@ -15111,6 +15147,18 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2025-06-02 04:04:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/electronic_circuit": {
+    "criteria": {
+      "has_copper_plate": "2025-06-02 04:04:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2025-06-02 03:43:48 +0000"
@@ -15156,6 +15204,12 @@
   "minecells:book/mobs/leaping_zombie": {
     "criteria": {
       "requirement": "2025-06-02 03:31:28 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+    "criteria": {
+      "has_item": "2025-06-02 04:04:28 +0000"
     },
     "done": true
   },
