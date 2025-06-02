@@ -15264,6 +15264,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/scrap_box": {
+    "criteria": {
+      "has_scrap": "2025-06-02 03:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-06-02 03:09:30 +0000"

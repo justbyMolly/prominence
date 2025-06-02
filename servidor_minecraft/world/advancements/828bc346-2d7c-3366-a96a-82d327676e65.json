@@ -14805,6 +14805,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/paper_from_writable_book": {
+    "criteria": {
+      "has_writable_book": "2025-06-02 03:50:31 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/doughnut": {
     "criteria": {
       "has_milk": "2025-06-02 03:42:00 +0000"
