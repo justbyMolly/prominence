@@ -15645,15 +15645,33 @@
     },
     "done": true
   },
+  "spellbladenext:spellblades/specialblades": {
+    "criteria": {
+      "arcane": "2025-06-02 01:54:36 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/crafting/copycat_cogwheel": {
     "criteria": {
       "has_item": "2025-06-02 01:14:40 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_hoe_with_water": {
+    "criteria": {
+      "has_diamond_hoe": "2025-06-02 02:01:19 +0000"
+    },
+    "done": true
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2025-06-02 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_hoe_with_mercury": {
+    "criteria": {
+      "has_diamond_hoe": "2025-06-02 02:01:19 +0000"
     },
     "done": true
   },
