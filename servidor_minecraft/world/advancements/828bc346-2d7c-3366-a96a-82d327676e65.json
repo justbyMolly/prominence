@@ -14301,6 +14301,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/refined_iron_plate_from_c_iron_plates": {
+    "criteria": {
+      "has_tag_c_iron_plates": "2025-06-02 01:28:30 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/quartz_column": {
     "criteria": {
       "has_item": "2025-06-02 00:13:26 +0000"
@@ -14316,6 +14322,12 @@
   "stoneworks:recipes/building_blocks/quartz_shingle_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-02 00:13:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
+    "criteria": {
+      "has_iron_plate": "2025-06-02 01:28:30 +0000"
     },
     "done": true
   },
@@ -14397,6 +14409,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-06-02 01:28:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
     "criteria": {
       "has_lead_ingot": "2025-06-02 00:08:38 +0000"
@@ -14448,6 +14466,12 @@
   "regions_unexplored:recipes/misc/pine_sapling_from_pine_shrub": {
     "criteria": {
       "has_pine_shrub": "2025-06-01 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-06-02 01:28:30 +0000"
     },
     "done": true
   },
@@ -14529,6 +14553,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/blasting/refined_iron_plate_from_c_iron_plates": {
+    "criteria": {
+      "has_tag_c_iron_plates": "2025-06-02 01:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-06-01 23:44:51 +0000"
@@ -14565,9 +14595,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-06-02 01:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-02 00:13:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-06-02 01:28:30 +0000"
     },
     "done": true
   },
@@ -14652,6 +14694,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-06-02 01:32:16 +0000"
     },
     "done": true
   },

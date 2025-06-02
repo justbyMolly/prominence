@@ -15627,9 +15627,21 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-06-02 01:27:39 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/crafting/copycat_cogwheel": {
     "criteria": {
       "has_item": "2025-06-02 01:14:40 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-06-02 01:37:31 +0000"
     },
     "done": true
   },
