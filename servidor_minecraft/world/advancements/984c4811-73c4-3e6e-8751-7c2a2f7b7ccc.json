@@ -4103,7 +4103,9 @@
       "cooked_porkchop": "2025-05-30 03:06:11 +0000",
       "cooked_mutton": "2025-05-30 15:49:11 +0000",
       "cooked_beef": "2025-05-30 15:54:34 +0000",
+      "baked_potato": "2025-06-02 03:10:34 +0000",
       "apple": "2025-05-30 01:14:41 +0000",
+      "potato": "2025-06-02 03:11:24 +0000",
       "bread": "2025-05-30 01:03:51 +0000",
       "golden_apple": "2025-05-30 15:14:12 +0000",
       "rotten_flesh": "2025-05-30 15:30:38 +0000",
@@ -15105,75 +15107,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-05-31 21:39:11 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
     "criteria": {
       "has_diamond_helmet": "2025-05-31 21:10:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2025-05-31 21:39:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-05-31 21:51:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-05-31 21:39:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2025-05-31 21:39:11 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:simplyswords": {
-    "criteria": {
-      "requirement": "2025-05-31 21:24:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/brown_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-31 21:44:50 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/kill_15_undead_archers": {
-    "criteria": {
-      "undead_archers_killed": "2025-05-31 21:18:06 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
     "criteria": {
       "has_diamond_leggings": "2025-05-31 21:10:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-05-31 21:51:33 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/vanilla_piles/dandelion": {
-    "criteria": {
-      "has_flower": "2025-05-31 21:51:33 +0000"
     },
     "done": true
   },
@@ -15189,15 +15131,171 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_15_undead_archers": {
+    "criteria": {
+      "undead_archers_killed": "2025-05-31 21:18:06 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-05-31 21:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-05-31 21:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-05-31 21:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-05-31 21:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-05-31 21:39:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brown_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-31 21:44:50 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_brown": {
     "criteria": {
       "has_item": "2025-05-31 21:44:50 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/extractor/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-31 21:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-31 21:51:33 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/dandelion": {
+    "criteria": {
+      "has_flower": "2025-05-31 21:51:33 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
     "criteria": {
       "has_item": "2025-05-31 21:51:33 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_anvil": "2025-06-02 03:14:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-02 03:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-02 03:14:33 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-02 03:14:33 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-02 03:14:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-02 03:10:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-02 03:14:33 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-06-02 03:14:33 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-02 03:14:33 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2025-06-02 03:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-06-02 03:09:30 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-02 03:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-02 03:14:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-02 03:14:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-02 03:10:32 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-06-02 03:14:33 +0000"
     },
     "done": true
   },
