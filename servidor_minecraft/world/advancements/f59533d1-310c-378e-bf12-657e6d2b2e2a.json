@@ -15615,5 +15615,11 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/rubber_pressure_plate_from_slab": {
+    "criteria": {
+      "has_rubber_slab": "2025-06-02 01:09:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
