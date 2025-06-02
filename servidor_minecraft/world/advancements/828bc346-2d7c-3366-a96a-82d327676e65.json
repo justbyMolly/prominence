@@ -14301,9 +14301,111 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/smelting/refined_iron_plate_from_c_iron_plates": {
+  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
     "criteria": {
-      "has_tag_c_iron_plates": "2025-06-02 01:28:30 +0000"
+      "has_grass_variant": "2025-06-01 23:11:42 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-06-01 23:18:22 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/yellow_coffin": {
+    "criteria": {
+      "has_item": "2025-06-01 23:34:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pine_sapling_from_pine_shrub": {
+    "criteria": {
+      "has_pine_shrub": "2025-06-01 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
+    "criteria": {
+      "has_lead_ingot": "2025-06-02 00:08:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-06-02 00:08:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/lead_plate": {
+    "criteria": {
+      "has_tag_c_lead_ingots": "2025-06-02 00:08:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
+    "criteria": {
+      "has_lead_ingot": "2025-06-02 00:08:38 +0000"
     },
     "done": true
   },
@@ -14325,12 +14427,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
-    "criteria": {
-      "has_iron_plate": "2025-06-02 01:28:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-06-02 00:13:26 +0000"
@@ -14343,27 +14439,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-01 23:44:51 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-06-01 23:18:22 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/quartz_pillar_trim": {
     "criteria": {
       "has_quartz_pillar_trim": "2025-06-02 00:13:26 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard_smithing": {
-    "criteria": {
-      "has_standard": "2025-06-02 00:45:25 +0000"
     },
     "done": true
   },
@@ -14403,39 +14481,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/burrito": {
-    "criteria": {
-      "has_the_recipe": "2025-06-01 23:44:51 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/super_glue": {
-    "criteria": {
-      "has_item": "2025-06-02 01:28:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
-    "criteria": {
-      "has_lead_ingot": "2025-06-02 00:08:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-06-01 23:44:51 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-02 00:13:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
-    "criteria": {
-      "has_lead_ingot": "2025-06-02 00:08:38 +0000"
     },
     "done": true
   },
@@ -14451,33 +14499,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/hamburger": {
-    "criteria": {
-      "has_beef": "2025-06-01 23:44:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-02 00:13:26 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/pine_sapling_from_pine_shrub": {
-    "criteria": {
-      "has_pine_shrub": "2025-06-01 23:44:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/whisk": {
-    "criteria": {
-      "has_item": "2025-06-02 01:28:30 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/stuffed_poblanos": {
-    "criteria": {
-      "has_beef": "2025-06-01 23:44:51 +0000"
     },
     "done": true
   },
@@ -14496,12 +14520,6 @@
   "stoneworks:recipes/building_blocks/polished_quartz_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-02 00:13:26 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/yellow_coffin": {
-    "criteria": {
-      "has_item": "2025-06-01 23:34:23 +0000"
     },
     "done": true
   },
@@ -14553,30 +14571,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/blasting/refined_iron_plate_from_c_iron_plates": {
-    "criteria": {
-      "has_tag_c_iron_plates": "2025-06-02 01:28:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
-    "criteria": {
-      "has_beef": "2025-06-01 23:44:51 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/beef_jerky": {
-    "criteria": {
-      "has_beef": "2025-06-01 23:44:51 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/lead_plate": {
-    "criteria": {
-      "has_tag_c_lead_ingots": "2025-06-02 00:08:38 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/quartz_pavers_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-02 00:13:26 +0000"
@@ -14595,27 +14589,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/propeller": {
-    "criteria": {
-      "has_item": "2025-06-02 01:28:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-02 00:13:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_fan": {
-    "criteria": {
-      "has_item": "2025-06-02 01:28:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
-    "criteria": {
-      "has_grass_variant": "2025-06-01 23:11:42 +0000"
     },
     "done": true
   },
@@ -14643,12 +14619,6 @@
     },
     "done": true
   },
-  "croptopia:recipes/food/beef_jerky": {
-    "criteria": {
-      "has_the_recipe": "2025-06-01 23:44:51 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_quartz_brick_slab_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-02 00:13:26 +0000"
@@ -14658,12 +14628,6 @@
   "stoneworks:recipes/building_blocks/cracked_quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-02 00:13:26 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_beef_stew": {
-    "criteria": {
-      "has_beef": "2025-06-01 23:44:51 +0000"
     },
     "done": true
   },
@@ -14688,18 +14652,6 @@
   "stoneworks:recipes/building_blocks/quartz_tile_wall_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-02 00:13:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-06-01 23:44:51 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/30ench": {
-    "criteria": {
-      "enchanted_item": "2025-06-02 01:32:16 +0000"
     },
     "done": true
   },
@@ -14745,12 +14697,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
-    "criteria": {
-      "has_lead_ingot": "2025-06-02 00:08:38 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/columns/quartz_column_stonecutting": {
     "criteria": {
       "has_item": "2025-06-02 00:13:26 +0000"
@@ -14760,6 +14706,60 @@
   "stoneworks:recipes/building_blocks/polished_quartz_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-06-02 00:13:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-06-02 00:45:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/refined_iron_plate_from_c_iron_plates": {
+    "criteria": {
+      "has_tag_c_iron_plates": "2025-06-02 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
+    "criteria": {
+      "has_iron_plate": "2025-06-02 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-06-02 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-06-02 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/refined_iron_plate_from_c_iron_plates": {
+    "criteria": {
+      "has_tag_c_iron_plates": "2025-06-02 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-06-02 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-06-02 01:28:30 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-06-02 01:32:16 +0000"
     },
     "done": true
   },
