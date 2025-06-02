@@ -106,6 +106,7 @@
     "criteria": {
       "shrubland": "2025-05-30 02:19:05 +0000",
       "redstone_abyss": "2025-05-31 20:48:22 +0000",
+      "pine_taiga": "2025-06-01 23:41:09 +0000",
       "autumnal_maple_forest": "2025-05-30 02:20:31 +0000",
       "muddy_river": "2025-05-30 02:47:13 +0000",
       "willow_forest": "2025-05-30 02:28:26 +0000",
@@ -116,6 +117,7 @@
       "magnolia_highlands": "2025-05-30 02:24:34 +0000",
       "boreal_forest": "2025-05-31 02:20:47 +0000",
       "glistering_meadow": "2025-05-31 02:39:42 +0000",
+      "temperate_grove": "2025-06-01 23:34:54 +0000",
       "cold_river": "2025-05-31 00:42:43 +0000",
       "gravel_beach": "2025-05-30 02:35:51 +0000",
       "lupine_plains": "2025-06-01 18:40:08 +0000"
@@ -145,6 +147,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-05-30 02:19:05 +0000",
+      "pine_taiga": "2025-06-01 23:41:09 +0000",
       "autumnal_maple_forest": "2025-05-30 02:20:31 +0000",
       "muddy_river": "2025-05-30 02:47:13 +0000",
       "willow_forest": "2025-05-30 02:28:26 +0000",
@@ -154,6 +157,7 @@
       "frozen_pine_taiga": "2025-05-31 21:59:45 +0000",
       "magnolia_highlands": "2025-05-30 02:24:34 +0000",
       "boreal_forest": "2025-05-31 02:20:47 +0000",
+      "temperate_grove": "2025-06-01 23:34:54 +0000",
       "cold_river": "2025-05-31 00:42:43 +0000",
       "gravel_beach": "2025-05-30 02:35:51 +0000",
       "lupine_plains": "2025-06-01 18:40:08 +0000"
@@ -4128,6 +4132,7 @@
       "cooked_porkchop": "2025-05-31 03:52:55 +0000",
       "sweet_berries": "2025-05-31 21:50:48 +0000",
       "baked_potato": "2025-05-31 16:08:39 +0000",
+      "beef": "2025-06-01 23:46:41 +0000",
       "porkchop": "2025-05-31 03:47:41 +0000",
       "apple": "2025-05-30 04:44:38 +0000",
       "potato": "2025-05-31 21:50:36 +0000",
@@ -14296,15 +14301,87 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-06-01 23:18:22 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pine_sapling_from_pine_shrub": {
+    "criteria": {
+      "has_pine_shrub": "2025-06-01 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/yellow_coffin": {
+    "criteria": {
+      "has_item": "2025-06-01 23:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
     "criteria": {
       "has_grass_variant": "2025-06-01 23:11:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-06-01 23:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-01 23:44:51 +0000"
     },
     "done": true
   },
