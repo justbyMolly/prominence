@@ -15615,9 +15615,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-06-02 01:42:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-06-02 01:14:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/drain": {
+    "criteria": {
+      "has_hopper": "2025-06-02 01:50:36 +0000"
     },
     "done": true
   },
@@ -15645,15 +15657,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/block_breaker": {
+    "criteria": {
+      "has_hopper": "2025-06-02 01:50:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-06-02 01:51:59 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/rubber_pressure_plate_from_slab": {
     "criteria": {
       "has_rubber_slab": "2025-06-02 01:09:03 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/block_placer": {
+    "criteria": {
+      "has_hopper": "2025-06-02 01:50:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2025-06-02 01:18:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2025-06-02 01:51:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2025-06-02 01:50:36 +0000"
     },
     "done": true
   },

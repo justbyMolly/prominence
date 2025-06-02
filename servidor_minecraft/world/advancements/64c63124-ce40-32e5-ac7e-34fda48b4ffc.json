@@ -15373,6 +15373,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/golden_larch_shrub": {
+    "criteria": {
+      "has_golden_larch_sapling": "2025-06-02 01:43:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-02 01:00:12 +0000"
