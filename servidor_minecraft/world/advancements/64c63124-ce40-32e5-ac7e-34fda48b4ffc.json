@@ -16802,6 +16802,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-06-02 03:39:40 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/pork_knuckle": {
     "criteria": {
       "has_cooked_porkchop": "2025-06-02 03:22:15 +0000"
@@ -16811,6 +16817,12 @@
   "croptopia:recipes/ham_sandwich": {
     "criteria": {
       "has_cooked_porkchop": "2025-06-02 03:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_15_undead_archers": {
+    "criteria": {
+      "undead_archers_killed": "2025-06-02 03:38:19 +0000"
     },
     "done": true
   },
