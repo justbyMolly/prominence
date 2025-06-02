@@ -15615,9 +15615,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-06-02 01:14:40 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-06-02 01:19:01 +0000"
+    },
+    "done": false
+  },
+  "copycats:recipes/misc/crafting/copycat_cogwheel": {
+    "criteria": {
+      "has_item": "2025-06-02 01:14:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/rubber_pressure_plate_from_slab": {
     "criteria": {
       "has_rubber_slab": "2025-06-02 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-06-02 01:18:47 +0000"
     },
     "done": true
   },
