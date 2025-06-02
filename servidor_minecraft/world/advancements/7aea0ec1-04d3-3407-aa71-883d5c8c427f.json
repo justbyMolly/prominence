@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-06-02 02:10:11 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_galley": {
     "criteria": {
       "in_water": "2025-06-02 01:59:51 +0000"
@@ -41,10 +47,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-02 02:08:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/calcium_carbonate": {
     "criteria": {
       "has_carbon": "2025-06-02 01:57:03 +0000",
       "has_calcium": "2025-06-02 01:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-02 02:07:18 +0000"
     },
     "done": true
   },
@@ -90,6 +108,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-06-02 02:10:43 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
       "has_wct": "2025-06-02 01:57:03 +0000"
@@ -114,9 +138,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/grim_armor_leggings": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_brigg": {
     "criteria": {
       "in_water": "2025-06-02 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-02 02:08:08 +0000"
     },
     "done": true
   },
@@ -174,6 +210,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_bonebow": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:main/root": {
     "criteria": {
       "seeds": "2025-06-02 01:57:03 +0000"
@@ -192,11 +234,35 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/snow_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-02 02:08:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_archer": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-02 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-06-02 01:57:04 +0000",
+      "pine_taiga": "2025-06-02 02:02:21 +0000",
+      "autumnal_maple_forest": "2025-06-02 02:03:43 +0000",
+      "muddy_river": "2025-06-02 02:03:29 +0000",
       "grassy_beach": "2025-06-02 01:58:11 +0000",
-      "temperate_grove": "2025-06-02 01:58:23 +0000"
+      "maple_forest": "2025-06-02 02:03:09 +0000",
+      "boreal_forest": "2025-06-02 02:03:04 +0000",
+      "temperate_grove": "2025-06-02 01:58:23 +0000",
+      "gravel_beach": "2025-06-02 02:04:07 +0000"
     },
     "done": false
   },
@@ -209,6 +275,12 @@
   "smallships:recipes/transportation/birch_brigg": {
     "criteria": {
       "in_water": "2025-06-02 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
     },
     "done": true
   },
@@ -226,11 +298,23 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/cypress_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-02 02:08:08 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-06-02 01:57:04 +0000",
+      "pine_taiga": "2025-06-02 02:02:21 +0000",
+      "autumnal_maple_forest": "2025-06-02 02:03:43 +0000",
+      "muddy_river": "2025-06-02 02:03:29 +0000",
       "grassy_beach": "2025-06-02 01:58:11 +0000",
-      "temperate_grove": "2025-06-02 01:58:23 +0000"
+      "maple_forest": "2025-06-02 02:03:09 +0000",
+      "boreal_forest": "2025-06-02 02:03:04 +0000",
+      "temperate_grove": "2025-06-02 01:58:23 +0000",
+      "gravel_beach": "2025-06-02 02:04:07 +0000"
     },
     "done": false
   },
@@ -274,6 +358,12 @@
   "advancednetherite:recipes/netherite_gold_block": {
     "criteria": {
       "has_ingredients": "2025-06-02 01:57:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/highland_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-02 02:08:08 +0000"
     },
     "done": true
   },
@@ -325,6 +415,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-02 02:08:08 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2025-06-02 01:57:03 +0000"
@@ -334,6 +430,12 @@
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-06-02 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_feral_soul": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
     },
     "done": true
   },
@@ -391,9 +493,27 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-02 02:08:08 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-02 02:08:08 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-06-02 02:01:31 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-02 02:08:08 +0000"
     },
     "done": true
   },
@@ -446,6 +566,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/grim_armor_chestplate": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
       "in_water": "2025-06-02 01:59:51 +0000"
@@ -482,6 +608,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/elder_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-02 02:08:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-06-02 01:57:03 +0000"
@@ -494,9 +626,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2025-06-02 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-06-02 02:10:43 +0000"
     },
     "done": true
   },
@@ -508,7 +652,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-06-02 01:59:53 +0000"
+      "minecraft:river": "2025-06-02 01:59:53 +0000",
+      "minecraft:cold_ocean": "2025-06-02 02:05:20 +0000"
     },
     "done": false
   },
@@ -521,6 +666,12 @@
   "things:root": {
     "criteria": {
       "tick": "2025-06-02 01:57:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/howl_pottery_sherd": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
     },
     "done": true
   },
@@ -554,6 +705,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-02 02:10:34 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-06-02 01:59:51 +0000"
@@ -581,6 +738,12 @@
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-06-02 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/scythes/scythe_skull_scythe": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
     },
     "done": true
   },
@@ -674,6 +837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-02 02:08:08 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-06-02 01:59:51 +0000"
@@ -689,6 +858,12 @@
   "mcda:recipes/crafting_items/glut_charm": {
     "criteria": {
       "has_chicken": "2025-06-02 01:59:01 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_boneclub": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
     },
     "done": true
   },
@@ -728,6 +903,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/gauntlets/gauntlet_maulers": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
+    },
+    "done": true
+  },
   "vinery:main/root": {
     "criteria": {
       "seeds": "2025-06-02 01:57:03 +0000"
@@ -743,6 +924,12 @@
   "advancednetherite:recipes/misc/netherite_emerald_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-06-02 01:57:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_boots": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
     },
     "done": true
   },
@@ -807,6 +994,18 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-02 02:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-06-02 02:10:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/compressed_plantball": {
     "criteria": {
       "has_plantball_material": "2025-06-02 01:58:59 +0000"
@@ -868,6 +1067,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-02 02:08:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2025-06-02 02:01:33 +0000"
@@ -885,6 +1090,13 @@
       "in_water": "2025-06-02 01:59:51 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-06-02 02:10:43 +0000",
+      "minecraft:zombie": "2025-06-02 02:10:11 +0000"
+    },
+    "done": false
   },
   "techreborn:recipes/chemical_reactor/water": {
     "criteria": {
@@ -1004,6 +1216,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-02 02:10:11 +0000"
+    },
+    "done": true
+  },
   "more_rpg_content:root": {
     "criteria": {
       "always": "2025-06-02 01:57:03 +0000"
@@ -1039,6 +1257,12 @@
   "seasonsextras:recipes/air_conditioning": {
     "criteria": {
       "has_furnace": "2025-06-02 01:57:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_phantom_bow": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
     },
     "done": true
   },
@@ -1128,6 +1352,18 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/grim_armor_boots": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/bone_rib_cage": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2025-06-02 02:00:27 +0000"
@@ -1149,6 +1385,18 @@
   "techreborn:recipes/compressor/compressed_plantball_from_melon_slices": {
     "criteria": {
       "has_melon_slice": "2025-06-02 01:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-02 02:08:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-06-02 02:10:43 +0000"
     },
     "done": true
   },

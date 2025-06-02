@@ -9230,7 +9230,8 @@
       "onion": "2025-05-30 19:26:57 +0000",
       "potato": "2025-05-30 18:04:00 +0000",
       "nether_wart": "2025-05-31 15:29:52 +0000",
-      "wheat": "2025-05-30 17:18:48 +0000"
+      "wheat": "2025-05-30 17:18:48 +0000",
+      "carrot": "2025-06-02 02:04:14 +0000"
     },
     "done": false
   },
@@ -15645,6 +15646,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2025-06-02 02:03:38 +0000"
+    },
+    "done": true
+  },
   "spellbladenext:spellblades/specialblades": {
     "criteria": {
       "arcane": "2025-06-02 01:54:36 +0000"
@@ -15663,9 +15670,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2025-06-02 02:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-02 02:03:38 +0000"
+    },
+    "done": true
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2025-06-02 01:37:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 02:03:38 +0000"
     },
     "done": true
   },
@@ -15693,6 +15718,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2025-06-02 02:03:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/block_placer": {
     "criteria": {
       "has_hopper": "2025-06-02 01:50:36 +0000"
@@ -15702,6 +15733,12 @@
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2025-06-02 01:18:47 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-02 02:07:05 +0000"
     },
     "done": true
   },
