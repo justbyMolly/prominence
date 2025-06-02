@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_galley": {
     "criteria": {
       "in_water": "2025-06-02 01:59:51 +0000"
@@ -89,6 +95,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
     "criteria": {
       "has_iron_axe": "2025-06-02 02:23:06 +0000"
@@ -140,6 +158,12 @@
   "regions_unexplored:recipes/transportation/magnolia_boat": {
     "criteria": {
       "in_water": "2025-06-02 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -219,6 +243,24 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-02 02:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/invar_dust": {
+    "criteria": {
+      "has_tag_c_invar_ingots": "2025-06-02 02:44:00 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_masters_katana": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -414,6 +456,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_ladder": {
     "criteria": {
       "has_stick": "2025-06-02 02:20:22 +0000"
@@ -540,6 +588,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-06-02 02:44:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2025-06-02 02:20:22 +0000"
@@ -555,6 +609,12 @@
   "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-02 02:14:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -657,6 +717,12 @@
   "betternether:recipes/decorations/mushroom_fir_chair": {
     "criteria": {
       "has_stick": "2025-06-02 02:20:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-06-02 02:44:12 +0000"
     },
     "done": true
   },
@@ -810,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-02 02:39:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_taburet": {
     "criteria": {
       "has_stick": "2025-06-02 02:20:22 +0000"
@@ -837,6 +909,12 @@
   "betternether:recipes/decorations/acacia_chair": {
     "criteria": {
       "has_stick": "2025-06-02 02:20:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/parts/template_template": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -888,6 +966,18 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_swift_striker": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_bar_stool": {
     "criteria": {
       "has_stick": "2025-06-02 02:20:22 +0000"
@@ -930,6 +1020,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_planks": "2025-06-02 02:44:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-06-02 02:14:53 +0000"
@@ -969,6 +1065,18 @@
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 02:18:35 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_frost_slayer": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/sickles/sickle_last_laugh_gold": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -1049,6 +1157,12 @@
   "betternether:recipes/decorations/nether_sakura_sign": {
     "criteria": {
       "has_stick": "2025-06-02 02:20:22 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_dual": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-02 02:39:13 +0000"
     },
     "done": true
   },
@@ -1158,6 +1272,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/invar_nugget": {
+    "criteria": {
+      "has_invar_ingot": "2025-06-02 02:44:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2025-06-02 02:22:56 +0000"
@@ -1254,9 +1374,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/gauntlets/gauntlet_soul_fist": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_blue_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 02:18:35 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_diamond_sword_var": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -1281,6 +1413,12 @@
   "techreborn:recipes/extractor/rubber_from_rubber_sapling": {
     "criteria": {
       "has_rubber_sapling": "2025-06-02 01:58:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_heartstealer": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -1309,6 +1447,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-06-02 02:44:12 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_blue_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 02:18:35 +0000"
@@ -1330,6 +1474,12 @@
   "ae2:recipes/misc/decorative/light_detector": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 02:18:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/prize_pottery_sherd": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -1417,9 +1567,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-06-02 02:44:12 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/spruce_wine_rack_small": {
     "criteria": {
       "has_spruce_planks": "2025-06-02 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-06-02 02:44:12 +0000"
     },
     "done": true
   },
@@ -1699,6 +1861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/golden_hammer": {
     "criteria": {
       "has_stick": "2025-06-02 02:20:22 +0000"
@@ -1726,6 +1894,12 @@
   "regions_unexplored:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-06-02 02:23:47 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sweet_tooth_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -1759,6 +1933,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2025-06-02 02:42:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-06-02 02:14:53 +0000"
@@ -1777,6 +1957,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_call_of_the_void": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_sign": {
     "criteria": {
       "has_stick": "2025-06-02 02:20:22 +0000"
@@ -1786,6 +1972,12 @@
   "techreborn:recipes/centrifuge/cooked_meat": {
     "criteria": {
       "has_cooked_meat": "2025-06-02 02:16:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -1831,9 +2023,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/redstone/tag_piston": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-06-02 02:14:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-06-02 02:44:12 +0000"
     },
     "done": true
   },
@@ -1858,6 +2062,12 @@
   "mcda:recipes/base_armors/emerald_gear_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 02:18:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -1921,6 +2131,18 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2025-06-02 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sweet_tooth_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2025-06-02 02:15:34 +0000"
@@ -1960,6 +2182,12 @@
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-06-02 02:13:17 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -2087,6 +2315,12 @@
     "criteria": {
       "has_the_recipe": "2025-06-02 01:59:51 +0000",
       "in_water": "2025-06-02 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sweet_tooth_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -2270,6 +2504,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/invar_plate": {
+    "criteria": {
+      "has_tag_c_invar_ingots": "2025-06-02 02:44:00 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/elder_chest": {
     "criteria": {
       "has_lots_of_items": "2025-06-02 02:08:08 +0000"
@@ -2345,6 +2585,12 @@
   "betternether:recipes/decorations/nether_mushroom_chair": {
     "criteria": {
       "has_stick": "2025-06-02 02:20:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -2448,6 +2694,18 @@
   "bclib:recipes/decorations/tag_stonecutter": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-06-02 02:18:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/invar_storage_block": {
+    "criteria": {
+      "has_invar_ingot": "2025-06-02 02:44:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_leather_handle_attachment": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -2703,6 +2961,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-06-02 02:44:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-06-02 02:13:34 +0000"
@@ -2724,6 +2988,19 @@
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-06-02 01:57:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_resolute_tempest_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker_vanilla_sword": {
+    "criteria": {
+      "has_the_recipe": "2025-06-02 02:42:37 +0000",
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -2775,6 +3052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:recipes/tea_kettle": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 02:18:35 +0000"
@@ -2808,6 +3091,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-06-02 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -2986,6 +3275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/misc/snowflake_banner_pattern": {
     "criteria": {
       "has_packed_snowball": "2025-06-02 01:57:03 +0000"
@@ -3136,6 +3431,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-06-02 02:42:45 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/simons_bowblade": {
     "criteria": {
       "has_item": "2025-06-02 02:18:35 +0000"
@@ -3205,6 +3506,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-06-02 02:18:35 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_chill_gale_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -3340,6 +3647,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2025-06-02 02:39:13 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_leggings": {
     "criteria": {
       "has_fur_armor": "2025-06-02 01:57:03 +0000"
@@ -3379,6 +3692,12 @@
   "handcrafted:recipes/misc/spider_trophy": {
     "criteria": {
       "has_spider_trophy": "2025-06-02 02:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -3445,6 +3764,12 @@
   "betternether:recipes/decorations/acacia_bar_stool": {
     "criteria": {
       "has_stick": "2025-06-02 02:20:22 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -3521,6 +3846,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/recipe_diamond_brush": {
+    "criteria": {
+      "has_item": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/scythes/scythe_jailors_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 02:18:35 +0000"
@@ -3533,6 +3864,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2025-06-02 02:42:45 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/baobab_boat": {
     "criteria": {
       "in_water": "2025-06-02 01:59:51 +0000"
@@ -3542,6 +3879,12 @@
   "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
     "criteria": {
       "has_nitrogen": "2025-06-02 01:57:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -3611,6 +3954,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/willow_gate": {
     "criteria": {
       "has_stick": "2025-06-02 02:20:22 +0000"
@@ -3674,6 +4023,12 @@
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_wither_skeleton_trophy": "2025-06-02 02:14:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -3840,6 +4195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 02:18:35 +0000"
@@ -3968,6 +4329,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/synthetic_redstone_crystal": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/season_detector": {
     "criteria": {
       "has_detector": "2025-06-02 01:57:03 +0000"
@@ -3998,6 +4365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/pork_jerky": {
     "criteria": {
       "has_the_recipe": "2025-06-02 02:15:34 +0000"
@@ -4007,6 +4380,12 @@
   "techreborn:recipes/chemical_reactor/nitrocoal_fuel": {
     "criteria": {
       "has_glyceryl": "2025-06-02 01:57:03 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2025-06-02 02:39:13 +0000"
     },
     "done": true
   },
@@ -4259,6 +4638,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/apple": {
     "criteria": {
       "has_apple": "2025-06-02 02:16:39 +0000"
@@ -4274,6 +4659,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 02:18:35 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -4429,6 +4820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/fabric_bolt_orange": {
     "criteria": {
       "has_stick": "2025-06-02 02:20:22 +0000"
@@ -4444,6 +4841,12 @@
   "regions_unexplored:recipes/transportation/eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-06-02 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_void_touched_blade": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -4493,6 +4896,12 @@
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-02 02:14:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-06-02 02:44:12 +0000"
     },
     "done": true
   },
@@ -4569,6 +4978,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-06-02 02:44:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 02:18:35 +0000"
@@ -4635,6 +5050,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_shadow_crossbow": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-06-02 02:22:56 +0000"
@@ -4650,6 +5071,12 @@
   "techreborn:recipes/blast_furnace/plenty_pottery_sherd": {
     "criteria": {
       "has_chest": "2025-06-02 02:20:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sweet_tooth_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
@@ -4719,6 +5146,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/diamond_nugget": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_purple_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 02:18:35 +0000"
@@ -4734,6 +5167,12 @@
   "mcdw:recipes/longbows/bow_red_snake": {
     "criteria": {
       "has_iron_ingot": "2025-06-02 02:18:35 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+    "criteria": {
+      "has_item": "2025-06-02 02:39:13 +0000"
     },
     "done": true
   },
@@ -4909,6 +5348,12 @@
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_the_recipe": "2025-06-02 01:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-02 02:42:37 +0000"
     },
     "done": true
   },
