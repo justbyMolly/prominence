@@ -3346,6 +3346,7 @@
       "minecraft:vindicator": "2025-05-30 19:15:04 +0000",
       "minecraft:magma_cube": "2025-05-31 02:38:34 +0000",
       "minecraft:spider": "2025-05-30 01:29:38 +0000",
+      "minecraft:piglin_brute": "2025-06-03 16:33:57 +0000",
       "minecraft:creeper": "2025-05-30 02:25:19 +0000",
       "minecraft:evoker": "2025-05-30 19:22:31 +0000",
       "minecraft:phantom": "2025-05-30 02:23:37 +0000",
@@ -13018,6 +13019,7 @@
       "betternether:wart_forest_edge": "2025-06-03 15:51:09 +0000",
       "betternether:upside_down_forest_cleared": "2025-05-31 02:17:02 +0000",
       "betternether:flooded_deltas": "2025-06-03 15:18:04 +0000",
+      "betternether:poor_nether_grasslands": "2025-06-03 16:38:47 +0000",
       "betternether:crimson_pinewood": "2025-06-03 16:33:07 +0000",
       "betternether:nether_grasslands": "2025-06-03 02:30:52 +0000",
       "betternether:old_fungiwoods": "2025-06-03 15:50:13 +0000",
@@ -16768,6 +16770,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/invar_dust": {
+    "criteria": {
+      "has_tag_c_invar_ingots": "2025-06-03 16:41:16 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/steel_plate_from_block": {
     "criteria": {
       "has_tag_c_steel_blocks": "2025-06-03 15:27:24 +0000"
@@ -16957,6 +16965,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab_stonecutter": {
     "criteria": {
       "has_tag_c_steel_blocks": "2025-06-03 15:27:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/invar_nugget": {
+    "criteria": {
+      "has_invar_ingot": "2025-06-03 16:41:16 +0000"
     },
     "done": true
   },
@@ -17230,6 +17244,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/invar_plate": {
+    "criteria": {
+      "has_tag_c_invar_ingots": "2025-06-03 16:41:16 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/archers_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-06-03 14:49:42 +0000"
@@ -17251,6 +17271,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-03 15:06:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/invar_storage_block": {
+    "criteria": {
+      "has_invar_ingot": "2025-06-03 16:41:16 +0000"
     },
     "done": true
   },
