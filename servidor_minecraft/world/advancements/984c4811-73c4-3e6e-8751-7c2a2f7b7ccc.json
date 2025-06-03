@@ -601,6 +601,7 @@
       "cold_boreal_taiga": "2025-05-31 22:01:11 +0000",
       "temperate_grove": "2025-05-30 00:55:42 +0000",
       "cold_river": "2025-05-30 01:38:09 +0000",
+      "pine_slopes": "2025-06-03 13:42:06 +0000",
       "gravel_beach": "2025-05-30 01:57:09 +0000",
       "lupine_plains": "2025-05-30 01:26:24 +0000"
     },
@@ -627,6 +628,7 @@
       "cold_boreal_taiga": "2025-05-31 22:01:11 +0000",
       "temperate_grove": "2025-05-30 00:55:42 +0000",
       "cold_river": "2025-05-30 01:38:09 +0000",
+      "pine_slopes": "2025-06-03 13:42:06 +0000",
       "gravel_beach": "2025-05-30 01:57:09 +0000",
       "lupine_plains": "2025-05-30 01:26:24 +0000"
     },
@@ -15824,6 +15826,12 @@
     },
     "done": true
   },
+  "zenith:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-06-03 13:33:33 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-06-03 13:32:01 +0000"
@@ -15872,9 +15880,21 @@
     },
     "done": true
   },
+  "zenith:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-06-03 13:33:33 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/cincinnasite_bricks": {
     "criteria": {
       "has_nether_brick": "2025-06-03 13:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-03 13:33:33 +0000"
     },
     "done": true
   },
