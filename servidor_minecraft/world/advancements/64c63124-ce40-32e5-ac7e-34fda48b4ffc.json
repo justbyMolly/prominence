@@ -3640,6 +3640,7 @@
       "golden_apple": "2025-05-31 15:35:51 +0000",
       "rotten_flesh": "2025-05-30 15:10:24 +0000",
       "cookie": "2025-05-31 20:36:51 +0000",
+      "suspicious_stew": "2025-06-03 16:00:25 +0000",
       "salmon": "2025-05-30 15:35:29 +0000",
       "golden_carrot": "2025-06-03 14:35:45 +0000",
       "cooked_chicken": "2025-05-30 15:17:46 +0000",
@@ -17829,9 +17830,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-03 16:00:25 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-06-03 15:57:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
     "criteria": {
       "has_item": "2025-06-03 15:39:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-03 16:00:25 +0000"
     },
     "done": true
   },
@@ -17841,11 +17860,59 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
+    "criteria": {
+      "has_item": "2025-06-03 15:56:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_bowl": {
+    "criteria": {
+      "has_bowl": "2025-06-03 16:00:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-06-03 16:00:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-06-03 15:25:23 +0000"
     },
     "done": true
+  },
+  "soulsweapons:recipes/combat/withered_chest": {
+    "criteria": {
+      "has_item": "2025-06-03 15:56:01 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grotesque_stew": {
+    "criteria": {
+      "has_item": "2025-06-03 16:00:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-06-03 16:00:25 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-03 16:00:25 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "darkin_blade": "2025-06-03 15:53:57 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

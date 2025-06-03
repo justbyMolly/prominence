@@ -17102,6 +17102,12 @@
     },
     "done": true
   },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "condition_0": "2025-06-03 15:53:41 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/netherite_hammer": {
     "criteria": {
       "has_material": "2025-06-03 15:06:06 +0000"
