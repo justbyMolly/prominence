@@ -16927,6 +16927,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2025-06-03 15:36:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/tungsten_grinding_head": {
     "criteria": {
       "has_steel_block": "2025-06-03 15:27:24 +0000"
@@ -17119,6 +17125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-06-03 15:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-03 15:20:08 +0000"
@@ -17212,6 +17224,12 @@
   "stoneworks:recipes/building_blocks/cracked_basalt_tiles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-03 15:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-03 15:40:49 +0000"
     },
     "done": true
   },
