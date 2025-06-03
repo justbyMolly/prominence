@@ -15204,13 +15204,25 @@
     },
     "done": true
   },
-  "mcdw:recipes/hammers/hammer_stormlander": {
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
-      "has_anvil": "2025-06-02 03:14:37 +0000"
+      "lightning_rod_with_villager_no_fire": "2025-06-02 03:09:30 +0000"
     },
     "done": true
   },
   "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-02 03:10:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-02 03:10:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-06-02 03:10:32 +0000"
     },
@@ -15234,12 +15246,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-06-02 03:10:32 +0000"
-    },
-    "done": true
-  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2025-06-02 03:14:33 +0000"
@@ -15255,24 +15261,6 @@
   "justhammers:recipes/tools/iron_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-06-02 03:14:33 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/hammers/hammer_gravity": {
-    "criteria": {
-      "has_anvil": "2025-06-02 03:14:37 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/scrap_box": {
-    "criteria": {
-      "has_scrap": "2025-06-02 03:49:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-06-02 03:09:30 +0000"
     },
     "done": true
   },
@@ -15294,15 +15282,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-06-02 03:10:32 +0000"
-    },
-    "done": true
-  },
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2025-06-02 03:14:33 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_anvil": "2025-06-02 03:14:37 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2025-06-02 03:14:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/scrap_box": {
+    "criteria": {
+      "has_scrap": "2025-06-02 03:49:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_horse_armor": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-06-03 02:04:21 +0000"
     },
     "done": true
   },

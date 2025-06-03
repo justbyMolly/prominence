@@ -4200,6 +4200,7 @@
       "minecraft:vindicator": "2025-05-30 19:14:05 +0000",
       "minecraft:spider": "2025-05-30 18:16:57 +0000",
       "minecraft:evoker": "2025-05-30 19:23:56 +0000",
+      "minecraft:phantom": "2025-06-03 02:10:18 +0000",
       "minecraft:witch": "2025-05-30 19:25:09 +0000",
       "minecraft:vex": "2025-05-30 19:24:21 +0000",
       "minecraft:zombie": "2025-05-30 15:45:19 +0000",
@@ -11304,6 +11305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-03 02:07:10 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/fire_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
@@ -11352,6 +11359,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_diamond_boots": "2025-06-03 02:02:01 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/netherrack_with_water": {
     "criteria": {
       "has_netherrack": "2025-06-03 01:20:43 +0000"
@@ -11361,6 +11374,12 @@
   "betterend:recipes/misc/lure_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
+    "criteria": {
+      "has_diamond_boots": "2025-06-03 02:02:01 +0000"
     },
     "done": true
   },
@@ -11403,6 +11422,12 @@
   "copycats:recipes/misc/stonecutting/copycat_stairs": {
     "criteria": {
       "has_item": "2025-06-03 01:20:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_rubber_sapling": {
+    "criteria": {
+      "has_rubber_sapling": "2025-06-03 02:09:41 +0000"
     },
     "done": true
   },
@@ -11580,6 +11605,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2025-06-03 02:07:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bricks_fire_bowl_soul": {
     "criteria": {
       "has_nether_brick": "2025-06-03 01:20:43 +0000"
@@ -11589,6 +11620,12 @@
   "betterend:recipes/misc/aqua_affinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_treetap": {
+    "criteria": {
+      "has_treetap": "2025-06-03 02:07:22 +0000"
     },
     "done": true
   },
@@ -11742,6 +11779,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-03 01:59:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/quick_charge_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
@@ -11766,9 +11809,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-06-03 02:02:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_reed_bookshelf": {
     "criteria": {
       "has_book": "2025-06-03 01:20:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_log": {
+    "criteria": {
+      "has_rubber_log": "2025-06-03 02:09:37 +0000"
     },
     "done": true
   },
@@ -11817,6 +11872,12 @@
   "betterend:recipes/misc/frost_walker_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
+    "criteria": {
+      "has_rubber_log": "2025-06-03 02:09:37 +0000"
     },
     "done": true
   },
@@ -11952,6 +12013,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2025-06-03 02:07:10 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blast_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
@@ -11976,6 +12043,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/rubber_logs": {
+    "criteria": {
+      "has_rubber_logs": "2025-06-03 02:09:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-06-03 01:20:43 +0000"
@@ -11987,6 +12060,12 @@
       "has_nether_brick": "2025-06-03 01:20:43 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-06-03 01:59:12 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/building_blocks/warped_bookshelf": {
     "criteria": {
@@ -12005,6 +12084,12 @@
       "has_item": "2025-06-03 01:20:34 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-03 02:10:18 +0000"
+    },
+    "done": false
   },
   "betterend:recipes/misc/silk_touch_book": {
     "criteria": {
@@ -12060,9 +12145,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/rubber_planks": {
+    "criteria": {
+      "has_rubber_log": "2025-06-03 02:09:37 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_vertical_slope": {
     "criteria": {
       "has_item": "2025-06-03 01:20:34 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2025-06-03 02:07:10 +0000"
     },
     "done": true
   },
@@ -12105,6 +12202,12 @@
   "vinery:main/wild_harvest": {
     "criteria": {
       "red_grape_seeds": "2025-06-03 01:18:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:treetap": {
+    "criteria": {
+      "crit_0": "2025-06-03 02:07:22 +0000"
     },
     "done": true
   },
@@ -12213,6 +12316,12 @@
   "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
     "criteria": {
       "has_zinc_ingots": "2025-06-03 01:20:34 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+    "criteria": {
+      "has_item": "2025-06-03 02:07:10 +0000"
     },
     "done": true
   },
