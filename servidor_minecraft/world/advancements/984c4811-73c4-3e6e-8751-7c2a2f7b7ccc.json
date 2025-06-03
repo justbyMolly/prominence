@@ -17856,6 +17856,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/ender_chest_with_water": {
+    "criteria": {
+      "has_ender_chest": "2025-06-03 18:17:49 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/quanta50": {
     "criteria": {
       "enchanted_item": "2025-06-03 18:05:37 +0000"
