@@ -587,6 +587,7 @@
       "pine_taiga": "2025-05-31 19:59:55 +0000",
       "autumnal_maple_forest": "2025-05-30 17:13:29 +0000",
       "muddy_river": "2025-05-30 17:26:49 +0000",
+      "willow_forest": "2025-06-03 14:50:42 +0000",
       "frozen_tundra": "2025-05-31 22:01:30 +0000",
       "poppy_fields": "2025-05-30 17:53:50 +0000",
       "grassy_beach": "2025-05-31 03:37:28 +0000",
@@ -617,6 +618,7 @@
       "pine_taiga": "2025-05-31 19:59:55 +0000",
       "autumnal_maple_forest": "2025-05-30 17:13:29 +0000",
       "muddy_river": "2025-05-30 17:26:49 +0000",
+      "willow_forest": "2025-06-03 14:50:42 +0000",
       "frozen_tundra": "2025-05-31 22:01:30 +0000",
       "poppy_fields": "2025-05-30 17:53:50 +0000",
       "grassy_beach": "2025-05-31 03:37:28 +0000",
@@ -4638,6 +4640,7 @@
       "minecraft:taiga": "2025-06-01 23:20:42 +0000",
       "minecraft:deep_ocean": "2025-06-01 23:22:43 +0000",
       "minecraft:frozen_river": "2025-05-31 21:35:58 +0000",
+      "minecraft:birch_forest": "2025-06-03 14:50:38 +0000",
       "minecraft:beach": "2025-06-01 23:19:27 +0000",
       "minecraft:dark_forest": "2025-06-02 00:19:15 +0000",
       "minecraft:river": "2025-05-30 03:52:36 +0000",
@@ -17549,6 +17552,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-06-03 14:53:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_crimson": {
     "criteria": {
       "has_the_recipe": "2025-06-03 14:35:33 +0000"
@@ -17621,6 +17630,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-06-03 14:51:11 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/crimson_palisade": {
     "criteria": {
       "has_log": "2025-06-03 14:35:30 +0000"
@@ -17648,6 +17663,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/crimson_seat": {
     "criteria": {
       "has_plank": "2025-06-03 14:35:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-06-03 14:55:48 +0000"
     },
     "done": true
   },
@@ -17696,6 +17717,12 @@
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-06-03 14:35:33 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-06-03 14:54:45 +0000"
     },
     "done": true
   },
