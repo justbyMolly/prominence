@@ -17814,5 +17814,11 @@
     },
     "done": true
   },
+  "zenith:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-06-03 17:32:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
