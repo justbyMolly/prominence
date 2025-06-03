@@ -3341,6 +3341,7 @@
       "minecraft:blaze": "2025-05-31 02:36:08 +0000",
       "minecraft:skeleton": "2025-05-30 01:07:39 +0000",
       "minecraft:ravager": "2025-05-30 19:15:49 +0000",
+      "minecraft:ghast": "2025-06-03 15:46:16 +0000",
       "minecraft:vindicator": "2025-05-30 19:15:04 +0000",
       "minecraft:magma_cube": "2025-05-31 02:38:34 +0000",
       "minecraft:spider": "2025-05-30 01:29:38 +0000",
@@ -13012,11 +13013,17 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:wart_forest_edge": "2025-06-03 15:51:09 +0000",
       "betternether:upside_down_forest_cleared": "2025-05-31 02:17:02 +0000",
       "betternether:flooded_deltas": "2025-06-03 15:18:04 +0000",
       "betternether:nether_grasslands": "2025-06-03 02:30:52 +0000",
+      "betternether:old_fungiwoods": "2025-06-03 15:50:13 +0000",
       "betternether:nether_swampland": "2025-06-03 15:20:41 +0000",
-      "betternether:old_warped_woods": "2025-06-03 02:25:41 +0000"
+      "betternether:magma_land": "2025-06-03 15:49:49 +0000",
+      "betternether:nether_mushroom_forest": "2025-06-03 15:50:22 +0000",
+      "betternether:wart_forest": "2025-06-03 15:51:30 +0000",
+      "betternether:old_warped_woods": "2025-06-03 02:25:41 +0000",
+      "betternether:soul_plain": "2025-06-03 15:51:23 +0000"
     },
     "done": false
   },
@@ -16879,6 +16886,12 @@
     },
     "done": true
   },
+  "mythicupgrades:recipes/misc/music_disc_tanker_on_the_levantines": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-06-03 15:44:03 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_dark_katana": {
     "criteria": {
       "has_netherite_ingot": "2025-06-03 15:06:06 +0000"
@@ -17332,6 +17345,12 @@
   "stoneworks:recipes/building_blocks/mossy_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-03 15:21:52 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:brimstone": {
+    "criteria": {
+      "requirement": "2025-06-03 15:49:06 +0000"
     },
     "done": true
   },
