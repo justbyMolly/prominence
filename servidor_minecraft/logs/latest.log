@@ -8545,3 +8545,107 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[18:28:31] [Server thread/INFO]: <AlonsoVanDeKap> q mrd
+[18:28:32] [Server thread/INFO]: <AlonsoVanDeKap> xd
+[18:28:42] [Server thread/INFO]: <A1lenSS> por pegarme
+[18:28:49] [Server thread/INFO]: <AlonsoVanDeKap> q encatamiento es ese
+[18:28:49] [Server thread/INFO]: <AlonsoVanDeKap> xd
+[18:28:50] [Server thread/INFO]: <A1lenSS> dame 5 diamantes mrd
+[18:28:54] [Server thread/INFO]: <AlonsoVanDeKap> no tengo
+[18:28:56] [Server thread/INFO]: <AlonsoVanDeKap> nada ahora
+[18:28:57] [Server thread/INFO]: <AlonsoVanDeKap> creo
+[18:28:58] [Server thread/INFO]: <A1lenSS> la kgada
+[18:29:02] [Server thread/INFO]: <AlonsoVanDeKap> aver espera
+[18:29:05] [Server thread/INFO]: <AlonsoVanDeKap> ire a ver al cofre
+[18:29:30] [Server thread/INFO]: <AlonsoVanDeKap> nao
+[18:29:36] [Server thread/INFO]: [A1lenSS: Set 49 experience levels on A1lenSS]
+[18:29:59] [Server thread/INFO]: [A1lenSS: Gave 5 [Diamond] to A1lenSS]
+[18:30:38] [Server thread/INFO]: <AlonsoVanDeKap> mira mano
+[18:30:40] [Server thread/INFO]: <A1lenSS> ya mrd
+[18:30:43] [Server thread/INFO]: <AlonsoVanDeKap> pan con queso
+[18:30:45] [Server thread/INFO]: <A1lenSS> pta, eres falla
+[18:30:55] [Server thread/INFO]: <A1lenSS> me fui un rato a la minecells
+[18:30:59] [Server thread/INFO]: <A1lenSS> que rico
+[18:31:00] [Server thread/INFO]: <AlonsoVanDeKap> q habia
+[18:31:01] [Server thread/INFO]: <A1lenSS> u pan con queso
+[18:31:01] [Server thread/INFO]: <AlonsoVanDeKap> q
+[18:31:03] [Server thread/INFO]: <AlonsoVanDeKap> xd
+[18:31:04] [Server thread/INFO]: <AlonsoVanDeKap> mano
+[18:31:13] [Server thread/INFO]: <AlonsoVanDeKap> llevame a la mesa q se usa en las mainceels
+[18:31:39] [Server thread/INFO]: <A1lenSS> dame 1 de repacion de ivogr
+[18:31:40] [Server thread/INFO]: <A1lenSS> xfa
+[18:31:44] [Server thread/INFO]: <AlonsoVanDeKap> de q
+[18:31:48] [Server thread/INFO]: <AlonsoVanDeKap> q
+[18:31:51] [Server thread/INFO]: <AlonsoVanDeKap> q es eso
+[18:31:53] [Server thread/INFO]: <A1lenSS> repacarion de vigor
+[18:32:05] [Server thread/INFO]: <AlonsoVanDeKap> es un encatamiento?
+[18:32:08] [Server thread/INFO]: <A1lenSS> maldicion
+[18:32:13] [Server thread/INFO]: <A1lenSS> de reparacion ptmr
+[18:32:14] [Server thread/INFO]: <AlonsoVanDeKap> no tengo bro
+[18:32:22] [Server thread/INFO]: <AlonsoVanDeKap> miner farvor'
+[18:32:25] [Server thread/INFO]: <AlonsoVanDeKap> ?
+[18:32:28] [Server thread/INFO]: <AlonsoVanDeKap> fervor?
+[18:32:31] [Server thread/INFO]: <A1lenSS> ya no te bnaja la vida
+[18:33:11] [Server thread/INFO]: [A1lenSS: Set 49 experience levels on A1lenSS]
+[18:33:30] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[18:34:17] [Server thread/INFO]: [A1lenSS: Set 49 experience levels on A1lenSS]
+[18:34:32] [Server thread/INFO]: [A1lenSS: Gave 8 [Diamond] to A1lenSS]
+[18:35:25] [Server thread/INFO]: [A1lenSS: Gave 64 [Lapis Lazuli] to A1lenSS]
+[18:35:34] [Server thread/INFO]: AlonsoVanDeKap has made the advancement [Full Moon in a Pocket]
+[18:35:53] [Server thread/INFO]: <AlonsoVanDeKap> en las cuevas mano
+[18:35:59] [Server thread/INFO]: [A1lenSS: Gave 64 [Lapis Lazuli] to A1lenSS]
+[18:35:59] [Server thread/INFO]: <AlonsoVanDeKap> la piedra lunar
+[18:36:07] [Server thread/INFO]: [A1lenSS: Set 49 experience levels on A1lenSS]
+[18:37:28] [Server thread/INFO]: <A1lenSS> mano, dame un modle de herreria xfa
+[18:37:33] [Server thread/INFO]: <A1lenSS> para mi mochila
+[18:37:36] [Server thread/INFO]: <AlonsoVanDeKap> perate
+[18:37:42] [Server thread/INFO]: <AlonsoVanDeKap> toy en la mina
+[18:37:53] [Server thread/INFO]: [A1lenSS: Gave 4 [Diamond] to A1lenSS]
+[18:38:08] [Server thread/INFO]: <AlonsoVanDeKap> pq solo tengo uno
+[18:38:12] [Server thread/INFO]: <AlonsoVanDeKap> y hay q duplicarlo
+[18:38:13] [Server thread/INFO]: <A1lenSS> ptmr
+[18:38:23] [Server thread/INFO]: <A1lenSS> fue p
+[18:38:30] [Server thread/INFO]: <AlonsoVanDeKap> si tengo para duplicarlo
