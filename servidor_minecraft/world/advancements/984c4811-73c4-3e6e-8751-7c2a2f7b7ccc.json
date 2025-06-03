@@ -601,6 +601,7 @@
       "mountains": "2025-06-03 13:45:15 +0000",
       "boreal_forest": "2025-05-30 03:29:47 +0000",
       "glistering_meadow": "2025-05-31 02:39:15 +0000",
+      "blackstone_basin": "2025-06-03 16:27:55 +0000",
       "infernal_holt": "2025-06-03 15:21:03 +0000",
       "cold_boreal_taiga": "2025-05-31 22:01:11 +0000",
       "temperate_grove": "2025-05-30 00:55:42 +0000",
@@ -13017,14 +13018,18 @@
       "betternether:wart_forest_edge": "2025-06-03 15:51:09 +0000",
       "betternether:upside_down_forest_cleared": "2025-05-31 02:17:02 +0000",
       "betternether:flooded_deltas": "2025-06-03 15:18:04 +0000",
+      "betternether:crimson_pinewood": "2025-06-03 16:33:07 +0000",
       "betternether:nether_grasslands": "2025-06-03 02:30:52 +0000",
       "betternether:old_fungiwoods": "2025-06-03 15:50:13 +0000",
       "betternether:nether_swampland": "2025-06-03 15:20:41 +0000",
       "betternether:magma_land": "2025-06-03 15:49:49 +0000",
+      "betternether:nether_mushroom_forest_edge": "2025-06-03 16:29:50 +0000",
+      "betternether:upside_down_forest": "2025-06-03 16:31:15 +0000",
       "betternether:nether_mushroom_forest": "2025-06-03 15:50:22 +0000",
       "betternether:wart_forest": "2025-06-03 15:51:30 +0000",
       "betternether:old_warped_woods": "2025-06-03 02:25:41 +0000",
-      "betternether:soul_plain": "2025-06-03 15:51:23 +0000"
+      "betternether:soul_plain": "2025-06-03 15:51:23 +0000",
+      "betternether:sulfuric_bone_reef": "2025-06-03 16:29:40 +0000"
     },
     "done": false
   },
@@ -13054,12 +13059,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-06-03 16:32:16 +0000",
       "minecraft:nether_wastes": "2025-05-31 02:32:03 +0000",
       "minecraft:soul_sand_valley": "2025-05-31 02:31:35 +0000",
       "minecraft:basalt_deltas": "2025-06-03 02:31:37 +0000",
       "minecraft:warped_forest": "2025-06-03 02:25:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
@@ -13663,6 +13669,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "blackstone_basin": "2025-06-03 16:27:55 +0000",
       "infernal_holt": "2025-06-03 15:21:03 +0000",
       "redstone_abyss": "2025-06-03 02:16:26 +0000",
       "glistering_meadow": "2025-05-31 02:39:15 +0000"
@@ -17151,6 +17158,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_sakura_log": {
+    "criteria": {
+      "has_nether_sakura_bark": "2025-06-03 16:23:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_plate_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-03 15:21:52 +0000"
@@ -17546,6 +17559,12 @@
       "has_copper_block": "2025-06-03 16:10:36 +0000"
     },
     "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_nether_sakura": "2025-06-03 16:23:45 +0000"
+    },
+    "done": false
   },
   "botania:recipes/redstone/ender_eye_block": {
     "criteria": {

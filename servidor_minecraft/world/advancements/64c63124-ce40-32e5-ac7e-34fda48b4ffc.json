@@ -17830,15 +17830,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mixed_salad": {
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
-      "has_bowl": "2025-06-03 16:00:25 +0000"
+      "has_snout_armor_trim_smithing_template": "2025-06-03 15:25:23 +0000"
     },
     "done": true
   },
-  "prominent:level_10": {
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "requirement": "2025-06-03 15:57:49 +0000"
+      "has_smithing_trim_template": "2025-06-03 15:25:23 +0000"
     },
     "done": true
   },
@@ -17848,39 +17848,39 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty": {
+  "soulsweapons:all_weapons": {
     "criteria": {
-      "beef_patty": "2025-06-03 16:03:47 +0000"
+      "darkin_blade": "2025-06-03 15:53:57 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
+    "criteria": {
+      "has_item": "2025-06-03 15:56:01 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_chest": {
+    "criteria": {
+      "has_item": "2025-06-03 15:56:01 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-06-03 15:57:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-03 16:00:25 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-06-03 16:00:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
-    "criteria": {
-      "beef_patty": "2025-06-03 16:03:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
-    "criteria": {
-      "beef_patty": "2025-06-03 16:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
-    "criteria": {
-      "has_snout_armor_trim_smithing_template": "2025-06-03 15:25:23 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
-    "criteria": {
-      "has_item": "2025-06-03 15:56:01 +0000"
     },
     "done": true
   },
@@ -17893,18 +17893,6 @@
   "supplementaries:husbandry/sus_stew": {
     "criteria": {
       "stew": "2025-06-03 16:00:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-03 15:25:23 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/withered_chest": {
-    "criteria": {
-      "has_item": "2025-06-03 15:56:01 +0000"
     },
     "done": true
   },
@@ -17926,11 +17914,23 @@
     },
     "done": true
   },
-  "soulsweapons:all_weapons": {
+  "farmersdelight:recipes/food/beef_patty": {
     "criteria": {
-      "darkin_blade": "2025-06-03 15:53:57 +0000"
+      "beef_patty": "2025-06-03 16:03:47 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-06-03 16:03:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-06-03 16:03:47 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
