@@ -17950,5 +17950,11 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/tungsten_ingot": {
+    "criteria": {
+      "has_tungsten_ore": "2025-06-03 18:11:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

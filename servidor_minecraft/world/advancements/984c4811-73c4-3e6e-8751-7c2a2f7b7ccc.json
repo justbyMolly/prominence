@@ -17856,6 +17856,12 @@
     },
     "done": true
   },
+  "zenith:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-06-03 18:05:37 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_ember": {
     "criteria": {
       "has_core_specification_item": "2025-06-03 17:47:38 +0000"
