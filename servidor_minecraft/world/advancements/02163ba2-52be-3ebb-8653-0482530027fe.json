@@ -4201,6 +4201,7 @@
       "minecraft:spider": "2025-05-30 18:16:57 +0000",
       "minecraft:evoker": "2025-05-30 19:23:56 +0000",
       "minecraft:phantom": "2025-06-03 02:10:18 +0000",
+      "minecraft:zombified_piglin": "2025-06-03 02:19:04 +0000",
       "minecraft:witch": "2025-05-30 19:25:09 +0000",
       "minecraft:vex": "2025-05-30 19:24:21 +0000",
       "minecraft:zombie": "2025-05-30 15:45:19 +0000",
@@ -11191,15 +11192,40 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
+    },
+    "done": true
+  },
   "betternether:all_the_biomes": {
     "criteria": {
-      "betternether:upside_down_forest_cleared": "2025-06-03 01:18:30 +0000"
+      "betternether:upside_down_forest_cleared": "2025-06-03 01:18:30 +0000",
+      "betternether:magma_land": "2025-06-03 02:16:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-03 02:19:58 +0000"
     },
     "done": false
   },
   "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-03 01:20:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
     },
     "done": true
   },
@@ -11218,6 +11244,12 @@
   "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-03 01:20:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:40 +0000"
     },
     "done": true
   },
@@ -11251,15 +11283,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-06-03 02:21:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-06-03 01:22:43 +0000"
     },
     "done": true
   },
+  "betternether:recipes/decorations/nether_sakura_barrel": {
+    "criteria": {
+      "has_nether_sakura_planks": "2025-06-03 02:33:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-06-03 01:20:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-06-03 02:18:09 +0000"
     },
     "done": true
   },
@@ -11272,6 +11322,12 @@
   "betterend:recipes/building_blocks/mossy_glowshroom_bookshelf": {
     "criteria": {
       "has_book": "2025-06-03 01:20:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:40 +0000"
     },
     "done": true
   },
@@ -11317,9 +11373,27 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-06-03 01:26:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_potion": {
+    "criteria": {
+      "has_potion": "2025-06-03 02:16:09 +0000"
     },
     "done": true
   },
@@ -11347,6 +11421,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-03 01:20:43 +0000"
@@ -11368,6 +11454,12 @@
   "techreborn:recipes/industrial_grinder/netherrack_with_water": {
     "criteria": {
       "has_netherrack": "2025-06-03 01:20:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_sakura_door": {
+    "criteria": {
+      "has_nether_sakura_planks": "2025-06-03 02:33:18 +0000"
     },
     "done": true
   },
@@ -11401,9 +11493,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-06-03 01:20:34 +0000"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/quartz_elevator": {
+    "criteria": {
+      "has_quartz": "2025-06-03 02:18:09 +0000"
     },
     "done": true
   },
@@ -11440,6 +11544,12 @@
   "betternether:recipes/decorations/brick_pot": {
     "criteria": {
       "has_nether_brick": "2025-06-03 01:20:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_chest": {
+    "criteria": {
+      "has_nether_sakura_planks": "2025-06-03 02:33:18 +0000"
     },
     "done": true
   },
@@ -11485,9 +11595,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-03 02:18:09 +0000"
     },
     "done": true
   },
@@ -11503,9 +11625,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_sakura_slab": {
+    "criteria": {
+      "has_nether_sakura_planks": "2025-06-03 02:33:18 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_slope_layer": {
     "criteria": {
       "has_item": "2025-06-03 01:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin_directly": "2025-06-03 02:15:37 +0000"
     },
     "done": true
   },
@@ -11539,9 +11673,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
     "criteria": {
       "has_zinc_ingots": "2025-06-03 01:20:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_boat": {
+    "criteria": {
+      "has_nether_sakura_planks": "2025-06-03 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
     },
     "done": true
   },
@@ -11599,6 +11757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-03 02:16:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-06-03 01:28:54 +0000"
@@ -11635,6 +11799,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_sakura_log": {
+    "criteria": {
+      "has_nether_sakura_bark": "2025-06-03 02:26:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-06-03 01:20:43 +0000"
@@ -11647,9 +11817,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-03 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_mushroom_bookshelf": {
     "criteria": {
       "has_book": "2025-06-03 01:20:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-06-03 02:18:09 +0000"
     },
     "done": true
   },
@@ -11707,6 +11895,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/betternether/sign_post_nether_sakura": {
+    "criteria": {
+      "has_planks": "2025-06-03 02:33:18 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/pork_knuckle": {
     "criteria": {
       "has_cooked_porkchop": "2025-06-03 01:30:17 +0000"
@@ -11755,9 +11949,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/power_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-06-03 02:16:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2025-06-03 02:16:40 +0000"
     },
     "done": true
   },
@@ -11809,9 +12027,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_sakura_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-06-03 02:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-06-03 02:02:01 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2025-06-03 02:18:09 +0000"
     },
     "done": true
   },
@@ -11845,6 +12075,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_block": {
     "criteria": {
       "has_item": "2025-06-03 01:20:34 +0000"
@@ -11860,6 +12102,12 @@
   "copycats:recipes/misc/stonecutting/copycat_vertical_stairs": {
     "criteria": {
       "has_item": "2025-06-03 01:20:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
     },
     "done": true
   },
@@ -11929,6 +12177,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2025-06-03 02:15:49 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/ham_sandwich": {
     "criteria": {
       "has_cooked_porkchop": "2025-06-03 01:30:17 +0000"
@@ -11965,9 +12219,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/cincinnasite_brick_plate": {
     "criteria": {
       "has_nether_brick": "2025-06-03 01:20:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
     },
     "done": true
   },
@@ -11989,6 +12255,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/helix_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-06-03 01:20:56 +0000"
@@ -11998,6 +12270,18 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-06-03 01:20:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_sakura_plate": {
+    "criteria": {
+      "has_nether_sakura_planks": "2025-06-03 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-06-03 02:18:09 +0000"
     },
     "done": true
   },
@@ -12019,6 +12303,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2025-06-03 02:26:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blast_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
@@ -12028,6 +12324,12 @@
   "betternether:recipes/building_blocks/anchor_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-06-03 01:20:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
     },
     "done": true
   },
@@ -12061,6 +12363,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2025-06-03 01:59:12 +0000"
@@ -12085,6 +12393,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-06-03 02:10:18 +0000"
@@ -12094,6 +12408,12 @@
   "betterend:recipes/misc/silk_touch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:40 +0000"
     },
     "done": true
   },
@@ -12127,15 +12447,45 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/impaling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_sakura_button": {
+    "criteria": {
+      "has_nether_sakura_planks": "2025-06-03 02:33:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/nether_sakura_wall": {
+    "criteria": {
+      "has_nether_sakura_planks": "2025-06-03 02:33:18 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
     "criteria": {
       "has_item": "2025-06-03 01:20:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
     },
     "done": true
   },
@@ -12163,9 +12513,27 @@
     },
     "done": true
   },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_nether_sakura": "2025-06-03 02:26:09 +0000"
+    },
+    "done": false
+  },
   "betterend:recipes/misc/riptide_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_sakura_trapdoor": {
+    "criteria": {
+      "has_nether_sakura_planks": "2025-06-03 02:33:18 +0000"
     },
     "done": true
   },
@@ -12190,6 +12558,18 @@
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-06-03 01:18:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/soul_sand": {
+    "criteria": {
+      "has_red_sand": "2025-06-03 02:17:24 +0000"
     },
     "done": true
   },
@@ -12223,6 +12603,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2025-06-03 02:33:40 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sharpness_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
@@ -12235,15 +12621,57 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/mending_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bricks_fire_bowl": {
     "criteria": {
       "has_netherrack": "2025-06-03 01:20:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-06-03 02:18:09 +0000"
     },
     "done": true
   },
@@ -12259,6 +12687,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-03 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/wart_bookshelf": {
     "criteria": {
       "has_book": "2025-06-03 01:20:56 +0000"
@@ -12268,6 +12708,18 @@
   "betterend:recipes/misc/projectile_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 01:20:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-06-03 02:18:09 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-06-03 02:18:09 +0000"
     },
     "done": true
   },
@@ -12283,9 +12735,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_sakura_stairs": {
+    "criteria": {
+      "has_nether_sakura_planks": "2025-06-03 02:33:18 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_ghost_block": {
     "criteria": {
       "has_item": "2025-06-03 01:20:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:40 +0000"
     },
     "done": true
   },
@@ -12298,6 +12762,12 @@
   "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2025-06-03 01:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-03 02:18:09 +0000"
     },
     "done": true
   },
@@ -12322,6 +12792,18 @@
   "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
     "criteria": {
       "has_item": "2025-06-03 02:07:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 02:21:38 +0000"
     },
     "done": true
   },

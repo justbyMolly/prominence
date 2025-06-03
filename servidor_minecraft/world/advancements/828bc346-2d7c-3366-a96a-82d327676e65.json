@@ -8630,7 +8630,8 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
-      "betternether:upside_down_forest_cleared": "2025-05-31 02:17:03 +0000"
+      "betternether:upside_down_forest_cleared": "2025-05-31 02:17:03 +0000",
+      "betternether:magma_land": "2025-06-03 02:16:43 +0000"
     },
     "done": false
   },
@@ -15438,6 +15439,12 @@
   "techreborn:recipes/centrifuge/raw_silver": {
     "criteria": {
       "has_raw_silver_ores": "2025-06-03 01:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-03 02:15:55 +0000"
     },
     "done": true
   },

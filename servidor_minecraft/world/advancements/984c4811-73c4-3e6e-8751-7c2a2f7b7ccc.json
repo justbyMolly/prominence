@@ -582,6 +582,7 @@
     "criteria": {
       "silver_birch_forest": "2025-05-30 01:45:01 +0000",
       "shrubland": "2025-05-30 00:53:35 +0000",
+      "redstone_abyss": "2025-06-03 02:16:26 +0000",
       "fen": "2025-05-30 17:54:20 +0000",
       "pine_taiga": "2025-05-30 01:35:13 +0000",
       "autumnal_maple_forest": "2025-05-30 01:36:58 +0000",
@@ -12997,7 +12998,9 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
-      "betternether:upside_down_forest_cleared": "2025-05-31 02:17:02 +0000"
+      "betternether:upside_down_forest_cleared": "2025-05-31 02:17:02 +0000",
+      "betternether:nether_grasslands": "2025-06-03 02:30:52 +0000",
+      "betternether:old_warped_woods": "2025-06-03 02:25:41 +0000"
     },
     "done": false
   },
@@ -13028,7 +13031,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-05-31 02:32:03 +0000",
-      "minecraft:soul_sand_valley": "2025-05-31 02:31:35 +0000"
+      "minecraft:soul_sand_valley": "2025-05-31 02:31:35 +0000",
+      "minecraft:basalt_deltas": "2025-06-03 02:31:37 +0000",
+      "minecraft:warped_forest": "2025-06-03 02:25:29 +0000"
     },
     "done": false
   },
@@ -13634,6 +13639,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "redstone_abyss": "2025-06-03 02:16:26 +0000",
       "glistering_meadow": "2025-05-31 02:39:15 +0000"
     },
     "done": false
@@ -15306,9 +15312,123 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-03 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-06-03 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-03 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-06-03 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/music_disc_soot": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-06-03 02:31:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-03 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-03 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_storage_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-03 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-06-03 02:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-03 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-03 02:31:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/iron_ingot_from_horse_armor": {
     "criteria": {
       "has_iron_horse_armor": "2025-06-03 02:04:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-06-03 02:17:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-03 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-03 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-03 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-03 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-03 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
+    "criteria": {
+      "has_steel_ingot": "2025-06-03 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:city": {
+    "criteria": {
+      "ncity": "2025-06-03 02:27:56 +0000"
     },
     "done": true
   },

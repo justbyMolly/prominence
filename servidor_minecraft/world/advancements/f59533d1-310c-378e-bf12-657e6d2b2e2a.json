@@ -12899,14 +12899,20 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
-      "betternether:upside_down_forest_cleared": "2025-05-31 14:14:38 +0000"
+      "betternether:upside_down_forest_cleared": "2025-05-31 14:14:38 +0000",
+      "betternether:flooded_deltas": "2025-06-03 02:28:46 +0000",
+      "betternether:poor_nether_grasslands": "2025-06-03 02:21:50 +0000",
+      "betternether:nether_grasslands": "2025-06-03 02:27:41 +0000",
+      "betternether:magma_land": "2025-06-03 02:17:54 +0000"
     },
     "done": false
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-05-31 14:16:11 +0000",
-      "minecraft:soul_sand_valley": "2025-05-31 14:15:53 +0000"
+      "minecraft:soul_sand_valley": "2025-05-31 14:15:53 +0000",
+      "minecraft:basalt_deltas": "2025-06-03 02:15:58 +0000",
+      "minecraft:warped_forest": "2025-06-03 02:20:37 +0000"
     },
     "done": false
   },
@@ -16775,6 +16781,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-03 01:54:10 +0000"
@@ -16787,9 +16799,51 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-06-03 02:27:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-03 01:54:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_large": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-06-03 02:30:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:00 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/music_disc_soot": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-06-03 02:32:19 +0000"
     },
     "done": true
   },
@@ -16811,6 +16865,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2025-06-03 01:54:10 +0000"
@@ -16820,6 +16880,12 @@
   "supplementaries:recipes/safe": {
     "criteria": {
       "has_netherite_ingot": "2025-06-03 01:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-03 02:31:49 +0000"
     },
     "done": true
   },
@@ -16835,6 +16901,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-06-03 02:31:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2025-06-03 02:31:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-03 01:54:10 +0000"
@@ -16847,15 +16925,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_horse_armor": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-06-03 02:32:23 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/netherite": {
     "criteria": {
       "has_netherite_ingot": "2025-06-03 01:54:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-06-03 02:30:08 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/gemstone_purple": {
     "criteria": {
       "has_netherite_ingot": "2025-06-03 01:54:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:00 +0000"
     },
     "done": true
   },
@@ -16883,6 +16979,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:00 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/electronic_circuit": {
     "criteria": {
       "has_copper_plate": "2025-06-03 01:50:55 +0000"
@@ -16895,9 +16997,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2025-06-03 02:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-03 01:54:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_horse_armor": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-06-03 02:32:22 +0000"
     },
     "done": true
   },
@@ -16910,6 +17024,18 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-06-03 01:51:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-06-03 02:33:00 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "nether_eye": "2025-06-03 02:27:24 +0000"
     },
     "done": true
   },
