@@ -15824,9 +15824,27 @@
     },
     "done": true
   },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-06-03 13:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecells:concierge": {
+    "criteria": {
+      "concierge_killed": "2025-06-03 13:24:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/block_breaker": {
     "criteria": {
       "has_hopper": "2025-06-03 13:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_concierge": {
+    "criteria": {
+      "conjunctivius_killed": "2025-06-03 13:24:45 +0000"
     },
     "done": true
   },
