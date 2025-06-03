@@ -3351,6 +3351,7 @@
       "minecraft:blaze": "2025-05-31 20:47:47 +0000",
       "minecraft:skeleton": "2025-05-30 04:07:16 +0000",
       "minecraft:ravager": "2025-05-30 19:25:46 +0000",
+      "minecraft:ghast": "2025-06-03 15:14:39 +0000",
       "minecraft:hoglin": "2025-06-03 14:27:14 +0000",
       "minecraft:vindicator": "2025-05-30 19:14:10 +0000",
       "minecraft:magma_cube": "2025-06-03 14:11:07 +0000",
@@ -12371,19 +12372,25 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:bone_reef": "2025-06-03 13:57:18 +0000",
+      "betternether:wart_forest_edge": "2025-06-03 15:13:46 +0000",
       "betternether:upside_down_forest_cleared": "2025-05-31 14:15:53 +0000",
       "betternether:poor_nether_grasslands": "2025-06-03 03:22:07 +0000",
       "betternether:flooded_deltas": "2025-06-03 14:21:08 +0000",
       "betternether:crimson_pinewood": "2025-06-03 14:07:44 +0000",
       "betternether:nether_grasslands": "2025-06-03 03:22:40 +0000",
       "betternether:old_fungiwoods": "2025-06-03 14:42:17 +0000",
+      "betternether:old_swampland": "2025-06-03 15:13:54 +0000",
+      "betternether:nether_swampland": "2025-06-03 15:14:18 +0000",
       "betternether:crimson_glowing_woods": "2025-06-03 14:42:23 +0000",
       "betternether:magma_land": "2025-06-03 03:20:11 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-06-03 14:42:20 +0000",
       "betternether:nether_jungle": "2025-06-03 14:03:12 +0000",
       "betternether:nether_mushroom_forest": "2025-06-03 14:42:11 +0000",
+      "betternether:wart_forest": "2025-06-03 15:13:50 +0000",
+      "betternether:nether_swampland_terraces": "2025-06-03 15:27:32 +0000",
       "betternether:old_warped_woods": "2025-06-03 13:58:54 +0000",
-      "betternether:sulfuric_bone_reef": "2025-06-03 14:20:07 +0000"
+      "betternether:sulfuric_bone_reef": "2025-06-03 14:20:07 +0000",
+      "betternether:soul_plain": "2025-06-03 15:13:41 +0000"
     },
     "done": false
   },
@@ -17456,6 +17463,30 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-06-03 14:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-06-03 14:35:30 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/crimson_palisade": {
+    "criteria": {
+      "has_log": "2025-06-03 14:35:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_crimson": "2025-06-03 14:35:30 +0000"
+    },
+    "done": false
+  },
   "betternether:recipes/transportation/crimson_boat": {
     "criteria": {
       "has_crimson_planks": "2025-06-03 14:35:33 +0000"
@@ -17474,12 +17505,6 @@
     },
     "done": true
   },
-  "twigs:recipes/lamps/warped_shroomlamp": {
-    "criteria": {
-      "has_item": "2025-06-03 14:35:37 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_corner_trim": {
     "criteria": {
       "has_crimson_corner_trim": "2025-06-03 14:35:33 +0000"
@@ -17489,12 +17514,6 @@
   "handcrafted:recipes/misc/crimson_cupboard": {
     "criteria": {
       "has_crimson_cupboard": "2025-06-03 14:35:33 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/lamps/crimson_shroomlamp": {
-    "criteria": {
-      "has_item": "2025-06-03 14:35:37 +0000"
     },
     "done": true
   },
@@ -17510,12 +17529,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-06-03 14:35:30 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/crimson_chest": {
     "criteria": {
       "has_crimson_planks": "2025-06-03 14:35:33 +0000"
@@ -17528,12 +17541,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-06-03 14:35:30 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_couch": {
     "criteria": {
       "has_crimson_couch": "2025-06-03 14:35:33 +0000"
@@ -17543,18 +17550,6 @@
   "handcrafted:recipes/misc/crimson_pillar_trim": {
     "criteria": {
       "has_crimson_pillar_trim": "2025-06-03 14:35:33 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-06-03 14:35:37 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-06-03 14:53:45 +0000"
     },
     "done": true
   },
@@ -17612,12 +17607,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/deepslate_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-06-03 14:35:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-03 14:35:33 +0000"
@@ -17627,18 +17616,6 @@
   "create:recipes/building_blocks/crimson_window": {
     "criteria": {
       "has_ingredient": "2025-06-03 14:35:33 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/root": {
-    "criteria": {
-      "grave_01": "2025-06-03 14:51:11 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/crimson_palisade": {
-    "criteria": {
-      "has_log": "2025-06-03 14:35:30 +0000"
     },
     "done": true
   },
@@ -17666,12 +17643,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/soap/map": {
-    "criteria": {
-      "has_filled_map": "2025-06-03 14:55:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-06-03 14:35:33 +0000"
@@ -17689,12 +17660,6 @@
       "has_planks": "2025-06-03 14:35:33 +0000"
     },
     "done": true
-  },
-  "betternether:nether_wood": {
-    "criteria": {
-      "got_crimson": "2025-06-03 14:35:30 +0000"
-    },
-    "done": false
   },
   "betternether:recipes/decorations/crimson_barrel": {
     "criteria": {
@@ -17720,12 +17685,6 @@
     },
     "done": true
   },
-  "rpg_series:classes": {
-    "criteria": {
-      "book": "2025-06-03 14:54:45 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_bench": {
     "criteria": {
       "has_crimson_bench": "2025-06-03 14:35:33 +0000"
@@ -17735,6 +17694,150 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-03 14:35:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/warped_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-06-03 14:35:37 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/crimson_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-06-03 14:35:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-06-03 14:35:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-06-03 14:35:37 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-06-03 14:51:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-06-03 14:53:45 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-06-03 14:54:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-06-03 14:55:48 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:brimstone": {
+    "criteria": {
+      "requirement": "2025-06-03 15:09:26 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/music_disc_tanker_on_the_levantines": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-06-03 15:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-03 15:11:37 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-03 15:11:37 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-03 15:11:37 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-03 15:11:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-06-03 15:11:37 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-03 15:11:37 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_iron_block": "2025-06-03 15:11:37 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_mace": {
+    "criteria": {
+      "has_iron_block": "2025-06-03 15:11:37 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-03 15:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-03 15:11:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-03 15:11:37 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-06-03 15:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-06-03 15:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-03 15:25:23 +0000"
     },
     "done": true
   },
