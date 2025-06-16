@@ -12102,6 +12102,24 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-16 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-16 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-06-16 02:36:18 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/voodoo_protection_poppet": {
     "criteria": {
       "has_item": "2025-06-16 00:49:21 +0000"
@@ -12111,6 +12129,12 @@
   "bewitchment:recipes/tools/voodoo_poppet": {
     "criteria": {
       "has_item": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_coneflower": {
+    "criteria": {
+      "has_purple_coneflower": "2025-06-16 02:36:23 +0000"
     },
     "done": true
   },
@@ -12132,6 +12156,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-06-16 02:36:19 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/curse_poppet": {
     "criteria": {
       "has_item": "2025-06-16 00:49:21 +0000"
@@ -12144,6 +12174,12 @@
     },
     "done": true
   },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-16 02:36:19 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/squid_armor_boots": {
     "criteria": {
       "has_leather_boots": "2025-06-16 02:04:54 +0000"
@@ -12153,6 +12189,12 @@
   "bewitchment:recipes/tools/vampiric_poppet": {
     "criteria": {
       "has_item": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2025-06-16 02:36:19 +0000"
     },
     "done": true
   },
@@ -12174,9 +12216,21 @@
     },
     "done": true
   },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-06-16 02:36:19 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/fatigue_poppet": {
     "criteria": {
       "has_item": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2025-06-16 02:36:19 +0000"
     },
     "done": true
   },
@@ -12198,6 +12252,18 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-06-16 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-16 02:36:19 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/climbing_gear_boots": {
     "criteria": {
       "has_leather_boots": "2025-06-16 02:04:54 +0000"
@@ -12210,6 +12276,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-06-16 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-16 02:36:19 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:husbandry/beehive": {
     "criteria": {
       "acacia_beehive": "2025-06-16 00:55:26 +0000"
@@ -12219,6 +12297,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2025-06-16 02:36:19 +0000"
     },
     "done": true
   },

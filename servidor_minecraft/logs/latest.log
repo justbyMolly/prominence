@@ -2221,3 +2221,4 @@ BCLib - Nether BiomeSource (7c022285)
 [01:51:29] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
 [02:23:59] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-592, y=-25, z=1250}
 [02:23:59] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-593, y=-25, z=1250}
+[02:35:41] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=467, y=-18, z=1181}
