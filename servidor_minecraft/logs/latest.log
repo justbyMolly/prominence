@@ -2207,3 +2207,9 @@ BCLib - Nether BiomeSource (7c022285)
 [01:17:36] [Server thread/INFO]: [Allend: Teleported Allend to -346.500000, 57.500000, 1348.500000]
 [01:18:06] [Server thread/INFO]: Allend claimed a grave belonging to Allend at -347, 57, 1347, minecraft:overworld
 [01:18:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-592, y=-25, z=1250}
+[01:27:09] [Server thread/INFO]: Allend was slain by Ocean Creeper
+[01:27:09] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_16.06.2025-01.27.09.dat
+[01:27:14] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[01:27:22] [Server thread/INFO]: [Allend: Teleported Allend to -259.500000, 62.500000, 1339.500000]
+[01:27:26] [Server thread/INFO]: Allend claimed a grave belonging to Allend at -260, 62, 1339, minecraft:overworld
+[01:28:08] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-369, y=-50, z=1094}

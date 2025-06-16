@@ -12108,6 +12108,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-06-16 01:22:55 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/protection_poppet": {
     "criteria": {
       "has_item": "2025-06-16 00:49:21 +0000"
