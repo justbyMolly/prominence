@@ -12116,6 +12116,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
       "has_ender_pearl": "2025-06-16 02:36:19 +0000"
@@ -12125,6 +12131,12 @@
   "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
     },
     "done": true
   },
@@ -12158,9 +12170,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/stone_witch_altar": {
     "criteria": {
       "has_item": "2025-06-16 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
     },
     "done": true
   },
@@ -12254,6 +12278,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/living_vines_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
@@ -12278,9 +12308,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/living_vines_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/protection_poppet": {
     "criteria": {
       "has_item": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
     },
     "done": true
   },
@@ -12320,9 +12362,27 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
+    },
+    "done": true
+  },
   "dummmmmmy:recipes/dummy_crafting": {
     "criteria": {
       "has_hay_block": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
     },
     "done": true
   },
@@ -12362,9 +12422,21 @@
     },
     "done": true
   },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/nether_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
     },
     "done": true
   },
@@ -12431,6 +12503,12 @@
   "adventurez:recipes/ender_flute_recipe": {
     "criteria": {
       "got_the_ender_pearl": "2025-06-16 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
     },
     "done": true
   },
@@ -12572,6 +12650,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_paver_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
@@ -12665,6 +12749,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-06-16 04:15:34 +0000"
     },
     "done": true
   },
