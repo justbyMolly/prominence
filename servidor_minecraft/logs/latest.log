@@ -2242,3 +2242,7 @@ BCLib - Nether BiomeSource (7c022285)
 [04:12:56] [Server thread/WARN]: Boat (vehicle of Allend) moved wrongly! 0.30838731693165755
 [04:12:58] [Server thread/WARN]: Boat (vehicle of Allend) moved wrongly! 0.2719185017901964
 [04:28:23] [Server thread/INFO]: Allend has reached the goal [You Need a Mint]
+[04:40:04] [Server thread/INFO]: Allend was shot by Skeleton
+[04:40:04] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_16.06.2025-04.40.04.dat
+[04:40:06] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[04:40:41] [Server thread/INFO]: Allend claimed a grave belonging to Allend at 191, 66, 1298, minecraft:overworld
