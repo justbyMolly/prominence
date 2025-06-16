@@ -2184,3 +2184,26 @@ BCLib - Nether BiomeSource (7c022285)
 [01:02:09] [Server thread/WARN]: Boat (vehicle of Allend) moved wrongly! 0.395899140927213
 [01:02:53] [Server thread/WARN]: Boat (vehicle of Allend) moved wrongly! 0.2844589581072796
 [01:05:01] [Server thread/INFO]: sigan_viendo01 has made the advancement [Blind as a Bat]
+[01:11:43] [Server thread/INFO]: Villager class_1646['Ian'/13795, l='ServerLevel[world]', x=-370.94, y=55.00, z=1310.70] died, message: 'Ian was slain by Zombie'
+[01:11:43] [Server thread/INFO]: Named entity class_1646['Ian'/13795, l='ServerLevel[world]', x=-370.94, y=55.00, z=1310.70] died: Ian was slain by Zombie
+[01:11:45] [Server thread/INFO]: Allend has made the advancement [Stay dead]
+[01:12:12] [Server thread/INFO]: Villager class_1646['Heath'/13980, l='ServerLevel[world]', x=-345.15, y=56.00, z=1330.43] died, message: 'Heath was slain by Ian'
+[01:12:12] [Server thread/INFO]: Named entity class_1646['Heath'/13980, l='ServerLevel[world]', x=-345.15, y=56.00, z=1330.43] died: Heath was slain by Ian
+[01:12:30] [Server thread/INFO]: Villager class_1646['Dylan'/13825, l='ServerLevel[world]', x=-362.01, y=60.00, z=1344.30] died, message: 'Dylan was slain by Ian'
+[01:12:30] [Server thread/INFO]: Named entity class_1646['Dylan'/13825, l='ServerLevel[world]', x=-362.01, y=60.00, z=1344.30] died: Dylan was slain by Ian
+[01:12:36] [Server thread/INFO]: Villager class_1646['Aurelio'/13757, l='ServerLevel[world]', x=-368.22, y=60.00, z=1344.41] died, message: 'Aurelio was slain by Heath'
+[01:12:36] [Server thread/INFO]: Named entity class_1646['Aurelio'/13757, l='ServerLevel[world]', x=-368.22, y=60.00, z=1344.41] died: Aurelio was slain by Heath
+[01:12:53] [Server thread/INFO]: sigan_viendo01 was shot by Skeleton
+[01:12:53] [Server thread/INFO]: Created new backpack backup file for sigan_viendo01 with unique ID travelersbackpack.standard_16.06.2025-01.12.53.dat
+[01:12:56] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of sigan_viendo01 accepted server config.
+[01:13:28] [Server thread/INFO]: [Allend: Teleported sigan_viendo01 to 206.500000, 68.000000, 1380.500000]
+[01:13:30] [Server thread/INFO]: sigan_viendo01 claimed a grave belonging to sigan_viendo01 at 200, 64, 1387, minecraft:overworld
+[01:13:53] [Server thread/INFO]: Named entity class_1641['Aurelio'/14933, l='ServerLevel[world]', x=-324.63, y=63.00, z=1332.52] died: Aurelio burned to death
+[01:14:50] [Server thread/INFO]: Named entity class_1641['Heath'/14816, l='ServerLevel[world]', x=-360.39, y=53.00, z=1325.16] died: Heath was slain by Allend
+[01:14:54] [Server thread/INFO]: Named entity class_1641['Dylan'/14893, l='ServerLevel[world]', x=-354.78, y=54.24, z=1320.80] died: Dylan was blown up by Cave Creeper
+[01:17:31] [Server thread/INFO]: Allend was killed by magic whilst trying to escape Bee
+[01:17:31] [Server thread/INFO]: Created new backpack backup file for Allend with unique ID travelersbackpack.standard_16.06.2025-01.17.31.dat
+[01:17:33] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
+[01:17:36] [Server thread/INFO]: [Allend: Teleported Allend to -346.500000, 57.500000, 1348.500000]
+[01:18:06] [Server thread/INFO]: Allend claimed a grave belonging to Allend at -347, 57, 1347, minecraft:overworld
+[01:18:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-592, y=-25, z=1250}

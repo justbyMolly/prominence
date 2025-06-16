@@ -12090,6 +12090,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/orange_coffin": {
+    "criteria": {
+      "has_item": "2025-06-16 01:12:32 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/voodoo_protection_poppet": {
     "criteria": {
       "has_item": "2025-06-16 00:49:21 +0000"
@@ -12153,6 +12159,12 @@
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-06-16 01:11:45 +0000"
     },
     "done": true
   },
