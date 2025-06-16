@@ -12098,6 +12098,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_item": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-06-16 04:25:50 +0000"
@@ -12128,9 +12134,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
       "has_ender_pearl": "2025-06-16 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_fancy_bed": "2025-06-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -12143,6 +12161,12 @@
   "mcda:recipes/base_armors/living_vines_armor_boots": {
     "criteria": {
       "has_nether_wart": "2025-06-16 04:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -12161,6 +12185,12 @@
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_skeleton_trophy": "2025-06-16 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_pillar_trim": {
+    "criteria": {
+      "has_acacia_pillar_trim": "2025-06-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -12200,6 +12230,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
@@ -12227,6 +12263,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/acacia_seat": {
+    "criteria": {
+      "has_plank": "2025-06-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -12278,6 +12320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
@@ -12296,9 +12344,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/living_vines_armor_leggings": {
     "criteria": {
       "has_nether_wart": "2025-06-16 04:15:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_shelf": {
+    "criteria": {
+      "has_acacia_shelf": "2025-06-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -12311,6 +12371,12 @@
   "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_chair": {
+    "criteria": {
+      "has_acacia_chair": "2025-06-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -12338,6 +12404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/living_vines_armor_helmet": {
     "criteria": {
       "has_nether_wart": "2025-06-16 04:15:34 +0000"
@@ -12359,6 +12431,12 @@
   "betterend:recipes/misc/ender_pearl_to_dust": {
     "criteria": {
       "has_item.minecraft.ender_pearl": "2025-06-16 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_couch": {
+    "criteria": {
+      "has_acacia_couch": "2025-06-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -12428,6 +12506,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_counter": {
+    "criteria": {
+      "has_acacia_counter": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/squid_armor_boots": {
     "criteria": {
       "has_leather_boots": "2025-06-16 02:04:54 +0000"
@@ -12449,6 +12533,12 @@
   "stoneworks:recipes/building_blocks/stone_tiles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-06-16 04:56:43 +0000"
     },
     "done": true
   },
@@ -12482,9 +12572,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_table": {
+    "criteria": {
+      "has_acacia_table": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/acacia_table": {
+    "criteria": {
+      "has_bamboo": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/nether_wart": {
     "criteria": {
       "has_nether_wart": "2025-06-16 04:15:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/acacia_slab_from_stairs": {
+    "criteria": {
+      "has_acacia_stairs": "2025-06-16 04:56:43 +0000"
     },
     "done": true
   },
@@ -12494,9 +12602,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_cupboard": {
+    "criteria": {
+      "has_acacia_cupboard": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "transmog:recipes/misc/void_fragment": {
     "criteria": {
       "has_item": "2025-06-16 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_desk": {
+    "criteria": {
+      "has_acacia_desk": "2025-06-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -12524,9 +12644,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_dining_bench": {
+    "criteria": {
+      "has_acacia_dining_bench": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_impact_hammer": {
     "criteria": {
       "has_material": "2025-06-16 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2025-06-16 04:57:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -12557,6 +12695,18 @@
   "adventurez:recipes/ender_flute_recipe": {
     "criteria": {
       "got_the_ender_pearl": "2025-06-16 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/acacia_wine_rack_big": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -12608,6 +12758,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/acacia_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-06-16 04:57:10 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-06-16 04:06:11 +0000"
@@ -12650,6 +12806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-06-16 04:57:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
@@ -12680,6 +12842,12 @@
     },
     "done": true
   },
+  "vinery:recipes/acacia_wine_rack_small": {
+    "criteria": {
+      "has_acacia_planks": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
@@ -12689,6 +12857,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-06-16 04:25:50 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/acacia_support": {
+    "criteria": {
+      "has_plank": "2025-06-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -12707,6 +12881,12 @@
   "mcda:recipes/base_armors/turtle_armor_boots": {
     "criteria": {
       "has_scute": "2025-06-16 03:13:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_corner_trim": {
+    "criteria": {
+      "has_acacia_corner_trim": "2025-06-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -12758,9 +12938,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_bench": {
+    "criteria": {
+      "has_acacia_bench": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-06-16 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_drawer": {
+    "criteria": {
+      "has_acacia_drawer": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:57:12 +0000"
     },
     "done": true
   },
@@ -12782,15 +12980,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_side_table": {
+    "criteria": {
+      "has_acacia_side_table": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_nightstand": {
+    "criteria": {
+      "has_acacia_nightstand": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-16 04:57:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/blaze_rod": {
     "criteria": {
       "has_blaze_powder": "2025-06-16 04:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-16 04:57:10 +0000"
     },
     "done": true
   },
