@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = join_multiplayer_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1726567171060
+  last_edited_time = 1748211818888
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:e7e24eac-e884-4230-980d-6e38fbb80e42-1726567169235] = [groups:][instances:]
+  [loading_requirement_container_meta:3df37205-0f8d-465f-a6c0-eeb9eb031cbc-1748211635644] = [groups:][instances:]
 }
 
 customization {
@@ -29,6 +29,11 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
 }
 
 vanilla_button {

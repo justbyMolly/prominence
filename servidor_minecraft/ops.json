@@ -1,7 +1,13 @@
 [
   {
-    "uuid": "984c4811-73c4-3e6e-8751-7c2a2f7b7ccc",
-    "name": "A1lenSS",
+    "uuid": "ae65d232-9e2e-388b-b9f8-5eb2a1405241",
+    "name": "Allend",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "04119725-223a-4b91-afe4-edf315e96273",
+    "name": "Allend",
     "level": 4,
     "bypassesPlayerLimit": false
   }

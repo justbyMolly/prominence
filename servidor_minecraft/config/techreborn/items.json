@@ -56,6 +56,10 @@
       "comment": "Energy Capacity for Advanced Jackhammer",
       "value": 100000
     },
+    "nanoArmorEnergyCost": {
+      "comment": "Nano Suit Energy Cost",
+      "value": 100
+    },
     "electricTreetapCost": {
       "comment": "Energy Cost for Electric Treetap",
       "value": 50
@@ -143,6 +147,10 @@
     "rockCutterCost": {
       "comment": "Energy Cost for Rock Cutter",
       "value": 10
+    },
+    "nanoSuitNightVisionCost": {
+      "comment": "suitNightVisionCost Compatible with other old mods",
+      "value": 1
     },
     "advancedJackhammerCost": {
       "comment": "Energy Cost for Advanced Jackhammer",

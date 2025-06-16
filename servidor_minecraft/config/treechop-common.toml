@@ -21,6 +21,8 @@
 		canBeFalse = true
 		canBeTrue = true
 [general]
+	#If true, chopped logs will drop a log item immediately instead of waiting for the tree to be felled, restoring legacy behavior. Does nothing if dropLootForChoppedBlocks is false
+	dropLootOnFirstChop = false
 	#If false, log items will be destroyed when chopping
 	dropLootForChoppedBlocks = true
 [treeDetection]

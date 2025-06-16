@@ -47,7 +47,9 @@
 [world]
 	#Should this mod add some of its items (ropes, seeds, knives, meals etc.) as extra chest loot across Minecraft?
 	generateFDChestLoot = true
-	#Generate Compost Heaps across all village biomes
+	#Should FD crops show up planted randomly in various village farms?
+	genFDCropsOnVillageFarms = true
+	#Should FD generate Compost Heaps across all village biomes?
 	genVillageCompostHeaps = true
 
 	#Sea Beet generation

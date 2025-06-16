@@ -211,6 +211,10 @@
 		// Whether to hook Ars Nouveau.
 		"hookArsNouveau": true,
 		// Whether to hook Apoli(Origins).
-		"hookApoli": true
+		"hookApoli": true,
+		// Whether to hook Thermoo(Scorchful & Frostiful).
+		"hookThermoo": true,
+		// Whether to hook Meal API.
+		"hookMealApi": true
 	}
 }

@@ -6,6 +6,7 @@
   "leafLifespan": 200,
   "leafSpawnRate": 10,
   "coniferLeafSpawnRate": 0,
+  "cherrySpawnRate": 10,
   "snowflakeSpawnRate": 15,
   "dropFromPlayerPlacedBlocks": true,
   "leavesOnBlockHit": true,
@@ -940,141 +941,6 @@
       "spawnRateFactor": 1.0,
       "isConiferBlock": false,
       "spawnBreakingLeaves": false
-    },
-    "eldritch_end:primordial_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:pink_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:light_blue_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:lime_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:brown_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:white_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:cyan_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:gray_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:magenta_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:orange_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:green_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:purple_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:red_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:nephrite_blossom_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:spirit_sallow_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:light_gray_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:blue_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:black_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:yellow_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "spectrum:jade_vine_petal_block": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "derelict:smoldering_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "derelict:burned_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "thaumon:greatwood_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "thaumon:silverwood_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "thaumon:silverwood_leaf_wall": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "thaumon:silverwood_leaf_post": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
-    },
-    "vinery:dark_cherry_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": true
     }
   },
   "leafSpawners": [],

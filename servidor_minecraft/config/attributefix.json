@@ -1947,6 +1947,17 @@
         "value": 1000
       }
     },
+    "additionalentityattributes:generic.mob_detection_range": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "zenith_attributes:crit_chance": {
       "enabled": false,
       "min": {

@@ -56,6 +56,8 @@
 		"rightClickUnequip": false,
 		// Allows to use only equipped backpack
 		"allowOnlyEquippedBackpack": false,
+		// Allows opening the backpack by pressing a keybind while hovering over the slot with backpack in the player's inventory
+		"allowOpeningFromSlot": false,
 		// Backpack immune to any damage source (lava, fire), can't be destroyed, never disappears as floating item
 		"invulnerableBackpack": true,
 		// List of items that can be put in tool slots (Use registry names, for example: minecraft:apple, minecraft:flint)
@@ -81,6 +83,9 @@
 	"backpackUpgrades": {
 		"enableTanksUpgrade": true,
 		"enableCraftingUpgrade": true,
+		"enableFurnaceUpgrade": true,
+		"enableSmokerUpgrade": true,
+		"enableBlastFurnaceUpgrade": true,
 		"enableJukeboxUpgrade": true,
 		"pickupUpgradeSettings": {
 			"enableUpgrade": true,
@@ -89,11 +94,13 @@
 		"magnetUpgradeSettings": {
 			"enableUpgrade": true,
 			"filterSlotCount": 9,
-			"pullRange": 5
+			"pullRange": 5,
+			"tickRate": 10
 		},
 		"feedingUpgradeSettings": {
 			"enableUpgrade": true,
-			"filterSlotCount": 9
+			"filterSlotCount": 9,
+			"tickRate": 100
 		},
 		"voidUpgradeSettings": {
 			"enableUpgrade": true,

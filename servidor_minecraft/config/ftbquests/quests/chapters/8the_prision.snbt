@@ -6,11 +6,7 @@
 	icon: "graveyard:dark_iron_bars"
 	id: "419EFD597601A50B"
 	images: [{
-		click: ""
-		corner: false
-		dev: false
 		height: 3.0d
-		hover: [ ]
 		image: "minecells:item/blood_sword"
 		rotation: 0.0d
 		width: 3.0d
@@ -54,7 +50,7 @@
 				{
 					id: "40247E988E658E5A"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecraft:enchanted_book"
 						tag: {
 							StoredEnchantments: [{
@@ -72,7 +68,7 @@
 			tasks: [{
 				entity: "minecells:conjunctivius"
 				icon: {
-					Count: 1b
+					Count: 1
 					id: "minecells:tentacle"
 					tag: {
 						Damage: 0
