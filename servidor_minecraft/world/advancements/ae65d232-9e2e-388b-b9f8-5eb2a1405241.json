@@ -3775,14 +3775,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-06-16 00:53:37 +0000",
       "minecraft:beach": "2025-06-12 04:04:50 +0000",
       "minecraft:dark_forest": "2025-06-12 19:17:01 +0000",
       "minecraft:river": "2025-06-12 03:50:43 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-16 00:48:19 +0000",
       "minecraft:swamp": "2025-06-12 04:04:40 +0000",
       "minecraft:forest": "2025-06-12 19:48:33 +0000",
       "minecraft:ocean": "2025-06-12 03:54:58 +0000",
       "minecraft:windswept_savanna": "2025-06-12 19:46:31 +0000",
-      "minecraft:old_growth_birch_forest": "2025-06-12 19:15:46 +0000"
+      "minecraft:old_growth_birch_forest": "2025-06-12 19:15:46 +0000",
+      "minecraft:savanna": "2025-06-16 00:48:32 +0000"
     },
     "done": false
   },
@@ -12084,6 +12087,90 @@
   "zenith:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-06-13 01:23:58 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_poppet": {
+    "criteria": {
+      "has_item": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/protection_poppet": {
+    "criteria": {
+      "has_item": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/curse_poppet": {
+    "criteria": {
+      "has_item": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/vampiric_poppet": {
+    "criteria": {
+      "has_item": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/mending_poppet": {
+    "criteria": {
+      "has_item": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-06-16 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/fatigue_poppet": {
+    "criteria": {
+      "has_item": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/judgment_poppet": {
+    "criteria": {
+      "has_item": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "acacia_beehive": "2025-06-16 00:55:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/death_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-06-16 00:49:21 +0000"
     },
     "done": true
   },

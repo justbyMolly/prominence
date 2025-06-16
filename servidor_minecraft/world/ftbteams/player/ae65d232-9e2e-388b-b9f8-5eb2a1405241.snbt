@@ -2,9 +2,7 @@
 	id: "ae65d232-9e2e-388b-b9f8-5eb2a1405241"
 	type: "player"
 	player_name: "Allend"
-	ranks: {
-		ae65d232-9e2e-388b-b9f8-5eb2a1405241: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Allend"
 		"ftbteams:description": ""

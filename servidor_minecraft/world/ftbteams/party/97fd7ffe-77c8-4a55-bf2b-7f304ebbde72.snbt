@@ -1,0 +1,22 @@
+{
+	id: "97fd7ffe-77c8-4a55-bf2b-7f304ebbde72"
+	type: "party"
+	owner: "ae65d232-9e2e-388b-b9f8-5eb2a1405241"
+	ranks: {
+		ae65d232-9e2e-388b-b9f8-5eb2a1405241: "owner"
+		828bc346-2d7c-3366-a96a-82d327676e65: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Chupapis"
+		"ftbteams:description": "vega kbro"
+		"ftbteams:color": "#FFCD59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750035417056L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Allend\"}]}" }
+		{ from: "ae65d232-9e2e-388b-b9f8-5eb2a1405241", date: 1750035417074L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"sigan_viendo01\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750035422252L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"sigan_viendo01\"}]}" }
+	]
+	extra: { }
+}
