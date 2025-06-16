@@ -12210,6 +12210,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-06-16 03:07:28 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/scale_mail_boots": {
     "criteria": {
       "has_leather_boots": "2025-06-16 02:04:54 +0000"
@@ -12309,6 +12315,12 @@
   "bewitchment:recipes/tools/death_protection_poppet": {
     "criteria": {
       "has_item": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-06-16 03:07:28 +0000"
     },
     "done": true
   },
