@@ -12114,6 +12114,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/snort_pottery_sherd": {
+    "criteria": {
+      "has_scute": "2025-06-16 03:13:32 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grass_slab": {
     "criteria": {
       "has_grass_block": "2025-06-16 02:36:18 +0000"
@@ -12159,6 +12165,12 @@
   "betterend:recipes/misc/ender_pearl_to_dust": {
     "criteria": {
       "has_item.minecraft.ender_pearl": "2025-06-16 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/turtle_armor_leggings": {
+    "criteria": {
+      "has_scute": "2025-06-16 03:13:32 +0000"
     },
     "done": true
   },
@@ -12240,6 +12252,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/turtle_armor_chestplate": {
+    "criteria": {
+      "has_scute": "2025-06-16 03:13:32 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/judgment_poppet": {
     "criteria": {
       "has_item": "2025-06-16 00:49:21 +0000"
@@ -12264,6 +12282,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/turtle_armor_boots": {
+    "criteria": {
+      "has_scute": "2025-06-16 03:13:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/ender_eye": {
     "criteria": {
       "has_ender_pearl": "2025-06-16 02:36:19 +0000"
@@ -12285,6 +12309,12 @@
   "techreborn:recipes/centrifuge/grass_block": {
     "criteria": {
       "has_grass_block": "2025-06-16 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2025-06-16 03:13:32 +0000"
     },
     "done": true
   },
