@@ -12098,6 +12098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-16 04:25:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2025-06-16 04:06:11 +0000"
@@ -12206,6 +12212,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-06-16 04:28:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/purple_dye_from_purple_coneflower": {
     "criteria": {
       "has_purple_coneflower": "2025-06-16 02:36:23 +0000"
@@ -12239,6 +12251,12 @@
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-06-16 01:22:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-16 04:25:50 +0000"
     },
     "done": true
   },
@@ -12326,6 +12344,18 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_dragon_breath": "2025-06-16 04:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-16 04:25:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_pearl_to_dust": {
     "criteria": {
       "has_item.minecraft.ender_pearl": "2025-06-16 02:36:19 +0000"
@@ -12347,6 +12377,12 @@
   "bewitchment:recipes/tools/curse_poppet": {
     "criteria": {
       "has_item": "2025-06-16 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-16 04:24:09 +0000"
     },
     "done": true
   },
@@ -12428,6 +12464,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-06-16 04:24:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2025-06-16 04:24:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
@@ -12455,6 +12503,12 @@
   "justhammers:recipes/tools/stone_destructor_hammer": {
     "criteria": {
       "has_material": "2025-06-16 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_ember": {
+    "criteria": {
+      "has_core_specification_item": "2025-06-16 04:25:50 +0000"
     },
     "done": true
   },
@@ -12524,6 +12578,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2025-06-16 04:25:50 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-06-16 04:06:11 +0000"
@@ -12584,6 +12644,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/blaze_powder": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-16 04:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
@@ -12617,6 +12683,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-16 04:25:50 +0000"
     },
     "done": true
   },
@@ -12692,6 +12764,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/dragon": {
+    "criteria": {
+      "has_dragon_breath": "2025-06-16 04:28:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_shingles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
@@ -12707,6 +12785,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-06-16 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/blaze_rod": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-16 04:25:50 +0000"
     },
     "done": true
   },
