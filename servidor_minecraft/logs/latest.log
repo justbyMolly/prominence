@@ -2214,3 +2214,8 @@ BCLib - Nether BiomeSource (7c022285)
 [01:27:26] [Server thread/INFO]: Allend claimed a grave belonging to Allend at -260, 62, 1339, minecraft:overworld
 [01:28:08] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-369, y=-50, z=1094}
 [01:33:01] [Server thread/WARN]: Boat (vehicle of Allend) moved wrongly! 0.2872705305906038
+[01:44:40] [Server thread/ERROR]: POI data mismatch: never registered at class_2338{x=214, y=60, z=1392}
+[01:51:29] [Server thread/INFO]: sigan_viendo01 lost connection: Disconnected
+[01:51:29] [Server thread/INFO]: sigan_viendo01 left the game
+[01:51:29] [Server thread/INFO]: remove player wand
+[01:51:29] [Server thread/INFO]: Updating all forceload tickets for 828bc346-2d7c-3366-a96a-82d327676e65
