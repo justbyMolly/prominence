@@ -2151,3 +2151,18 @@ BCLib - The End  BiomeSource (383b731d)
 [03:00:02] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
 [04:02:52] [Server thread/INFO]: Villager class_1646['Bennie'/11361, l='ServerLevel[world]', x=-381.80, y=55.00, z=1289.70] died, message: 'Bennie was slain by Zombie'
 [04:02:52] [Server thread/INFO]: Named entity class_1646['Bennie'/11361, l='ServerLevel[world]', x=-381.80, y=55.00, z=1289.70] died: Bennie was slain by Zombie
+[04:03:27] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-455, y=-40, z=1058}
+[04:03:27] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-454, y=-40, z=1058}
+[04:06:19] [Worker-Main-72/WARN]: Tried to access a block entity before it was created. class_2339{x=-624, y=-52, z=1377}
+[04:06:19] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-627, y=-52, z=1375}
+[04:06:49] [Server thread/INFO]: Allend has made the advancement [Blind as a Bat]
+[04:08:56] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle]] from pos class_2338{x=-555, y=70, z=923}
+[04:09:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4252ms or 85 ticks behind
+[04:09:03] [Worker-Main-90/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[04:09:03] [Worker-Main-90/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[04:09:03] [Worker-Main-90/WARN]: Non-existent template pool reference: ctov:village/bounty/desert
+[04:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20110ms or 402 ticks behind
+[04:09:51] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna_na], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow]] from pos class_2338{x=-597, y=72, z=693}
+[04:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8190ms or 163 ticks behind
+[04:10:44] [Server thread/INFO]: Allend has made the advancement [Mine Cells]
+[04:13:12] [Server thread/INFO]: Allend has made the advancement [Fruits of the Field]

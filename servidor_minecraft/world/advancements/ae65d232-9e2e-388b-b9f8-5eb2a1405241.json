@@ -13082,5 +13082,11 @@
     },
     "done": true
   },
+  "regions_unexplored:blind_as_a_bat": {
+    "criteria": {
+      "duskmelon": "2025-06-17 04:06:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
