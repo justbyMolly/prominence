@@ -2153,3 +2153,6 @@ BCLib - Nether BiomeSource (7b055be8)
 [16:53:00] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [16:54:41] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
 [18:33:56] [Server thread/INFO]: Allend has made the advancement [Juicy Success]
+[18:57:25] [Server thread/INFO]: [Allend: Teleported Allend to -569.500000, 63.500000, 811.500000]
+[18:57:27] [Server thread/INFO]: Allend has made the advancement [Behind bars]
+[18:57:29] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Allend accepted server config.
