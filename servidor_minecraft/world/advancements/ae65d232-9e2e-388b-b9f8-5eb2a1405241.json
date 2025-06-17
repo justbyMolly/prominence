@@ -514,6 +514,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-06-17 04:09:51 +0000",
       "shrubland": "2025-06-11 17:48:35 +0000",
       "bayou": "2025-06-11 16:09:51 +0000",
       "ancient_delta": "2025-06-13 00:30:19 +0000",
@@ -521,19 +522,22 @@
       "rocky_meadow": "2025-06-16 04:07:49 +0000",
       "ochard": "2025-06-13 00:26:52 +0000",
       "flower_fields": "2025-06-13 00:46:08 +0000",
-      "temperate_grove": "2025-06-11 17:47:07 +0000"
+      "temperate_grove": "2025-06-11 17:47:07 +0000",
+      "old_growth_bayou": "2025-06-17 04:11:47 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-06-17 04:09:51 +0000",
       "shrubland": "2025-06-11 17:48:35 +0000",
       "bayou": "2025-06-11 16:09:51 +0000",
       "grassy_beach": "2025-06-12 03:53:10 +0000",
       "rocky_meadow": "2025-06-16 04:07:49 +0000",
       "ochard": "2025-06-13 00:26:52 +0000",
       "flower_fields": "2025-06-13 00:46:08 +0000",
-      "temperate_grove": "2025-06-11 17:47:07 +0000"
+      "temperate_grove": "2025-06-11 17:47:07 +0000",
+      "old_growth_bayou": "2025-06-17 04:11:47 +0000"
     },
     "done": false
   },
@@ -3787,7 +3791,8 @@
       "minecraft:ocean": "2025-06-12 03:54:58 +0000",
       "minecraft:windswept_savanna": "2025-06-12 19:46:31 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-12 19:15:46 +0000",
-      "minecraft:savanna": "2025-06-16 00:48:32 +0000"
+      "minecraft:savanna": "2025-06-16 00:48:32 +0000",
+      "minecraft:plains": "2025-06-17 04:13:12 +0000"
     },
     "done": false
   },
@@ -13082,9 +13087,63 @@
     },
     "done": true
   },
+  "minecells:root": {
+    "criteria": {
+      "requirement": "2025-06-17 04:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/book": {
+    "criteria": {
+      "requirement": "2025-06-17 04:10:44 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-06-17 04:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-17 04:17:52 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
+    "criteria": {
+      "has_seagrass": "2025-06-17 04:15:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:blind_as_a_bat": {
     "criteria": {
       "duskmelon": "2025-06-17 04:06:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/kelp": {
+    "criteria": {
+      "has_kelp": "2025-06-17 04:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-17 04:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-17 04:17:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
+    "criteria": {
+      "has_kelp": "2025-06-17 04:17:52 +0000"
     },
     "done": true
   },
