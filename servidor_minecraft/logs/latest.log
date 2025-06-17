@@ -2149,3 +2149,5 @@ BCLib - The End  BiomeSource (383b731d)
 [02:48:35] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [02:48:35] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [03:00:02] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[04:02:52] [Server thread/INFO]: Villager class_1646['Bennie'/11361, l='ServerLevel[world]', x=-381.80, y=55.00, z=1289.70] died, message: 'Bennie was slain by Zombie'
+[04:02:52] [Server thread/INFO]: Named entity class_1646['Bennie'/11361, l='ServerLevel[world]', x=-381.80, y=55.00, z=1289.70] died: Bennie was slain by Zombie
