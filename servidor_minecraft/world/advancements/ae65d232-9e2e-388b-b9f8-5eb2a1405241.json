@@ -13381,6 +13381,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2025-06-17 19:06:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/plantball_from_leaves": {
     "criteria": {
       "has_leaves": "2025-06-17 18:16:00 +0000"
@@ -13392,6 +13398,12 @@
       "vinery:white_grapejuice": "2025-06-17 18:33:56 +0000"
     },
     "done": false
+  },
+  "minecells:unlock/kill_a_leaping_zombie": {
+    "criteria": {
+      "leaping_zombie_killed": "2025-06-17 19:06:03 +0000"
+    },
+    "done": true
   },
   "betterend:recipes/decorations/dragon_tree_hanging_sign": {
     "criteria": {
@@ -13507,6 +13519,12 @@
     },
     "done": true
   },
+  "simplyswords:ribboncleaver": {
+    "criteria": {
+      "requirement": "2025-06-17 19:10:41 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_mace": {
     "criteria": {
       "has_iron_nugget": "2025-06-17 19:00:51 +0000"
@@ -13582,6 +13600,12 @@
   "betterend:recipes/decorations/jellyshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-06-17 18:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/leaping_zombie": {
+    "criteria": {
+      "requirement": "2025-06-17 19:06:03 +0000"
     },
     "done": true
   },
