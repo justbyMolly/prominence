@@ -13333,5 +13333,23 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/spruce_leaf": {
+    "criteria": {
+      "has_leaves": "2025-06-17 18:16:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_leaves": {
+    "criteria": {
+      "has_leaves": "2025-06-17 18:16:00 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_leaves": "2025-06-17 18:16:00 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
