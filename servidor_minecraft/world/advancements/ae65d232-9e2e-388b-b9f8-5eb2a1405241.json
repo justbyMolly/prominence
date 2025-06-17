@@ -13345,6 +13345,18 @@
     },
     "done": true
   },
+  "vinery:main/nectar_of_life": {
+    "criteria": {
+      "vinery:white_grapejuice": "2025-06-17 18:33:56 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/juicy_success": {
+    "criteria": {
+      "have_any_juice": "2025-06-17 18:33:56 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
     "criteria": {
       "has_leaves": "2025-06-17 18:16:00 +0000"
